@@ -11,7 +11,7 @@ http://bd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESH" ,ATN Islamic TV
 http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
-#EXTINF:-1 group-title="BaNGLADESH" ,ATN MUSIC
+#EXTINF:-1 group-title="BANGLADESH" ,ATN MUSIC
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESH" ,ATN Music(Jagobd)
 http://bd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
@@ -29,7 +29,7 @@ https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.
 https://tempe.jagobd.com:444/live-orgin/dbcnews.stream_480p/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESH" ,Deepto TV
 https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
-#EXTINF:0 group-title="BaNGLADESH" ,Deepto TV
+#EXTINF:0 group-title="BANGLADESH" ,Deepto TV
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deeptotv.stream/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESH" ,Deepto TV HD
 http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
