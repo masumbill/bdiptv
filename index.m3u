@@ -3,11 +3,11 @@
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
 #EXTINF:-1 group-title="Geography" ,Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 group-title="BaNGLADESH" ,Asian TV
+#EXTINF:-1 group-title="BANGLADESH" ,Asian TV
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESH" ,ASIAN TV
 http://bd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
-#EXTINF:-1 group-title="BaNGLADESH" ,ATN Bangla
+#EXTINF:-1 group-title="BANGLADESH" ,ATN Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESH" ,ATN Islamic TV
 http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
@@ -37,7 +37,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
 http://208.86.19.13:81/514.stream/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" ,Ekushay TV HD
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:0 group-title="BaNGLADESH" ,Ekushey TV
+#EXTINF:0 group-title="BANGLADESH" ,Ekushey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="English" ,Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
@@ -45,7 +45,7 @@ https://hncfree-samsungau.amagi.tv/playlist.m3u8
 http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
 #EXTINF:-1 group-title="BANGLADESH" ,I tv
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="BaNGLADESH" ,iB TV USA
+#EXTINF:-1 group-title="BANGLADESH" ,iB TV USA
 http://208.86.19.13:81/509.stream/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" ,INDEPENDENT_HD
 https://tempe.jagobd.com:444/live-orgin/independent-8-org.stream/chunks.m3u8
@@ -63,7 +63,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/nantv.stream/chunks.m3u8
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESH" ,News 24
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
-#EXTINF:0 group-title="BaNGLADESH" ,News 24 HD
+#EXTINF:0 group-title="BANGLADESH" ,News 24 HD
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1 group-title="South Indian" ,One TV (720p)
 http://137.59.86.218:1935/live/onetv/playlist.m3u8
@@ -103,7 +103,7 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 group-title="Indian Bangla" ,Sony Max 2
 http://208.86.19.13:81/7300.stream/index.m3u8
-#EXTINF:0 group-title="BaNGLADESH" ,Movie Bangla
+#EXTINF:0 group-title="BANGLADESH" ,Movie Bangla
 https://bd.jagobd.com:444/live-orgin/moviebanglalink2.stream/playlist.m3u8
 #EXTINF:0 group-title="Children" ,Chu Chu TV
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/906
@@ -135,7 +135,7 @@ https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:0 group-title="News" ,CNN International [EU]
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0 group-title="BaNGLADESH" ,DBC [bd]
+#EXTINF:0 group-title="BANGLADESH" ,DBC [bd]
 https://live.bongobd.com/hls/zju8o_mUv8-9hg4OiPKW2Q/1700828239/sky-dbc-news_low/index.m3u8
 #EXTINF:0 group-title="Cricket" ,Sports 18
 http://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
@@ -151,5 +151,5 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
 #EXTINF:0 group-title="Indian Bangla" ,Star Jalsha
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
-#EXTINF:0 group-title="BaNGLADESH" ,Ekushay TV (BDIX)
+#EXTINF:0 group-title="BANGLADESH" ,Ekushay TV (BDIX)
 https://ekusheyserver.com/etvlivesn.m3u8
