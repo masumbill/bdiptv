@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Indian Bangla" ,ABP Ananda
-https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
-#EXTINF:-1 group-title="Geography" ,Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESH" ,Asian TV
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESH" ,ASIAN TV
@@ -17,14 +13,14 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
 http://bd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESH" ,Banglavision HD
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
+#EXTINF:-1 group-title="BANGLADESH" ,Banglavision HD 1
+http://103.205.133.21/hls/banglavision.m3u8?token=soheliptv01826655778
 #EXTINF:-1 group-title="BANGLADESH" ,Channel 24
 http://bd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESH" ,CHANNEL 24
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESH" ,CHANNEL 24 [BD]
 https://bd.jagobd.com:444/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 group-title="Indian Bangla" ,Colors Bangla HD
-https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-1 group-title="BANGLADESH" ,DBC_NEWS_HD
 https://tempe.jagobd.com:444/live-orgin/dbcnews.stream_480p/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESH" ,Deepto TV
@@ -39,8 +35,6 @@ http://208.86.19.13:81/514.stream/index.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:0 group-title="BANGLADESH" ,Ekushey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 group-title="English" ,Horse and Country
-https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESH" ,I  TV [BD]
 http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
 #EXTINF:-1 group-title="BANGLADESH" ,I tv
@@ -55,38 +49,58 @@ http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 http://bd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESH" ,Jamuna TV
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1 group-title="English" ,Lotus Macau
-http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 group-title="BANGLADESH" ,NAN TV
 http://iptvbd.jagobd.com:1931/live-orgin/nantv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Geography" ,National Geographic Wild
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESH" ,News 24
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:0 group-title="BANGLADESH" ,News 24 HD
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
-#EXTINF:-1 group-title="South Indian" ,One TV (720p)
-http://137.59.86.218:1935/live/onetv/playlist.m3u8
-#EXTINF:-1 group-title="South Indian" ,Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESH" ,Pen TV
 http://iptvbd.jagobd.com:1931/live-orgin/boulive.stream/chunks.m3u8
-#EXTINF:0 group-title="Geography" ,Redbull
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="English" ,ROCK ACTION
-http://210.210.155.37/dr9445/h/h15/index.m3u8
-#EXTINF:-1 group-title="English" ,ROCK ENTERTAINMENT
-http://210.210.155.37/dr9445/h/h16/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" ,RTV
 https://tempe.jagobd.com:444/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESH" ,RTV HD
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 group-title="BANGLADESH" ,Somoy TV
+#EXTINF:-1 group-title="BANGLADESH" ,Somoy TV 1
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1 group-title="BANGLADESH" ,Somoy TV 2
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:0 group-title="BANGLADESH" ,Movie Bangla
+https://bd.jagobd.com:444/live-orgin/moviebanglalink2.stream/playlist.m3u8
+#EXTINF:0 group-title="BANGLADESH" ,DBC [bd]
+https://live.bongobd.com/hls/zju8o_mUv8-9hg4OiPKW2Q/1700828239/sky-dbc-news_low/index.m3u8
+#EXTINF:0 group-title="BANGLADESH" ,Ekushay TV (BDIX)
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:0 group-title="BANGLADESH" ,NRB TV  [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
+#EXTINF:0 group-title="CARTOON" ,TOM & JERRY
+http://sonyiptv.net:8080/2244/2244/124006
+#EXTINF:0 group-title="Children" ,Chu Chu TV
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/906
+#EXTINF:0 group-title="Cricket" ,Sports 18
+http://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 group-title="English" ,Horse and Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="English" ,Lotus Macau
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 group-title="English" ,ROCK ACTION
+http://210.210.155.37/dr9445/h/h15/index.m3u8
+#EXTINF:-1 group-title="English" ,ROCK ENTERTAINMENT
+http://210.210.155.37/dr9445/h/h16/index.m3u8
+#EXTINF:0 group-title="English" ,MTV
+http://sonyiptv.net:8080/2244/2244/122825
+#EXTINF:-1 group-title="Geography" ,Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:-1 group-title="Geography" ,National Geographic Wild
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:0 group-title="Geography" ,Redbull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 group-title="Geography" ,Travel XP HD
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Geography" ,Wild EARTH
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 group-title="Indian" ,SONY
 http://45.5.117.182:8000/play/a0ho/index.m3u8
-#EXTINF:-1 group-title="Indian Bangla" ,Sony ATT
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 group-title="Indian" ,Star Bharat HD
 http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
 #EXTINF:-1 group-title="Indian" ,Star Gold
@@ -95,26 +109,76 @@ http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="Indian" ,STAR PLUS HD (IN)
 http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8?token=test
-#EXTINF:0 group-title="Geography" ,Travel XP HD
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Geography" ,Wild EARTH
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 group-title="Indian" ,ZEE_ActIon_HD
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:0 group-title="Indian" ,B4U Music
+http://sonyiptv.net:8080/2244/2244/38837
+#EXTINF:0 group-title="Indian" ,BINDASS
+http://sonyiptv.net:8080/2244/2244/123312
+#EXTINF:0 group-title="Indian" ,DHINCHAAK
+http://sonyiptv.net:8080/2244/2244/51
+#EXTINF:0 group-title="Indian" ,9XM [480p]
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 group-title="Indian" ,ZEE TV HD
+http://sonyiptv.net:8080/2244/2244/13
+#EXTINF:0 group-title="Indian" ,SONY SET HD
+http://sonyiptv.net:8080/2244/2244/15
+#EXTINF:0 group-title="Indian" ,STAR PLUS
+http://sonyiptv.net:8080/2244/2244/17
+#EXTINF:0 group-title="Indian" ,COLORS HD
+http://sonyiptv.net:8080/2244/2244/19
+#EXTINF:0 group-title="Indian" ,STAR BHARAT
+http://sonyiptv.net:8080/2244/2244/21
+#EXTINF:0 group-title="Indian" ,& TV
+http://sonyiptv.net:8080/2244/2244/23
+#EXTINF:0 group-title="Indian" ,SONY SAB HD
+http://sonyiptv.net:8080/2244/2244/25
+#EXTINF:0 group-title="Indian" ,STAR GOLD SELECT
+http://sonyiptv.net:8080/2244/2244/28
+#EXTINF:0 group-title="Indian" ,STAR GOLD HD
+http://sonyiptv.net:8080/2244/2244/29
+#EXTINF:0 group-title="Indian" ,STAR GOLD 2
+http://sonyiptv.net:8080/2244/2244/31
+#EXTINF:0 group-title="Indian" ,SONY MAX 2
+http://sonyiptv.net:8080/2244/2244/32
+#EXTINF:0 group-title="Indian" ,SONY MAX
+http://sonyiptv.net:8080/2244/2244/33
+#EXTINF:0 group-title="Indian" ,& PICTURES HD
+http://sonyiptv.net:8080/2244/2244/35
+#EXTINF:0 group-title="Indian" ,ZEE CINEMA
+http://sonyiptv.net:8080/2244/2244/37
+#EXTINF:-1 group-title="Indian Bangla" ,ABP Ananda
+https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
+#EXTINF:-1 group-title="Indian Bangla" ,Colors Bangla HD
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+#EXTINF:-1 group-title="Indian Bangla" ,Sony ATT
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:0 group-title="Indian Bangla" ,Sony Max 2
 http://208.86.19.13:81/7300.stream/index.m3u8
-#EXTINF:0 group-title="BANGLADESH" ,Movie Bangla
-https://bd.jagobd.com:444/live-orgin/moviebanglalink2.stream/playlist.m3u8
-#EXTINF:0 group-title="Children" ,Chu Chu TV
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/906
+#EXTINF:0 group-title="Indian Bangla" ,Sony AAT
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#EXTINF:0 group-title="Indian Bangla" ,Zee Bangla HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
+#EXTINF:0 group-title="Indian Bangla" ,Star Jalsha
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
+#EXTINF:0 group-title="Islamic" ,Pan Vision
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/chunks.m3u8
+#EXTINF:0 group-title="News" ,Bloomberg TV
+https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:0 group-title="News" ,CNN International [EU]
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="South Indian" ,One TV (720p)
+http://137.59.86.218:1935/live/onetv/playlist.m3u8
+#EXTINF:-1 group-title="South Indian" ,Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="South Indian" ,PUNJABI MOVIE 01
+http://sonyiptv.net:8080/2244/2244/141380
 #EXTINF:0 group-title="Sports" ,Abu Dhabi Sports
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:0 group-title="Sports" ,Bahrain Sports
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:0 group-title="Sports" ,CDR
 https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8
-#EXTINF:0 group-title="Indian Bangla" ,Sony AAT
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:0 group-title="Sports" ,DSTV
 http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
 #EXTINF:0 group-title="Sports" ,Dubai Racing
@@ -129,16 +193,8 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:0 group-title="Sports" ,Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-#EXTINF:0 group-title="News" ,Bloomberg TV
-https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:0 group-title="Sports" ,Bloomberg TV EU
 https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:0 group-title="News" ,CNN International [EU]
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0 group-title="BANGLADESH" ,DBC [bd]
-https://live.bongobd.com/hls/zju8o_mUv8-9hg4OiPKW2Q/1700828239/sky-dbc-news_low/index.m3u8
-#EXTINF:0 group-title="Cricket" ,Sports 18
-http://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
 #EXTINF:0 group-title="Sports" ,Viaplay Exrtra
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 #EXTINF:0 group-title="Sports" ,MATH [RU]
@@ -147,9 +203,702 @@ https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:0 group-title="Sports" ,Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="Indian Bangla" ,Zee Bangla HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
-#EXTINF:0 group-title="Indian Bangla" ,Star Jalsha
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
-#EXTINF:0 group-title="BANGLADESH" ,Ekushay TV (BDIX)
-https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:0 group-title="Sports" ,PTV Sports [pk}
+http://sonyiptv.net:8080/2244/2244/111409
+#EXTINF:0 group-title="Indian" ,ZEE CINEMA
+http://sonyiptv.net:8080/2244/2244/37
+#EXTINF:0 group-title="Indian" ,COLORS CINEPLEX
+http://sonyiptv.net:8080/2244/2244/43
+#EXTINF:0 group-title="Indian" ,ZEE ACTION
+http://sonyiptv.net:8080/2244/2244/50
+#EXTINF:0 group-title="Indian" ,COLOR RISHTE
+http://sonyiptv.net:8080/2244/2244/52
+#EXTINF:0 group-title="Indian" ,& FLIX
+http://sonyiptv.net:8080/2244/2244/55
+#EXTINF:0 group-title="Indian" ,COLOUR CINEPLEX BOLLYWOO
+COLOUR CINEPLEX BOLLYWOO
+#EXTINF:0 group-title="Indian" ,B4U MOVIE
+http://sonyiptv.net:8080/2244/2244/60
+#EXTINF:0 group-title="Indian" ,MANORANJAN MOVIE
+http://sonyiptv.net:8080/2244/2244/63
+#EXTINF:0 group-title="Indian" ,SONY PIX
+http://sonyiptv.net:8080/2244/2244/75
+#EXTINF:0 group-title="Indian" ,STAR UTSAV
+http://sonyiptv.net:8080/2244/2244/103
+#EXTINF:0 group-title="Indian" ,ZING
+http://sonyiptv.net:8080/2244/2244/106
+#EXTINF:0 group-title="Indian" ,MOVIE NOW
+http://sonyiptv.net:8080/2244/2244/113
+#EXTINF:0 group-title="Indian" ,MOVIE ACTIVE
+http://sonyiptv.net:8080/2244/2244/118
+#EXTINF:0 group-title="English" ,STAR WORLD ENGLISH HD
+http://sonyiptv.net:8080/2244/2244/52223
+#EXTINF:0 group-title="Indian" ,STAR WORLD PREMIER
+http://sonyiptv.net:8080/2244/2244/52224
+#EXTINF:0 group-title="Indian" ,STAR MOVIES SELECT ENGLISH
+http://sonyiptv.net:8080/2244/2244/52225
+#EXTINF:0 group-title="Indian" ,ENTER 10 MOVIE
+http://sonyiptv.net:8080/2244/2244/52231
+#EXTINF:0 group-title="Indian" ,BIG MAGIC
+http://sonyiptv.net:8080/2244/2244/52404
+#EXTINF:0 group-title="Indian" ,ZEE CLASSIC
+http://sonyiptv.net:8080/2244/2244/70255
+#EXTINF:0 group-title="Indian" ,HBO HD
+http://sonyiptv.net:8080/2244/2244/71199
+#EXTINF:0 group-title="Indian" ,CINE ACTIVE
+http://sonyiptv.net:8080/2244/2244/125292
+#EXTINF:0 group-title="Indian" ,COMEDY ACTIVE
+http://sonyiptv.net:8080/2244/2244/125293
+#EXTINF:0 group-title="Indian" ,GOLD MINES BOLLYWOOD
+http://sonyiptv.net:8080/2244/2244/134301
+#EXTINF:0 group-title="Indian" ,GOLD MINES
+http://sonyiptv.net:8080/2244/2244/141381
+#EXTINF:0 group-title="Indian" ,KHUSHBOO TV
+http://sonyiptv.net:8080/2244/2244/142889
+#EXTINF:0 group-title="Sports" ,18 SPORTS HD
+http://sonyiptv.net:8080/2244/2244/52077
+#EXTINF:0 group-title="Cricket" ,GEO SUPER HD
+http://sonyiptv.net:8080/2244/2244/52080
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 1 HD" tvg-logo="http://filex.tv:8080/images/91b082932cd749b2f5901584b078fea2.png" group-title="CRICKET",SONY TEN 1 HD
+http://sonyiptv.net:8080/2244/2244/52083
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2 HD" tvg-logo="http://filex.tv:8080/images/7c01d33d407b043d4e6bde3333027505.png" group-title="CRICKET",SONY TEN 2 HD
+http://sonyiptv.net:8080/2244/2244/52085
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 3 HD" tvg-logo="http://filex.tv:8080/images/25530a31c5d8d360c8ab2f40db10215e.png" group-title="CRICKET",SONY TEN 3 HD
+http://sonyiptv.net:8080/2244/2244/52086
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="http://filex.tv:8080/images/49262566acaa5b4680908ee4c851d6ff.png" group-title="CRICKET",STAR SPORTS 1 HD
+http://sonyiptv.net:8080/2244/2244/52094
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="http://filex.tv:8080/images/cbd5bfac451fe6e0d9712c213952164d.png" group-title="CRICKET",STAR SPORTS 2 HD
+http://sonyiptv.net:8080/2244/2244/52096
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://i.ibb.co/rbgvLYd/Star-Sports-Select-1-X-Vision.png" group-title="CRICKET",STAR SPORTS SELECT 1 HD
+http://sonyiptv.net:8080/2244/2244/52098
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://i.ibb.co/dPP0vQS/Star-Sports-Select-2-X-Vision.png" group-title="CRICKET",STAR SPORTS SELECT 2 HD
+http://sonyiptv.net:8080/2244/2244/52100
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS CRICKET HD" tvg-logo="http://filex.tv:8080/images/cc25a2b0a4ce7c011bcaf719e6c524c3.png" group-title="CRICKET",SKY SPORTS CRICKET HD
+http://sonyiptv.net:8080/2244/2244/52102
+#EXTINF:-1 tvg-id="" tvg-name="TEN SPORTS HD" tvg-logo="http://sonyiptv.net:8080/images/085cd7b634f82c02e429f158d225db6f.png" group-title="CRICKET",TEN SPORTS HD
+http://sonyiptv.net:8080/2244/2244/52106
+#EXTINF:-1 tvg-id="" tvg-name="DD SPORTS" tvg-logo="http://filex.tv:8080/images/1fd5a426e1d04bedcab2bd12431e3ed2.png" group-title="CRICKET",DD SPORTS
+http://sonyiptv.net:8080/2244/2244/52107
+#EXTINF:-1 tvg-id="" tvg-name="WILLOW CRICKET HD" tvg-logo="http://filex.tv:8080/images/b47b2270c7c4339edf5f84a3de8c9366.png" group-title="CRICKET",WILLOW CRICKET HD
+http://sonyiptv.net:8080/2244/2244/52109
+#EXTINF:-1 tvg-id="" tvg-name="SONY SIX HD" tvg-logo="http://filex.tv:8080/images/652dffdb01e818ebaf040ea86613d035.png" group-title="CRICKET",SONY SIX HD
+http://sonyiptv.net:8080/2244/2244/52232
+#EXTINF:-1 tvg-id="" tvg-name="SUPER SPORTS CRICKET " tvg-logo="" group-title="CRICKET",SUPER SPORTS CRICKET 
+http://sonyiptv.net:8080/2244/2244/53044
+#EXTINF:-1 tvg-id="" tvg-name="ARY SPORTS HD" tvg-logo="" group-title="CRICKET",ARY SPORTS HD
+http://sonyiptv.net:8080/2244/2244/62393
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HINDI FHD " tvg-logo="" group-title="CRICKET",STAR SPORTS 1 HINDI FHD 
+http://sonyiptv.net:8080/2244/2244/90342
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD *" tvg-logo="http://filex.tv:8080/images/8e44876f47fc16e39d73934adb1b6ba0.png" group-title="CRICKET",ASTRO CRICKET HD *
+http://sonyiptv.net:8080/2244/2244/99833
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1 HD" tvg-logo="" group-title="CRICKET",BT SPORTS 1 HD
+http://sonyiptv.net:8080/2244/2244/111985
+#EXTINF:-1 tvg-id="" tvg-name="T SPORTS HD" tvg-logo="" group-title="CRICKET",T SPORTS HD
+http://sonyiptv.net:8080/2244/2244/122818
+
+
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| ASIANET HD" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/ASIANETHD.png" group-title="IN | MALAYALAM",|MALAYALAM| ASIANET HD
+http://sonyiptv.net:8080/2244/2244/187316
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| ASIANET MOVIE" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/ASIANETMOVIE.png" group-title="IN | MALAYALAM",|MALAYALAM| ASIANET MOVIE
+http://sonyiptv.net:8080/2244/2244/187317
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| ASIANET NEWS HD" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/ASIANETNEWSHD.png" group-title="IN | MALAYALAM",|MALAYALAM| ASIANET NEWS HD
+http://sonyiptv.net:8080/2244/2244/187318
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| ASIANET PLUS" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/ASIANETPLUS.png" group-title="IN | MALAYALAM",|MALAYALAM| ASIANET PLUS
+http://sonyiptv.net:8080/2244/2244/187319
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| DD MALAYALAM" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/DDMALAYALAM.png" group-title="IN | MALAYALAM",|MALAYALAM| DD MALAYALAM
+http://sonyiptv.net:8080/2244/2244/187320
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM|  KAIRALI NEWS" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/KAIRALINEWS.png" group-title="IN | MALAYALAM",|MALAYALAM|  KAIRALI NEWS
+http://sonyiptv.net:8080/2244/2244/187321
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM|  KAUMUDY" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/KAUMUDY.png" group-title="IN | MALAYALAM",|MALAYALAM|  KAUMUDY
+http://sonyiptv.net:8080/2244/2244/187322
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM|  SHOLAM TV" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/SHOLAMTV.png" group-title="IN | MALAYALAM",|MALAYALAM|  SHOLAM TV
+http://sonyiptv.net:8080/2244/2244/187323
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| AMRITHA TV" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/AMRITHATV.png" group-title="IN | MALAYALAM",|MALAYALAM| AMRITHA TV
+http://sonyiptv.net:8080/2244/2244/187324
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| MIDDLE EAST" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/MIDDLEEAST.png" group-title="IN | MALAYALAM",|MALAYALAM| MIDDLE EAST
+http://sonyiptv.net:8080/2244/2244/187325
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| FLOWERS TV" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/FLOWERSTV.png" group-title="IN | MALAYALAM",|MALAYALAM| FLOWERS TV
+http://sonyiptv.net:8080/2244/2244/187326
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| JAIHIND TV" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/JAIHINDTV.png" group-title="IN | MALAYALAM",|MALAYALAM| JAIHIND TV
+http://sonyiptv.net:8080/2244/2244/187327
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| JANAM TV" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/JANAMTV.png" group-title="IN | MALAYALAM",|MALAYALAM| JANAM TV
+http://sonyiptv.net:8080/2244/2244/187328
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| KAIRALI ARABIA" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/KAIRALIARABIA.png" group-title="IN | MALAYALAM",|MALAYALAM| KAIRALI ARABIA
+http://sonyiptv.net:8080/2244/2244/187329
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| KAIRALI PEOPLE TV" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/KAIRALIPEOPLETV.png" group-title="IN | MALAYALAM",|MALAYALAM| KAIRALI PEOPLE TV
+http://sonyiptv.net:8080/2244/2244/187330
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| REPORTER TV YUPP" tvg-logo="http://178.211.143.40:81/logos/ASIA/3/REPORTER%20TV.png" group-title="IN | MALAYALAM",|MALAYALAM| REPORTER TV YUPP
+http://sonyiptv.net:8080/2244/2244/187331
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| POWER VISION" tvg-logo="" group-title="IN | MALAYALAM",|MALAYALAM| POWER VISION
+http://sonyiptv.net:8080/2244/2244/187332
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| KAPPA TV" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/KAPPATV.png" group-title="IN | MALAYALAM",|MALAYALAM| KAPPA TV
+http://sonyiptv.net:8080/2244/2244/187333
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| KOCHU TV" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/KOCHUTV.png" group-title="IN | MALAYALAM",|MALAYALAM| KOCHU TV
+http://sonyiptv.net:8080/2244/2244/187334
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| MEDIA ONE NEWS" tvg-logo="http://178.211.143.40:81/logos/ASIA/3/MEDIA%20ONE%20NEWs.png" group-title="IN | MALAYALAM",|MALAYALAM| MEDIA ONE NEWS
+http://sonyiptv.net:8080/2244/2244/187335
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| MANORAMA NEWS" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/MANORAMANEWS.png" group-title="IN | MALAYALAM",|MALAYALAM| MANORAMA NEWS
+http://sonyiptv.net:8080/2244/2244/187336
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| MATHRUBHUMI NEWS" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/MATHRUBHUMINEWS.png" group-title="IN | MALAYALAM",|MALAYALAM| MATHRUBHUMI NEWS
+http://sonyiptv.net:8080/2244/2244/187337
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| MAZAVIL MANORAMA HD" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/MANORAMANEWS.png" group-title="IN | MALAYALAM",|MALAYALAM| MAZAVIL MANORAMA HD
+http://sonyiptv.net:8080/2244/2244/187338
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| NEWS 18 KERALA" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/NEWS18KERALA.png" group-title="IN | MALAYALAM",|MALAYALAM| NEWS 18 KERALA
+http://sonyiptv.net:8080/2244/2244/187339
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| RAJ MUSIC" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/RAJMUSIC.png" group-title="IN | MALAYALAM",|MALAYALAM| RAJ MUSIC
+http://sonyiptv.net:8080/2244/2244/187340
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| RAJ NEWS MALAYALAM" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/RAJNEWSMALAYALAM.png" group-title="IN | MALAYALAM",|MALAYALAM| RAJ NEWS MALAYALAM
+http://sonyiptv.net:8080/2244/2244/187341
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| SAFARI TV" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/SAFARITV.png" group-title="IN | MALAYALAM",|MALAYALAM| SAFARI TV
+http://sonyiptv.net:8080/2244/2244/187342
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| SURYA MOVIES" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/SURYAMOVIES.png" group-title="IN | MALAYALAM",|MALAYALAM| SURYA MOVIES
+http://sonyiptv.net:8080/2244/2244/187343
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| SURYA MUSIC" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/SURYAMUSIC.png" group-title="IN | MALAYALAM",|MALAYALAM| SURYA MUSIC
+http://sonyiptv.net:8080/2244/2244/187344
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| SURYA TV HD" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/SURYATVHD.png" group-title="IN | MALAYALAM",|MALAYALAM| SURYA TV HD
+http://sonyiptv.net:8080/2244/2244/187345
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| WE TV" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/WETV.png" group-title="IN | MALAYALAM",|MALAYALAM| WE TV
+http://sonyiptv.net:8080/2244/2244/187346
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| 24 NEWS MALAYALAM" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/24NEWSMALAYALAM.png" group-title="IN | MALAYALAM",|MALAYALAM| 24 NEWS MALAYALAM
+http://sonyiptv.net:8080/2244/2244/187347
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| SURYA COMEDY" tvg-logo="http://178.211.143.40:81/logos/3/SURYACOMEDY.png" group-title="IN | MALAYALAM",|MALAYALAM| SURYA COMEDY
+http://sonyiptv.net:8080/2244/2244/187348
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| ZEE KERALAM HD" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/MALAYALAM/ZEEKERALAMHD.png" group-title="IN | MALAYALAM",|MALAYALAM| ZEE KERALAM HD
+http://sonyiptv.net:8080/2244/2244/187349
+#EXTINF:-1 tvg-id="" tvg-name="|MALAYALAM| REPORTER TV SD" tvg-logo="http://178.211.143.40:81/logos/ASIA/3/REPORTER%20TV.png" group-title="IN | MALAYALAM",|MALAYALAM| REPORTER TV SD
+http://sonyiptv.net:8080/2244/2244/187350
+#EXTINF:-1 tvg-id="" tvg-name="|IN.GUJ| ABP ASMITA HD" tvg-logo="" group-title="IN | GUJRATI",|IN.GUJ| ABP ASMITA HD
+http://sonyiptv.net:8080/2244/2244/187351
+#EXTINF:-1 tvg-id="" tvg-name="|IN.GUJ| CNBC Bajar GUJRATI HD" tvg-logo="" group-title="IN | GUJRATI",|IN.GUJ| CNBC Bajar GUJRATI HD
+http://sonyiptv.net:8080/2244/2244/187352
+#EXTINF:-1 tvg-id="" tvg-name="|IN.GUJ| GS TV HD" tvg-logo="" group-title="IN | GUJRATI",|IN.GUJ| GS TV HD
+http://sonyiptv.net:8080/2244/2244/187353
+#EXTINF:-1 tvg-id="" tvg-name="|IN.GUJ| Mantavya News Gujrat" tvg-logo="" group-title="IN | GUJRATI",|IN.GUJ| Mantavya News Gujrat
+http://sonyiptv.net:8080/2244/2244/187354
+#EXTINF:-1 tvg-id="" tvg-name="|IN.GUJ| NEWS 18 GUJARATI HD" tvg-logo="" group-title="IN | GUJRATI",|IN.GUJ| NEWS 18 GUJARATI HD
+http://sonyiptv.net:8080/2244/2244/187355
+#EXTINF:-1 tvg-id="" tvg-name="|IN.GUJ| Sandesh News HD" tvg-logo="" group-title="IN | GUJRATI",|IN.GUJ| Sandesh News HD
+http://sonyiptv.net:8080/2244/2244/187356
+#EXTINF:-1 tvg-id="" tvg-name="|IN.GUJ| SANSKAR TV HD" tvg-logo="" group-title="IN | GUJRATI",|IN.GUJ| SANSKAR TV HD
+http://sonyiptv.net:8080/2244/2244/187357
+#EXTINF:-1 tvg-id="" tvg-name="|IN.GUJ| TV9 GUJARATI HD" tvg-logo="" group-title="IN | GUJRATI",|IN.GUJ| TV9 GUJARATI HD
+http://sonyiptv.net:8080/2244/2244/187358
+#EXTINF:-1 tvg-id="" tvg-name="|IN.GUJ| ZEE 24 KALAK" tvg-logo="" group-title="IN | GUJRATI",|IN.GUJ| ZEE 24 KALAK
+http://sonyiptv.net:8080/2244/2244/187359
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IN | GUJRATI",
+http://sonyiptv.net:8080/2244/2244/187360
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| CNBC AAWAZ" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/CNBCAAWAZ.png" group-title="IN | GUJRATI",|GUJARATI| CNBC AAWAZ
+http://sonyiptv.net:8080/2244/2244/187361
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| CNBC BAZAR" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/CNBCBAZAR.png" group-title="IN | GUJRATI",|GUJARATI| CNBC BAZAR
+http://sonyiptv.net:8080/2244/2244/187362
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| COLORS GUJARATI" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/COLORSGUJARATI.png" group-title="IN | GUJRATI",|GUJARATI| COLORS GUJARATI
+http://sonyiptv.net:8080/2244/2244/187363
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| COLORS GUJARATI CINEMA" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/COLORSGUJARATICINEMA.png" group-title="IN | GUJRATI",|GUJARATI| COLORS GUJARATI CINEMA
+http://sonyiptv.net:8080/2244/2244/187364
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| GSTV" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/GSTV.png" group-title="IN | GUJRATI",|GUJARATI| GSTV
+http://sonyiptv.net:8080/2244/2244/187365
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| INDIA NEWS GUJARAT" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/INDIANEWSGUJARAT.png" group-title="IN | GUJRATI",|GUJARATI| INDIA NEWS GUJARAT
+http://sonyiptv.net:8080/2244/2244/187366
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| KARTAVYA TV" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/KARTAVYATV.png" group-title="IN | GUJRATI",|GUJARATI| KARTAVYA TV
+http://sonyiptv.net:8080/2244/2244/187367
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| LAKSHYA TV HD" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/LAKSHYATVHD.png" group-title="IN | GUJRATI",|GUJARATI| LAKSHYA TV HD
+http://sonyiptv.net:8080/2244/2244/187368
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| MANTAVYA NEWS" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/MANTAVYANEWS.png" group-title="IN | GUJRATI",|GUJARATI| MANTAVYA NEWS
+http://sonyiptv.net:8080/2244/2244/187369
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| SANDESH NEWS" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/SANDESHNEWS.png" group-title="IN | GUJRATI",|GUJARATI| SANDESH NEWS
+http://sonyiptv.net:8080/2244/2244/187370
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| TV9 NEWS" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/TV9NEWS.png" group-title="IN | GUJRATI",|GUJARATI| TV9 NEWS
+http://sonyiptv.net:8080/2244/2244/187371
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| VANDE GUJARATI 1" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/VANDEGUJARATI1.png" group-title="IN | GUJRATI",|GUJARATI| VANDE GUJARATI 1
+http://sonyiptv.net:8080/2244/2244/187372
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| VANDE GUJARATI 2" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/VANDE%20GUJARATI2.png" group-title="IN | GUJRATI",|GUJARATI| VANDE GUJARATI 2
+http://sonyiptv.net:8080/2244/2244/187373
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| VANDE GUJARATI 3" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/VANDE%20GUJARATI3.png" group-title="IN | GUJRATI",|GUJARATI| VANDE GUJARATI 3
+http://sonyiptv.net:8080/2244/2244/187374
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| VANDE GUJARATI 4" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/VANDE%20GUJARATI4.png" group-title="IN | GUJRATI",|GUJARATI| VANDE GUJARATI 4
+http://sonyiptv.net:8080/2244/2244/187375
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| VANDE GUJARATI 5" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/VANDE%20GUJARATI5.png" group-title="IN | GUJRATI",|GUJARATI| VANDE GUJARATI 5
+http://sonyiptv.net:8080/2244/2244/187376
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| VANDE GUJARATI 6" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/VANDE%20GUJARATI6.png" group-title="IN | GUJRATI",|GUJARATI| VANDE GUJARATI 6
+http://sonyiptv.net:8080/2244/2244/187377
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| VANDE GUJARATI 7" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/VANDE%20GUJARATI7.png" group-title="IN | GUJRATI",|GUJARATI| VANDE GUJARATI 7
+http://sonyiptv.net:8080/2244/2244/187378
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| VANDE GUJARATI 8" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/VANDE%20GUJARATI8.png" group-title="IN | GUJRATI",|GUJARATI| VANDE GUJARATI 8
+http://sonyiptv.net:8080/2244/2244/187379
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| VANDE GUJARATI 9" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/VANDE%20GUJARATI9.png" group-title="IN | GUJRATI",|GUJARATI| VANDE GUJARATI 9
+http://sonyiptv.net:8080/2244/2244/187380
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| VANDE GUJARATI 10" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/VANDE%20GUJARATI10.png" group-title="IN | GUJRATI",|GUJARATI| VANDE GUJARATI 10
+http://sonyiptv.net:8080/2244/2244/187381
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| VANDE GUJARATI 11" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/VANDE%20GUJARATI11.png" group-title="IN | GUJRATI",|GUJARATI| VANDE GUJARATI 11
+http://sonyiptv.net:8080/2244/2244/187382
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| VANDE GUJARATI 12" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/VANDE20GUJARATI12.png" group-title="IN | GUJRATI",|GUJARATI| VANDE GUJARATI 12
+http://sonyiptv.net:8080/2244/2244/187383
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| VANDE GUJARATI 13" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/VANDE%20GUJARATI13.png" group-title="IN | GUJRATI",|GUJARATI| VANDE GUJARATI 13
+http://sonyiptv.net:8080/2244/2244/187384
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| VANDE GUJARATI 14" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/VANDE%20GUJARATI14.png" group-title="IN | GUJRATI",|GUJARATI| VANDE GUJARATI 14
+http://sonyiptv.net:8080/2244/2244/187385
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| VANDE GUJARATI 15" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/VANDE%20GUJARATI15.png" group-title="IN | GUJRATI",|GUJARATI| VANDE GUJARATI 15
+http://sonyiptv.net:8080/2244/2244/187386
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| VANDE GUJARATI 16" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/VANDE%20GUJARATI16.png" group-title="IN | GUJRATI",|GUJARATI| VANDE GUJARATI 16
+http://sonyiptv.net:8080/2244/2244/187387
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| VANDE GUJARATI 17" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/VANDE%20GUJARATI17.png" group-title="IN | GUJRATI",|GUJARATI| VANDE GUJARATI 17
+http://sonyiptv.net:8080/2244/2244/187388
+#EXTINF:-1 tvg-id="" tvg-name="|GUJARATI| ABP ASMITA" tvg-logo="http://logo.ottc.pro:8080//logos/ASIA/GUJARATI/ABPASMITA.png" group-title="IN | GUJRATI",|GUJARATI| ABP ASMITA
+http://sonyiptv.net:8080/2244/2244/187389
+#EXTINF:-1 tvg-id="" tvg-name="FAST SPORTS" tvg-logo="" group-title="CRICKET",FAST SPORTS
+http://sonyiptv.net:8080/2244/2244/188412
+#EXTINF:-1 tvg-id="" tvg-name="MUJRA" tvg-logo="" group-title="MASTI 24/7",MUJRA
+http://sonyiptv.net:8080/2244/2244/189472
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD THRILLS *" tvg-logo="" group-title="INDIAN ENTERTAINMENT",STAR GOLD THRILLS *
+http://sonyiptv.net:8080/2244/2244/189473
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD ROMANCE *" tvg-logo="" group-title="INDIAN ENTERTAINMENT",STAR GOLD ROMANCE *
+http://sonyiptv.net:8080/2244/2244/189474
+#EXTINF:-1 tvg-id="" tvg-name="KHYBER TV" tvg-logo="https://www.lyngsat.com/logo/tv/kk/khyber-middle-east-tv-pk.png" group-title="PAKISTAN ENTERTAINMENT ",KHYBER TV
+http://sonyiptv.net:8080/2244/2244/189484
+#EXTINF:-1 tvg-id="" tvg-name="KHYBER NEWS " tvg-logo="https://www.lyngsat.com/logo/tv/kk/khyber-news-pk.png" group-title="PAKISTAN NEWS",KHYBER NEWS 
+http://sonyiptv.net:8080/2244/2244/189485
+#EXTINF:-1 tvg-id="" tvg-name="MASHRIQ TV *" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mashriq_tv_pk.png" group-title="PAKISTAN NEWS",MASHRIQ TV *
+http://sonyiptv.net:8080/2244/2244/190144
+#EXTINF:-1 tvg-id="" tvg-name="IN: AAJ TAK NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aaj_tak.png" group-title="INDIAN NEWS",IN: AAJ TAK NEWS
+http://sonyiptv.net:8080/2244/2244/190641
+#EXTINF:-1 tvg-id="" tvg-name="IN: ABP NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abp-news-in.png" group-title="INDIAN NEWS",IN: ABP NEWS
+http://sonyiptv.net:8080/2244/2244/190642
+#EXTINF:-1 tvg-id="" tvg-name="IN: NEWS 18 KANNADA" tvg-logo="https://www.lyngsat.com/logo/tv/nn/news-18-india-in.png" group-title="INDIAN NEWS",IN: NEWS 18 KANNADA
+http://sonyiptv.net:8080/2244/2244/190643
+#EXTINF:-1 tvg-id="" tvg-name="IN: INDIA TV NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ii/india_tv_in.png" group-title="INDIAN NEWS",IN: INDIA TV NEWS
+http://sonyiptv.net:8080/2244/2244/190644
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-news-in.png" group-title="INDIAN NEWS",IN: ZEE NEWS
+http://sonyiptv.net:8080/2244/2244/190645
+#EXTINF:-1 tvg-id="" tvg-name="IN: Asianet News" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asianet_news.png" group-title="INDIAN NEWS",IN: Asianet News
+http://sonyiptv.net:8080/2244/2244/190646
+#EXTINF:-1 tvg-id="" tvg-name="IN: Asianet News 4K+" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asianet_news.png" group-title="INDIAN NEWS",IN: Asianet News 4K+
+http://sonyiptv.net:8080/2244/2244/190647
+#EXTINF:-1 tvg-id="" tvg-name="IN: India News" tvg-logo="https://img-cdn.curl.pk/channels_icon/13081560131.png" group-title="INDIAN NEWS",IN: India News
+http://sonyiptv.net:8080/2244/2244/190648
+#EXTINF:-1 tvg-id="" tvg-name="IN: Abp News" tvg-logo="https://img-cdn.curl.pk/chimg/2509625688.png" group-title="INDIAN NEWS",IN: Abp News
+http://sonyiptv.net:8080/2244/2244/190649
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 18" tvg-logo="https://img-cdn.curl.pk/chimg/3288826473.png" group-title="INDIAN NEWS",IN: News 18
+http://sonyiptv.net:8080/2244/2244/190650
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 24" tvg-logo="https://img-cdn.curl.pk/channels_icon/38014183451.png" group-title="INDIAN NEWS",IN: News 24
+http://sonyiptv.net:8080/2244/2244/190651
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ptc News TV" tvg-logo="https://img-cdn.curl.pk/chimg/7800477235.png" group-title="INDIAN NEWS",IN: Ptc News TV
+http://sonyiptv.net:8080/2244/2244/190652
+#EXTINF:-1 tvg-id="" tvg-name="IN: Raj News 24x7" tvg-logo="https://img-cdn.curl.pk/channels_icon/83056355611.png" group-title="INDIAN NEWS",IN: Raj News 24x7
+http://sonyiptv.net:8080/2244/2244/190653
+#EXTINF:-1 tvg-id="" tvg-name="IND-mal: Asianet News" tvg-logo="https://img-cdn.curl.pk/chimg/3421348818.jpg" group-title="INDIAN NEWS",IND-mal: Asianet News
+http://sonyiptv.net:8080/2244/2244/190654
+#EXTINF:-1 tvg-id="" tvg-name="A NEWS Maffia Tv Desi Musix" tvg-logo="" group-title="INDIAN NEWS",A NEWS Maffia Tv Desi Musix
+http://sonyiptv.net:8080/2244/2244/190655
+#EXTINF:-1 tvg-id="" tvg-name="ABP News (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/512px-ABP_News_logo.svg.png" group-title="INDIAN NEWS",ABP News (720p)
+http://sonyiptv.net:8080/2244/2244/190656
+#EXTINF:-1 tvg-id="" tvg-name="Asianet News (576p)" tvg-logo="https://i.imgur.com/LrHGfdC.png" group-title="INDIAN NEWS",Asianet News (576p)
+http://sonyiptv.net:8080/2244/2244/190658
+#EXTINF:-1 tvg-id="" tvg-name="Asianet News Kannada (360p) [Not 24/7]" tvg-logo="https://i.imgur.com/19joZ1o.png" group-title="INDIAN NEWS",Asianet News Kannada (360p) [Not 24/7]
+http://sonyiptv.net:8080/2244/2244/190659
+#EXTINF:-1 tvg-id="" tvg-name="Asianet News Tamil (360p) [Not 24/7]" tvg-logo="https://i.imgur.com/pGA2R8l.png" group-title="INDIAN NEWS",Asianet News Tamil (360p) [Not 24/7]
+http://sonyiptv.net:8080/2244/2244/190660
+#EXTINF:-1 tvg-id="" tvg-name="DD News (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/H4f9R7n.png" group-title="INDIAN NEWS",DD News (1080p) [Not 24/7]
+http://sonyiptv.net:8080/2244/2244/190661
+#EXTINF:-1 tvg-id="" tvg-name="FASTWAY NEWS (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/cBkYHDZ.png" group-title="INDIAN NEWS",FASTWAY NEWS (720p) [Not 24/7]
+http://sonyiptv.net:8080/2244/2244/190662
+#EXTINF:-1 tvg-id="" tvg-name="Kairali News (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/GfrEhbx.png" group-title="INDIAN NEWS",Kairali News (720p) [Not 24/7]
+http://sonyiptv.net:8080/2244/2244/190663
+#EXTINF:-1 tvg-id="" tvg-name="Kanak News (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/OzFMOKH.png" group-title="INDIAN NEWS",Kanak News (720p) [Not 24/7]
+http://sonyiptv.net:8080/2244/2244/190664
+#EXTINF:-1 tvg-id="" tvg-name="Malabar News (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Un2gxt4.png" group-title="INDIAN NEWS",Malabar News (720p) [Not 24/7]
+http://sonyiptv.net:8080/2244/2244/190665
+#EXTINF:-1 tvg-id="" tvg-name="Manorama News (576p)" tvg-logo="https://i.imgur.com/adjRrVx.png" group-title="INDIAN NEWS",Manorama News (576p)
+http://sonyiptv.net:8080/2244/2244/190666
+#EXTINF:-1 tvg-id="" tvg-name="Mathrubhumi News (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/diQftzP.png" group-title="INDIAN NEWS",Mathrubhumi News (576p) [Not 24/7]
+http://sonyiptv.net:8080/2244/2244/190667
+#EXTINF:-1 tvg-id="" tvg-name="News 18 Tamil (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/htYVkpy.png" group-title="INDIAN NEWS",News 18 Tamil (720p) [Not 24/7]
+http://sonyiptv.net:8080/2244/2244/190668
+#EXTINF:-1 tvg-id="" tvg-name="News J (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/RqeF8RR.png" group-title="INDIAN NEWS",News J (1080p) [Not 24/7]
+http://sonyiptv.net:8080/2244/2244/190669
+#EXTINF:-1 tvg-id="" tvg-name="Polimer News (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/CxcuvXX.png" group-title="INDIAN NEWS",Polimer News (576p) [Not 24/7]
+http://sonyiptv.net:8080/2244/2244/190670
+#EXTINF:-1 tvg-id="" tvg-name="Raj News Malayalam" tvg-logo="https://i.imgur.com/6JVLzaa.png" group-title="INDIAN NEWS",Raj News Malayalam
+http://sonyiptv.net:8080/2244/2244/190671
+#EXTINF:-1 tvg-id="" tvg-name="Real News Kerala (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/8hnJuxa.png" group-title="INDIAN NEWS",Real News Kerala (1080p) [Not 24/7]
+http://sonyiptv.net:8080/2244/2244/190672
+#EXTINF:-1 tvg-id="" tvg-name="Time Vision News (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/qvuOBP7.png" group-title="INDIAN NEWS",Time Vision News (720p) [Not 24/7]
+http://sonyiptv.net:8080/2244/2244/190673
+#EXTINF:-1 tvg-id="" tvg-name="Twenty Four News (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/eS2fVDh.png" group-title="INDIAN NEWS",Twenty Four News (576p) [Not 24/7]
+http://sonyiptv.net:8080/2244/2244/190674
+#EXTINF:-1 tvg-id="" tvg-name="Zee News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png" group-title="INDIAN NEWS",Zee News
+http://sonyiptv.net:8080/2244/2244/190675
+#EXTINF:-1 tvg-id="" tvg-name="Zee News Malayalam" tvg-logo="https://i.imgur.com/MePj7ET.png" group-title="INDIAN NEWS",Zee News Malayalam
+http://sonyiptv.net:8080/2244/2244/190676
+#EXTINF:-1 tvg-id="" tvg-name="ISAAC TV" tvg-logo="https://www.lyngsat.com/logo/tv/ii/isaac_tv.png" group-title="PAKISTAN ENTERTAINMENT ",ISAAC TV
+http://sonyiptv.net:8080/2244/2244/190764
+#EXTINF:-1 tvg-id="" tvg-name="BARKAT TV" tvg-logo="https://www.lyngsat.com/logo/tv/bb/barkat-tv-pk.png" group-title="PAKISTAN ENTERTAINMENT ",BARKAT TV
+http://sonyiptv.net:8080/2244/2244/190765
+#EXTINF:-1 tvg-id="" tvg-name="GAWAHI TV" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gawahi_tv_pk.png" group-title="PAKISTAN ENTERTAINMENT ",GAWAHI TV
+http://sonyiptv.net:8080/2244/2244/190766
+#EXTINF:-1 tvg-id="" tvg-name=" CRICKET 01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Fkvh4isVFE7cdeFmrp5uc-Ctc3BBZuQ2Swn53mifTQ&s" group-title="CRICKET WORLD CUP", CRICKET 01
+http://sonyiptv.net:8080/2244/2244/141872
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Fkvh4isVFE7cdeFmrp5uc-Ctc3BBZuQ2Swn53mifTQ&s" group-title="CRICKET WORLD CUP",CRICKET 02
+http://sonyiptv.net:8080/2244/2244/191878
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET 03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Fkvh4isVFE7cdeFmrp5uc-Ctc3BBZuQ2Swn53mifTQ&s" group-title="CRICKET WORLD CUP",CRICKET 03
+http://sonyiptv.net:8080/2244/2244/178637
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET 04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Fkvh4isVFE7cdeFmrp5uc-Ctc3BBZuQ2Swn53mifTQ&s" group-title="CRICKET WORLD CUP",CRICKET 04
+http://sonyiptv.net:8080/2244/2244/191879
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET 05" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Fkvh4isVFE7cdeFmrp5uc-Ctc3BBZuQ2Swn53mifTQ&s" group-title="CRICKET WORLD CUP",CRICKET 05
+http://sonyiptv.net:8080/2244/2244/141723
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET 06" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Fkvh4isVFE7cdeFmrp5uc-Ctc3BBZuQ2Swn53mifTQ&s" group-title="CRICKET WORLD CUP",CRICKET 06
+http://sonyiptv.net:8080/2244/2244/191819
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET 07" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Fkvh4isVFE7cdeFmrp5uc-Ctc3BBZuQ2Swn53mifTQ&s" group-title="CRICKET WORLD CUP",CRICKET 07
+http://sonyiptv.net:8080/2244/2244/191876
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET 08" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Fkvh4isVFE7cdeFmrp5uc-Ctc3BBZuQ2Swn53mifTQ&s" group-title="CRICKET WORLD CUP",CRICKET 08
+http://sonyiptv.net:8080/2244/2244/191877
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: Supersport Football Plus" tvg-logo="" group-title="FOOTBALL",DSTV: Supersport Football Plus
+http://sonyiptv.net:8080/2244/2244/187816
+#EXTINF:-1 tvg-id="" tvg-name="PUNJABI MOVIES 2" tvg-logo="" group-title="CINEMANIA PUNJABI 24/7",PUNJABI MOVIES 2
+http://sonyiptv.net:8080/2244/2244/241787
+#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD MOVIE 03" tvg-logo="" group-title="CINEMANIA BOLLYWOOD 24/7",BOLLYWOOD MOVIE 03
+http://sonyiptv.net:8080/2244/2244/241788
+#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD MOVIES 4" tvg-logo="" group-title="CINEMANIA BOLLYWOOD 24/7",BOLLYWOOD MOVIES 4
+http://sonyiptv.net:8080/2244/2244/246780
+#EXTINF:-1 tvg-id="" tvg-name="BIGG BOSS OTT (2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS89i7oEGtqV7M3g0CAGOhS-CRdqmM5xT2E5g&usqp=CAU" group-title="BIGG BOSS 24/7",BIGG BOSS OTT (2)
+http://sonyiptv.net:8080/2244/2244/123707
+#EXTINF:-1 tvg-id="" tvg-name="BIGG BOSS OTT (3)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS89i7oEGtqV7M3g0CAGOhS-CRdqmM5xT2E5g&usqp=CAU" group-title="BIGG BOSS 24/7",BIGG BOSS OTT (3)
+http://sonyiptv.net:8080/2244/2244/161000
+#EXTINF:-1 tvg-id="" tvg-name="A PLUS HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-plus-pk.png" group-title="PAKISTAN 4K",A PLUS HD
+http://sonyiptv.net:8080/2244/2244/246584
+#EXTINF:-1 tvg-id="" tvg-name="A1 TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a1-entertainment-tv-pk.png" group-title="PAKISTAN 4K",A1 TV HD
+http://sonyiptv.net:8080/2244/2244/246585
+#EXTINF:-1 tvg-id="" tvg-name="AAJ ENT HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aaj_entertainment_pk.png" group-title="PAKISTAN 4K",AAJ ENT HD
+http://sonyiptv.net:8080/2244/2244/246586
+#EXTINF:-1 tvg-id="" tvg-name="AAN TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aan-tv-pk.png" group-title="PAKISTAN 4K",AAN TV HD
+http://sonyiptv.net:8080/2244/2244/246587
+#EXTINF:-1 tvg-id="" tvg-name="APNA TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/apna-channel-pk.png" group-title="PAKISTAN 4K",APNA TV HD
+http://sonyiptv.net:8080/2244/2244/246588
+#EXTINF:-1 tvg-id="" tvg-name="ARUJ ENT HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aruj-entertainment-pk.png" group-title="PAKISTAN 4K",ARUJ ENT HD
+http://sonyiptv.net:8080/2244/2244/246589
+#EXTINF:-1 tvg-id="" tvg-name="ARY DIGITAL HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_digital_asia.png" group-title="PAKISTAN 4K",ARY DIGITAL HD
+http://sonyiptv.net:8080/2244/2244/246590
+#EXTINF:-1 tvg-id="" tvg-name="BOL ENT HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol-entertainment-pk.png" group-title="PAKISTAN 4K",BOL ENT HD
+http://sonyiptv.net:8080/2244/2244/246591
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX (PK)" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax.png" group-title="PAKISTAN 4K",CINEMAX (PK)
+http://sonyiptv.net:8080/2244/2244/246592
+#EXTINF:-1 tvg-id="" tvg-name="EXPRESS ENT HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/express_entertainment_pk.png" group-title="PAKISTAN 4K",EXPRESS ENT HD
+http://sonyiptv.net:8080/2244/2244/246593
+#EXTINF:-1 tvg-id="" tvg-name="FILMWORLD HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/film-world-pk.png" group-title="PAKISTAN 4K",FILMWORLD HD
+http://sonyiptv.net:8080/2244/2244/246594
+#EXTINF:-1 tvg-id="" tvg-name="GEO ENT HD" tvg-logo="https://www.lyngsat.com/logo/corp/gg/geo_tv_network.png" group-title="PAKISTAN 4K",GEO ENT HD
+http://sonyiptv.net:8080/2244/2244/246595
+#EXTINF:-1 tvg-id="" tvg-name="GEO KAHANI HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_kahani_pk.png" group-title="PAKISTAN 4K",GEO KAHANI HD
+http://sonyiptv.net:8080/2244/2244/246596
+#EXTINF:-1 tvg-id="" tvg-name="HUM MASALA HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum-masala.png" group-title="PAKISTAN 4K",HUM MASALA HD
+http://sonyiptv.net:8080/2244/2244/246597
+#EXTINF:-1 tvg-id="" tvg-name="HUM SITARY HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum-sitaray-pk.png" group-title="PAKISTAN 4K",HUM SITARY HD
+http://sonyiptv.net:8080/2244/2244/246598
+#EXTINF:-1 tvg-id="" tvg-name="KAY 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kay-2-pk.png" group-title="PAKISTAN 4K",KAY 2 HD
+http://sonyiptv.net:8080/2244/2244/246599
+#EXTINF:-1 tvg-id="" tvg-name="KHYBER TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/khyber-middle-east-tv-pk.png" group-title="PAKISTAN 4K",KHYBER TV HD
+http://sonyiptv.net:8080/2244/2244/246600
+#EXTINF:-1 tvg-id="" tvg-name="KTN ENT HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktn_tv_pk.png" group-title="PAKISTAN 4K",KTN ENT HD
+http://sonyiptv.net:8080/2244/2244/246601
+#EXTINF:-1 tvg-id="" tvg-name="PASHTO 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pashto_1_pk.png" group-title="PAKISTAN 4K",PASHTO 1 HD
+http://sonyiptv.net:8080/2244/2244/246602
+#EXTINF:-1 tvg-id="" tvg-name="PLAY ENT HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-entertainment-pk.png" group-title="PAKISTAN 4K",PLAY ENT HD
+http://sonyiptv.net:8080/2244/2244/246603
+#EXTINF:-1 tvg-id="" tvg-name="PTV HOME HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_home_pk.png" group-title="PAKISTAN 4K",PTV HOME HD
+http://sonyiptv.net:8080/2244/2244/246604
+#EXTINF:-1 tvg-id="" tvg-name="PTV TELESCHOOL HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleschool-pk.png" group-title="PAKISTAN 4K",PTV TELESCHOOL HD
+http://sonyiptv.net:8080/2244/2244/246605
+#EXTINF:-1 tvg-id="" tvg-name="SEE TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/see_tv_pk_hd.png" group-title="PAKISTAN 4K",SEE TV HD
+http://sonyiptv.net:8080/2244/2244/246606
+#EXTINF:-1 tvg-id="" tvg-name="SINDH TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sindh_tv.png" group-title="PAKISTAN 4K",SINDH TV HD
+http://sonyiptv.net:8080/2244/2244/246607
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_one_pk.png" group-title="PAKISTAN 4K",TV ONE HD
+http://sonyiptv.net:8080/2244/2244/246608
+#EXTINF:-1 tvg-id="" tvg-name="ALIEF TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alief-tv-pk.png" group-title="PAKISTAN 4K",ALIEF TV HD
+http://sonyiptv.net:8080/2244/2244/246609
+#EXTINF:-1 tvg-id="" tvg-name="FILMAX HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmax_pk.png" group-title="PAKISTAN 4K",FILMAX HD
+http://sonyiptv.net:8080/2244/2244/246610
+#EXTINF:-1 tvg-id="" tvg-name="GREEN ENT HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-entertainment-pk.png" group-title="PAKISTAN 4K",GREEN ENT HD
+http://sonyiptv.net:8080/2244/2244/246611
+#EXTINF:-1 tvg-id="" tvg-name="LTN FAMILY HD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/ltn-family-pk.png" group-title="PAKISTAN 4K",LTN FAMILY HD
+http://sonyiptv.net:8080/2244/2244/246612
+#EXTINF:-1 tvg-id="" tvg-name="RAAVI HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/raavi_tv.png" group-title="PAKISTAN 4K",RAAVI HD
+http://sonyiptv.net:8080/2244/2244/246613
+#EXTINF:-1 tvg-id="" tvg-name="SAB TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sab-tv-pk.png" group-title="PAKISTAN 4K",SAB TV HD
+http://sonyiptv.net:8080/2244/2244/246614
+#EXTINF:-1 tvg-id="" tvg-name="MUN TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mun-tv-pk.png" group-title="PAKISTAN 4K",MUN TV HD
+http://sonyiptv.net:8080/2244/2244/246615
+#EXTINF:-1 tvg-id="" tvg-name="URDU 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/uu/urdu_1_pk_me.png" group-title="PAKISTAN 4K",URDU 1 HD
+http://sonyiptv.net:8080/2244/2244/246616
+#EXTINF:-1 tvg-id="" tvg-name="ARY ZINDAGI HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_zindagi_pk.png" group-title="PAKISTAN 4K",ARY ZINDAGI HD
+http://sonyiptv.net:8080/2244/2244/246617
+#EXTINF:-1 tvg-id="" tvg-name="WASEB" tvg-logo="https://www.lyngsat.com/logo/tv/ww/waseb_tv.png" group-title="PAKISTAN 4K",WASEB
+http://sonyiptv.net:8080/2244/2244/246618
+#EXTINF:-1 tvg-id="" tvg-name="PTV NATIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_national_pk.png" group-title="PAKISTAN 4K",PTV NATIONAL
+http://sonyiptv.net:8080/2244/2244/246619
+#EXTINF:-1 tvg-id="" tvg-name="HUM TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum_tv_pk.png" group-title="PAKISTAN 4K",HUM TV HD
+http://sonyiptv.net:8080/2244/2244/246620
+#EXTINF:-1 tvg-id="" tvg-name="AUR LIFE HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aur-life-hd-pk.png" group-title="PAKISTAN 4K",AUR LIFE HD
+http://sonyiptv.net:8080/2244/2244/246621
+#EXTINF:-1 tvg-id="" tvg-name="FILMAZIA" tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmazia_pk.png" group-title="PAKISTAN 4K",FILMAZIA
+http://sonyiptv.net:8080/2244/2244/246622
+#EXTINF:-1 tvg-id="" tvg-name="FILMAZIA PASHTO" tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmazia-pashto-pk.png" group-title="PAKISTAN 4K",FILMAZIA PASHTO
+http://sonyiptv.net:8080/2244/2244/246623
+#EXTINF:-1 tvg-id="" tvg-name="FILMAZIA PUNJABI" tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmazia-punjabi-pk.png" group-title="PAKISTAN 4K",FILMAZIA PUNJABI
+http://sonyiptv.net:8080/2244/2244/246624
+#EXTINF:-1 tvg-id="" tvg-name="ATV HD" tvg-logo="http://webotv.asia:80/images/ef539b6df421dff0196ffec9dee7147c.png" group-title="PAKISTAN 4K",ATV HD
+http://sonyiptv.net:8080/2244/2244/246625
+#EXTINF:-1 tvg-id="" tvg-name="SONY SET SD" tvg-logo="http://webotv.asia:80/images/5a2c1273dfe782d9343789558849e6d0.png" group-title="INDIAN 4K",SONY SET SD
+http://sonyiptv.net:8080/2244/2244/246626
+#EXTINF:-1 tvg-id="" tvg-name="SONY TV FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/set-india-in.png" group-title="INDIAN 4K",SONY TV FHD
+http://sonyiptv.net:8080/2244/2244/246627
+#EXTINF:-1 tvg-id="" tvg-name="TS | SONY TV 4K" tvg-logo="http://webotv.asia:80/images/391f17b9a0e58d0b5986396c705a83f8.png" group-title="INDIAN 4K",TS | SONY TV 4K
+http://sonyiptv.net:8080/2244/2244/246628
+#EXTINF:-1 tvg-id="" tvg-name="COLORS SD" tvg-logo="http://webotv.asia:80/images/58641767e37942f1f4f00750677ef08f.png" group-title="INDIAN 4K",COLORS SD
+http://sonyiptv.net:8080/2244/2244/246629
+#EXTINF:-1 tvg-id="" tvg-name="COLORS FHD" tvg-logo="http://14.192.144.8:80/images/58641767e37942f1f4f00750677ef08f.png" group-title="INDIAN 4K",COLORS FHD
+http://sonyiptv.net:8080/2244/2244/246630
+#EXTINF:-1 tvg-id="" tvg-name="TS | COLORS 4K" tvg-logo="http://webotv.asia:80/images/ed81d5ab05d5cdd115fc01b3813d7840.png" group-title="INDIAN 4K",TS | COLORS 4K
+http://sonyiptv.net:8080/2244/2244/246631
+#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS SD" tvg-logo="http://webotv.asia:80/images/1a85f68031993ae53fa1bb095c76d0e7.png" group-title="INDIAN 4K",STAR PLUS SD
+http://sonyiptv.net:8080/2244/2244/246632
+#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-plus-in.png" group-title="INDIAN 4K",STAR PLUS FHD
+http://sonyiptv.net:8080/2244/2244/246633
+#EXTINF:-1 tvg-id="" tvg-name="TS | STAR PLUS 4K" tvg-logo="http://webotv.asia:80/images/c82fa2a2ba973b4ef2329513ea409666.png" group-title="INDIAN 4K",TS | STAR PLUS 4K
+http://sonyiptv.net:8080/2244/2244/246634
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV FHD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-tv-in.png" group-title="INDIAN 4K",ZEE TV FHD
+http://sonyiptv.net:8080/2244/2244/246635
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV FHD 1080" tvg-logo="http://pkindloc.com:8880/images/lZMsyULZRxIvAx2b2Z409Up8ZunOGtE9Xd7DyA0p5Cpxpj_glGxu1wZA6TQGaXLO.jpg" group-title="INDIAN 4K",ZEE TV FHD 1080
+http://sonyiptv.net:8080/2244/2244/246636
+#EXTINF:-1 tvg-id="" tvg-name="SONY SAB FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sab-tv-in.png" group-title="INDIAN 4K",SONY SAB FHD
+http://sonyiptv.net:8080/2244/2244/246637
+#EXTINF:-1 tvg-id="" tvg-name="TS | SONY SAB 4K" tvg-logo="http://webotv.asia:80/images/faa5e474bc7bdac54f40454d57433136.png" group-title="INDIAN 4K",TS | SONY SAB 4K
+http://sonyiptv.net:8080/2244/2244/246638
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-in.png" group-title="INDIAN 4K",SONY MAX FHD
+http://sonyiptv.net:8080/2244/2244/246639
+#EXTINF:-1 tvg-id="" tvg-name="TS | SONY MAX 4K" tvg-logo="http://webotv.asia:80/images/2f77af7a5d235054b6b97d9e83f6dd15.png" group-title="INDIAN 4K",TS | SONY MAX 4K
+http://sonyiptv.net:8080/2244/2244/246640
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD FHD" tvg-logo="http://14.192.144.8:80/images/86529251c86c936c4220f62d98d35e6f.png" group-title="INDIAN 4K",STAR GOLD FHD
+http://sonyiptv.net:8080/2244/2244/246641
+#EXTINF:-1 tvg-id="" tvg-name="TS | STAR GOLD 4K" tvg-logo="http://webotv.asia:80/images/fd92a2700d3dc05b11a22edc0eb8bb0a.png" group-title="INDIAN 4K",TS | STAR GOLD 4K
+http://sonyiptv.net:8080/2244/2244/246642
+#EXTINF:-1 tvg-id="" tvg-name="&TV FHD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and_tv_in.png" group-title="INDIAN 4K",&TV FHD
+http://sonyiptv.net:8080/2244/2244/246643
+#EXTINF:-1 tvg-id="" tvg-name="SONY PAL HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pal-in.png" group-title="INDIAN 4K",SONY PAL HD
+http://sonyiptv.net:8080/2244/2244/246644
+#EXTINF:-1 tvg-id="" tvg-name="STAR BHARAT FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-bharat-hk-in.png" group-title="INDIAN 4K",STAR BHARAT FHD
+http://sonyiptv.net:8080/2244/2244/246645
+#EXTINF:-1 tvg-id="" tvg-name="SONY PIX FHD" tvg-logo="http://14.192.144.8:80/images/dbe6e2c68e2f07e2a11c8f581b609257.png" group-title="INDIAN 4K",SONY PIX FHD
+http://sonyiptv.net:8080/2244/2244/246646
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-in.png" group-title="INDIAN 4K",SONY MAX FHD
+http://sonyiptv.net:8080/2244/2244/246647
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-2-in.png" group-title="INDIAN 4K",SONY MAX 2 HD
+http://sonyiptv.net:8080/2244/2244/246648
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD FHD" tvg-logo="http://14.192.144.8:80/images/86529251c86c936c4220f62d98d35e6f.png" group-title="INDIAN 4K",STAR GOLD FHD
+http://sonyiptv.net:8080/2244/2244/246649
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SELECT FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_gold_in_select_hd.png" group-title="INDIAN 4K",STAR GOLD SELECT FHD
+http://sonyiptv.net:8080/2244/2244/246650
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA FHD" tvg-logo="http://14.192.144.8:80/images/1a5e66c6714c6dabdb7aaee28f91835e.png" group-title="INDIAN 4K",ZEE CINEMA FHD
+http://sonyiptv.net:8080/2244/2244/246651
+#EXTINF:-1 tvg-id="" tvg-name="&PICTURES FHD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and_pictures_in.png" group-title="INDIAN 4K",&PICTURES FHD
+http://sonyiptv.net:8080/2244/2244/246652
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" group-title="INDIAN 4K",STAR MOVIES FHD
+http://sonyiptv.net:8080/2244/2244/246653
+#EXTINF:-1 tvg-id="" tvg-name="&FLIX FHD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-flix-in.png" group-title="INDIAN 4K",&FLIX FHD
+http://sonyiptv.net:8080/2244/2244/246654
+#EXTINF:-1 tvg-id="" tvg-name="&PRIVE FHD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="INDIAN 4K",&PRIVE FHD
+http://sonyiptv.net:8080/2244/2244/246655
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES SELECT FHD" tvg-logo="http://14.192.144.8:80/images/feec1ed700906cfa9f9b4776c80614ef.png" group-title="INDIAN 4K",STAR MOVIES SELECT FHD
+http://sonyiptv.net:8080/2244/2244/246656
+#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/goldmines-in.png" group-title="INDIAN 4K",GOLDMINES HD
+http://sonyiptv.net:8080/2244/2244/246657
+#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES BOLLYWOOD HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/goldmines-bollywood-in.png" group-title="INDIAN 4K",GOLDMINES BOLLYWOOD HD
+http://sonyiptv.net:8080/2244/2244/246658
+#EXTINF:-1 tvg-id="" tvg-name="B4U MOVIES HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/b4u_movies_in.png" group-title="INDIAN 4K",B4U MOVIES HD
+http://sonyiptv.net:8080/2244/2244/246659
+#EXTINF:-1 tvg-id="" tvg-name="B4U KADAK HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/b4u-kadak-in.png" group-title="INDIAN 4K",B4U KADAK HD
+http://sonyiptv.net:8080/2244/2244/246660
+#EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-cineplex-in.png" group-title="INDIAN 4K",COLORS CINEPLEX HD
+http://sonyiptv.net:8080/2244/2244/246661
+#EXTINF:-1 tvg-id="" tvg-name="MANORANJAN MOVIES HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/manoranjan-movies-in.png" group-title="INDIAN 4K",MANORANJAN MOVIES HD
+http://sonyiptv.net:8080/2244/2244/246662
+#EXTINF:-1 tvg-id="" tvg-name="POPCORN MOVIES HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/popcorn-movies-in.png" group-title="INDIAN 4K",POPCORN MOVIES HD
+http://sonyiptv.net:8080/2244/2244/246663
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD THRILLS HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-gold-thrills-hk.png" group-title="INDIAN 4K",STAR GOLD THRILLS HD
+http://sonyiptv.net:8080/2244/2244/246664
+#EXTINF:-1 tvg-id="" tvg-name="EVERGREEN CLASSIC" tvg-logo="" group-title="INDIAN 4K",EVERGREEN CLASSIC
+http://sonyiptv.net:8080/2244/2244/246665
+#EXTINF:-1 tvg-id="" tvg-name="COLORS INFINITY HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-infinity-in.png" group-title="INDIAN 4K",COLORS INFINITY HD
+http://sonyiptv.net:8080/2244/2244/246666
+#EXTINF:-1 tvg-id="" tvg-name="COLORS RISHTEY" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-rishtey-in.png" group-title="INDIAN 4K",COLORS RISHTEY
+http://sonyiptv.net:8080/2244/2244/246667
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD ROMANCE" tvg-logo="https://www.indiantvinfo.com/media/2023/03/Star-Gold-Romance-Logo.png" group-title="INDIAN 4K",STAR GOLD ROMANCE
+http://sonyiptv.net:8080/2244/2244/246668
+#EXTINF:-1 tvg-id="" tvg-name="MN+ HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movies_now_plus_hd.png" group-title="INDIAN 4K",MN+ HD
+http://sonyiptv.net:8080/2244/2244/246669
+#EXTINF:-1 tvg-id="" tvg-name="SONY WAH HD" tvg-logo="http://tv.netstream.pk:80/images/12d498331c622e82098ba20938cf7608.png" group-title="INDIAN 4K",SONY WAH HD
+http://sonyiptv.net:8080/2244/2244/246670
+#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="http://tv.netstream.pk:80/images/5e167c666212997c885ab826ff23e961.png" group-title="INDIAN 4K",GOLDMINES BOLLYWOOD
+http://sonyiptv.net:8080/2244/2244/246671
+#EXTINF:-1 tvg-id="" tvg-name="THRILLER ACTIVE HD" tvg-logo="" group-title="INDIAN 4K",THRILLER ACTIVE HD
+http://sonyiptv.net:8080/2244/2244/246672
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ACTION HD" tvg-logo="http://tv.netstream.pk:80/images/4f472f4e2ce768019c74b5d047c5e7d8.png" group-title="INDIAN 4K",ZEE ACTION HD
+http://sonyiptv.net:8080/2244/2244/246673
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD 2 HD" tvg-logo="http://tv.netstream.pk:80/images/6024d7c7bfa161edab3d218ccba47382.png" group-title="INDIAN 4K",STAR GOLD 2 HD
+http://sonyiptv.net:8080/2244/2244/246674
+#EXTINF:-1 tvg-id="" tvg-name="9XM MUSIC HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/9x_music.png" group-title="MUSIC VIP",9XM MUSIC HD
+http://sonyiptv.net:8080/2244/2244/246675
+#EXTINF:-1 tvg-id="" tvg-name="MTV BEATS HD" tvg-logo="http://14.192.144.8:80/images/26df5b71360319d1b741e9c94b55806a.png" group-title="MUSIC VIP",MTV BEATS HD
+http://sonyiptv.net:8080/2244/2244/246676
+#EXTINF:-1 tvg-id="" tvg-name="MASTI MUSIC HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mastiii_tv_in.png" group-title="MUSIC VIP",MASTI MUSIC HD
+http://sonyiptv.net:8080/2244/2244/246677
+#EXTINF:-1 tvg-id="" tvg-name="B4U MUSIC HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/b4u_music_in.png" group-title="MUSIC VIP",B4U MUSIC HD
+http://sonyiptv.net:8080/2244/2244/246678
+#EXTINF:-1 tvg-id="" tvg-name="ZOOM MUSIC HD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zoom_tv_in.png" group-title="MUSIC VIP",ZOOM MUSIC HD
+http://sonyiptv.net:8080/2244/2244/246679
+#EXTINF:-1 tvg-id="" tvg-name="MTV MUSIC" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.png" group-title="MUSIC VIP",MTV MUSIC
+http://sonyiptv.net:8080/2244/2244/246680
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC ACTIVE HITS" tvg-logo="" group-title="MUSIC VIP",MUSIC ACTIVE HITS
+http://sonyiptv.net:8080/2244/2244/246681
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC ACTIVE MASALA" tvg-logo="" group-title="MUSIC VIP",MUSIC ACTIVE MASALA
+http://sonyiptv.net:8080/2244/2244/246682
+#EXTINF:-1 tvg-id="" tvg-name="PTC MUSIC" tvg-logo="http://webotv.asia:80/images/8f201279e12c7d33a6ca183a62fd6aae.png" group-title="MUSIC VIP",PTC MUSIC
+http://sonyiptv.net:8080/2244/2244/246683
+#EXTINF:-1 tvg-id="" tvg-name="8XM MUSIC HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/8x_music_pk.png" group-title="MUSIC VIP",8XM MUSIC HD
+http://sonyiptv.net:8080/2244/2244/246684
+#EXTINF:-1 tvg-id="" tvg-name="JALWA MUSIC HD" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jalwa_tv_pk.png" group-title="MUSIC VIP",JALWA MUSIC HD
+http://sonyiptv.net:8080/2244/2244/246685
+#EXTINF:-1 tvg-id="" tvg-name="ARY MUSIC HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_musik.png" group-title="MUSIC VIP",ARY MUSIC HD
+http://sonyiptv.net:8080/2244/2244/246686
+#EXTINF:-1 tvg-id="" tvg-name="KASHISH HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kashish-pk.png" group-title="MUSIC VIP",KASHISH HD
+http://sonyiptv.net:8080/2244/2244/246687
+#EXTINF:-1 tvg-id="" tvg-name="FILMAZIA GAANE" tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmazia-gaane-pk.png" group-title="MUSIC VIP",FILMAZIA GAANE
+http://sonyiptv.net:8080/2244/2244/246688
+#EXTINF:-1 tvg-id="" tvg-name="24B MUSIC HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/24_beat_tv.png" group-title="MUSIC VIP",24B MUSIC HD
+http://sonyiptv.net:8080/2244/2244/246689
+#EXTINF:-1 tvg-id="" tvg-name="MIFA MUSIC HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-mifa-ca.png" group-title="MUSIC VIP",MIFA MUSIC HD
+http://sonyiptv.net:8080/2244/2244/246690
+#EXTINF:-1 tvg-id="" tvg-name="MIFA + HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-mifa-ca.png" group-title="MUSIC VIP",MIFA + HD
+http://sonyiptv.net:8080/2244/2244/246691
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET (HINDI)" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Animal-Planet-logo.png" group-title="ALL DISCOVERY",ANIMAL PLANET (HINDI)
+http://sonyiptv.net:8080/2244/2244/246719
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Animal-Planet-logo.png" group-title="ALL DISCOVERY",ANIMAL PLANET HD
+http://sonyiptv.net:8080/2244/2244/246720
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY (HINDI)" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="ALL DISCOVERY",HISTORY (HINDI)
+http://sonyiptv.net:8080/2244/2244/246721
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="ALL DISCOVERY",HISTORY HD
+http://sonyiptv.net:8080/2244/2244/246722
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE (HINDI)" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-life-us.png" group-title="ALL DISCOVERY",FOX LIFE (HINDI)
+http://sonyiptv.net:8080/2244/2244/246723
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-life-us.png" group-title="ALL DISCOVERY",FOX LIFE HD
+http://sonyiptv.net:8080/2244/2244/246724
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV INDIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/2560px-Fashion_TV_logo.svg.png" group-title="ALL DISCOVERY",FASHION TV INDIA HD
+http://sonyiptv.net:8080/2244/2244/246725
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/2560px-Fashion_TV_logo.svg.png" group-title="ALL DISCOVERY",FASHION TV HD
+http://sonyiptv.net:8080/2244/2244/246726
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (HINDI)" tvg-logo="https://seeklogo.com/images/N/nat-geo-wild-logo-CFB1305DCD-seeklogo.com.png" group-title="ALL DISCOVERY",NAT GEO WILD (HINDI)
+http://sonyiptv.net:8080/2244/2244/246727
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD" tvg-logo="http://14.192.144.8:80/images/2626321d1f79a93d14138eab2875647b.png" group-title="ALL DISCOVERY",NAT GEO WILD HD
+http://sonyiptv.net:8080/2244/2244/246728
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH (HINDI)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.png" group-title="ALL DISCOVERY",BBC EARTH (HINDI)
+http://sonyiptv.net:8080/2244/2244/246729
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH HD" tvg-logo="http://14.192.144.8:80/images/0d377736211c958c05c6464cd2291be5.png" group-title="ALL DISCOVERY",BBC EARTH HD
+http://sonyiptv.net:8080/2244/2244/246730
+#EXTINF:-1 tvg-id="" tvg-name="TLC (HINDI)" tvg-logo="https://seeklogo.com/images/T/tlc-logo-774E9A4AB6-seeklogo.com.png" group-title="ALL DISCOVERY",TLC (HINDI)
+http://sonyiptv.net:8080/2244/2244/246731
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="http://fariyatv.com:80/images/6f5698127d0e8940b222d96cb21d7395.png" group-title="ALL DISCOVERY",TLC HD
+http://sonyiptv.net:8080/2244/2244/246732
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY (HINDI)" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="ALL DISCOVERY",DISCOVERY (HINDI)
+http://sonyiptv.net:8080/2244/2244/246733
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HD" tvg-logo="http://14.192.144.8:80/images/a281ac3e2b560404c8ca6b83f1855d5b.png" group-title="ALL DISCOVERY",DISCOVERY HD
+http://sonyiptv.net:8080/2244/2244/246734
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE (HINDI)" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_science_in.png" group-title="ALL DISCOVERY",DISCOVERY SCIENCE (HINDI)
+http://sonyiptv.net:8080/2244/2244/246735
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://14.192.144.8:80/images/8a0b663405956121afd3fbae92f56a76.png" group-title="ALL DISCOVERY",DISCOVERY SCIENCE HD
+http://sonyiptv.net:8080/2244/2244/246736
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY (HINDI)" tvg-logo="https://www.lyngsat.com/logo/tv/ii/investigation-discovery-us.png" group-title="ALL DISCOVERY",INVESTIGATION DISCOVERY (HINDI)
+http://sonyiptv.net:8080/2244/2244/246737
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY HD" tvg-logo="http://14.192.144.8:80/images/100aa2bc3a141d7f3bc7c1a4cdd39cd5.png" group-title="ALL DISCOVERY",INVESTIGATION DISCOVERY HD
+http://sonyiptv.net:8080/2244/2244/246738
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEO (HINDI)" tvg-logo="https://seeklogo.com/images/N/National_Geographic-logo-A43277202F-seeklogo.com.png" group-title="ALL DISCOVERY",NATIONAL GEO (HINDI)
+http://sonyiptv.net:8080/2244/2244/246739
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEO HD" tvg-logo="http://webotv.asia:80/images/e990a04b9b6c0178d787ddc066e997b4.png" group-title="ALL DISCOVERY",NATIONAL GEO HD
+http://sonyiptv.net:8080/2244/2244/246740
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP (HINDI)" tvg-logo="http://webotv.asia:80/images/1702a3ea4b606deecdfa86d890b96f4b.png" group-title="ALL DISCOVERY",TRAVEL XP (HINDI)
+http://sonyiptv.net:8080/2244/2244/246741
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP" tvg-logo="http://webotv.asia:80/images/1702a3ea4b606deecdfa86d890b96f4b.png" group-title="ALL DISCOVERY",TRAVEL XP
+http://sonyiptv.net:8080/2244/2244/246742
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVER PAKISTAN HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discover-pakistan-pk.png" group-title="ALL DISCOVERY",DISCOVER PAKISTAN HD
+http://sonyiptv.net:8080/2244/2244/246743
+#EXTINF:-1 tvg-id="" tvg-name="INSIGHT TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/ii/insight-hd-nl.png" group-title="ALL DISCOVERY",INSIGHT TV HD
+http://sonyiptv.net:8080/2244/2244/246744
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://14.192.144.8:80/images/cc8f333e810a0b724f1887dfc7e2f58e.png" group-title="ALL DISCOVERY",DISCOVERY TURBO HD
+http://sonyiptv.net:8080/2244/2244/246745
+#EXTINF:-1 tvg-id="" tvg-name="LOTUS MOVIES HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/macau_lotus_tv_mo.png" group-title="ALL DISCOVERY",LOTUS MOVIES HD
+http://sonyiptv.net:8080/2244/2244/246746
+#EXTINF:-1 tvg-id="" tvg-name="CINE ACTIVE" tvg-logo="http://webotv.asia:80/images/2570524e263ed7e167ae07b2d5ac8bcb.png" group-title="INDIAN 4K",CINE ACTIVE
+http://sonyiptv.net:8080/2244/2244/246747
+#EXTINF:-1 tvg-id="" tvg-name="HITS ACTIVE" tvg-logo="" group-title="INDIAN 4K",HITS ACTIVE
+http://sonyiptv.net:8080/2244/2244/246748
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY ACTIVE" tvg-logo="" group-title="INDIAN 4K",COMEDY ACTIVE
+http://sonyiptv.net:8080/2244/2244/246749
+#EXTINF:-1 tvg-id="" tvg-name="COOKING ACTIVE" tvg-logo="" group-title="INDIAN 4K",COOKING ACTIVE
+http://sonyiptv.net:8080/2244/2244/246750
+#EXTINF:-1 tvg-id="" tvg-name="MOVIES ACTIVE" tvg-logo="" group-title="INDIAN 4K",MOVIES ACTIVE
+http://sonyiptv.net:8080/2244/2244/246751
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BOLLYWOOD" tvg-logo="http://webotv.asia:80/images/e359d36f090dcd004fcce8f79645f6e4.png" group-title="INDIAN 4K",ZEE BOLLYWOOD
+http://sonyiptv.net:8080/2244/2244/246752
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CAFE HD" tvg-logo="http://webotv.asia:80/images/b3caa3453aaf648142843f0b43c42e38.png" group-title="INDIAN 4K",ZEE CAFE HD
+http://sonyiptv.net:8080/2244/2244/246753
+#EXTINF:-1 tvg-id="" tvg-name="ABZY MOVIES" tvg-logo="http://webotv.asia:80/images/7881048d04f4585edcb058615737f57c.png" group-title="INDIAN 4K",ABZY MOVIES
+http://sonyiptv.net:8080/2244/2244/246754
+#EXTINF:-1 tvg-id="" tvg-name="STAR UTSAV MOVIES" tvg-logo="http://webotv.asia:80/images/b61e661d8d6199317032aa9d96f9adc5.png" group-title="INDIAN 4K",STAR UTSAV MOVIES
+http://sonyiptv.net:8080/2244/2244/246755
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL CINEMA" tvg-logo="http://webotv.asia:80/images/af9650c7d06d99bb3ab1d1d4b0e58498.png" group-title="INDIAN 4K",ZEE ANMOL CINEMA
+http://sonyiptv.net:8080/2244/2244/246756
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CLASSIC HD" tvg-logo="http://webotv.asia:80/images/a3628081c4bd4d665cdf49eb71651cf6.png" group-title="INDIAN 4K",ZEE CLASSIC HD
+http://sonyiptv.net:8080/2244/2244/246757
+#EXTINF:-1 tvg-id="" tvg-name="ZINDAGI ACTIVE" tvg-logo="" group-title="INDIAN 4K",ZINDAGI ACTIVE
+http://sonyiptv.net:8080/2244/2244/246758
+#EXTINF:-1 tvg-id="" tvg-name="ROMEDY NOW" tvg-logo="http://webotv.asia:80/images/44eae5aa0d2dcddd82cc39ca3777089e.png" group-title="INDIAN 4K",ROMEDY NOW
+http://sonyiptv.net:8080/2244/2244/246759
+#EXTINF:-1 tvg-id="" tvg-name="MOVIES NOW" tvg-logo="http://webotv.asia:80/images/29d2191899393a9e1d2b404b9217a0c1.png" group-title="INDIAN 4K",MOVIES NOW
+http://sonyiptv.net:8080/2244/2244/246760
+#EXTINF:-1 tvg-id="" tvg-name="MNX HD" tvg-logo="http://webotv.asia:80/images/0cbfdab1edfe26d56606e5b05d1219a9.png" group-title="INDIAN 4K",MNX HD
+http://sonyiptv.net:8080/2244/2244/246761
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://webotv.asia:80/images/522d0423d10e1e239e84d850ceff7517.png" group-title="INDIAN 4K",COMEDY CENTRAL HD
+http://sonyiptv.net:8080/2244/2244/246762
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Disney-Channel-Logo-700x394.png" group-title="KIDS",DISNEY CHANNEL
+http://sonyiptv.net:8080/2244/2244/246763
+#EXTINF:-1 tvg-id="" tvg-name="POGO HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pogo-in.png" group-title="KIDS",POGO HD
+http://sonyiptv.net:8080/2244/2244/246764
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-kids-asia-us.png" group-title="KIDS",DISCOVERY KIDS
+http://sonyiptv.net:8080/2244/2244/246765
+#EXTINF:-1 tvg-id="" tvg-name="HUNGAMA TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hungama.png" group-title="KIDS",HUNGAMA TV
+http://sonyiptv.net:8080/2244/2244/246766
+#EXTINF:-1 tvg-id="" tvg-name="SONIC NICK HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nickelodeon_sonic_us.png" group-title="KIDS",SONIC NICK HD
+http://sonyiptv.net:8080/2244/2244/246767
+#EXTINF:-1 tvg-id="" tvg-name="SONY YAY HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-yay-in.png" group-title="KIDS",SONY YAY HD
+http://sonyiptv.net:8080/2244/2244/246768
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_junior_us.png" group-title="KIDS",DISNEY JUNIOR HD
+http://sonyiptv.net:8080/2244/2244/246769
+#EXTINF:-1 tvg-id="" tvg-name="NICK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/New_Nick_Logo_2015.png" group-title="KIDS",NICK HD
+http://sonyiptv.net:8080/2244/2244/246770
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK (HINDI)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Cartoon-Network-logo-500x281.png" group-title="KIDS",CARTOON NETWORK (HINDI)
+http://sonyiptv.net:8080/2244/2244/246771
+#EXTINF:-1 tvg-id="" tvg-name="KIDS ACTIVE TOONS" tvg-logo="" group-title="KIDS",KIDS ACTIVE TOONS
+http://sonyiptv.net:8080/2244/2244/246772
+#EXTINF:-1 tvg-id="" tvg-name="KIDS ACTIVE RHYME" tvg-logo="" group-title="KIDS",KIDS ACTIVE RHYME
+http://sonyiptv.net:8080/2244/2244/246773
+#EXTINF:-1 tvg-id="" tvg-name="KIDSZONE HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kidzoneplus-pakistan-ee-pk.png" group-title="KIDS",KIDSZONE HD
+http://sonyiptv.net:8080/2244/2244/246774
+#EXTINF:-1 tvg-id="" tvg-name="PLANET FUN HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/planet-fun-uk.png" group-title="KIDS",PLANET FUN HD
+http://sonyiptv.net:8080/2244/2244/246775
+#EXTINF:-1 tvg-id="" tvg-name="POP KIDS HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pop-in.png" group-title="KIDS",POP KIDS HD
+http://sonyiptv.net:8080/2244/2244/246776
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Cartoon-Network-logo-500x281.png" group-title="KIDS",CARTOON NETWORK HD
+http://sonyiptv.net:8080/2244/2244/246777
+#EXTINF:-1 tvg-id="" tvg-name="HOORA TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hoora-tv-uk.png" group-title="KIDS",HOORA TV HD
+http://sonyiptv.net:8080/2244/2244/246778
+#EXTINF:-1 tvg-id="" tvg-name="MINIMAX HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/minimax-hu.png" group-title="KIDS",MINIMAX HD
+http://sonyiptv.net:8080/2244/2244/246779
