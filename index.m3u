@@ -73,3 +73,251 @@ https://live.bongobd.com/hls/zju8o_mUv8-9hg4OiPKW2Q/1700828239/sky-dbc-news_low/
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:0 group-title="BANGLADESH" ,NRB TV  [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
+
+#EXTINF:0 group-title="KIDS ZONE" ,TOM & JERRY
+http://sonyiptv.net:8080/2244/2244/124006
+#EXTINF:0 group-title="KIDS ZONE" ,Chu Chu TV
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/906
+#EXTINF:-1 group-title="Indian Bangla" ,Sony ATT
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+
+#EXTINF:0 group-title="Sports" ,Abu Dhabi Sports
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:0 group-title="Sports" ,Bahrain Sports
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:0 group-title="Sports" ,CDR
+https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8
+#EXTINF:0 group-title="Sports" ,DSTV
+http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
+#EXTINF:0 group-title="Sports" ,Dubai Racing
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:0 group-title="Sports" ,Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:0 group-title="Sports" ,FTF
+https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 group-title="Sports" ,Oman Sports TV
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:0 group-title="Sports" ,One Golf PK
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:0 group-title="Sports" ,Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#EXTINF:0 group-title="Sports" ,Bloomberg TV EU
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:0 group-title="Sports" ,Viaplay Exrtra
+https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
+#EXTINF:0 group-title="Sports" ,MATH [RU]
+https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 group-title="Sports" ,Math 1 HD [RU]
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:0 group-title="Sports" ,Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="Sports" ,PTV Sports [pk]
+http://sonyiptv.net:8080/2244/2244/111409
+#EXTINF:0 group-title="Sports" ,18 SPORTS HD
+http://sonyiptv.net:8080/2244/2244/52077
+#EXTINF:0 group-title="Sports" ,GEO SUPER HD
+http://sonyiptv.net:8080/2244/2244/52080
+
+http://sonyiptv.net:8080/2244/2244/111409
+#EXTINF:0 group-title="Indian" ,ZEE CINEMA
+http://sonyiptv.net:8080/2244/2244/37
+#EXTINF:0 group-title="Indian" ,COLORS CINEPLEX
+http://sonyiptv.net:8080/2244/2244/43
+#EXTINF:0 group-title="Indian" ,ZEE ACTION
+http://sonyiptv.net:8080/2244/2244/50
+#EXTINF:0 group-title="Indian" ,COLOR RISHTE
+http://sonyiptv.net:8080/2244/2244/52
+#EXTINF:0 group-title="Indian" ,& FLIX
+http://sonyiptv.net:8080/2244/2244/55
+#EXTINF:0 group-title="Indian" ,COLOUR CINEPLEX BOLLYWOO
+COLOUR CINEPLEX BOLLYWOO
+#EXTINF:0 group-title="Indian" ,B4U MOVIE
+http://sonyiptv.net:8080/2244/2244/60
+#EXTINF:0 group-title="Indian" ,MANORANJAN MOVIE
+http://sonyiptv.net:8080/2244/2244/63
+#EXTINF:0 group-title="Indian" ,SONY PIX
+http://sonyiptv.net:8080/2244/2244/75
+#EXTINF:0 group-title="Indian" ,STAR UTSAV
+http://sonyiptv.net:8080/2244/2244/103
+#EXTINF:0 group-title="Indian" ,ZING
+http://sonyiptv.net:8080/2244/2244/106
+#EXTINF:0 group-title="Indian" ,MOVIE NOW
+http://sonyiptv.net:8080/2244/2244/113
+#EXTINF:0 group-title="Indian" ,MOVIE ACTIVE
+http://sonyiptv.net:8080/2244/2244/118
+#EXTINF:0 group-title="English" ,STAR WORLD ENGLISH HD
+http://sonyiptv.net:8080/2244/2244/52223
+#EXTINF:0 group-title="Indian" ,STAR WORLD PREMIER
+http://sonyiptv.net:8080/2244/2244/52224
+#EXTINF:0 group-title="Indian" ,STAR MOVIES SELECT ENGLISH
+http://sonyiptv.net:8080/2244/2244/52225
+#EXTINF:0 group-title="Indian" ,ENTER 10 MOVIE
+http://sonyiptv.net:8080/2244/2244/52231
+#EXTINF:0 group-title="Indian" ,BIG MAGIC
+http://sonyiptv.net:8080/2244/2244/52404
+#EXTINF:0 group-title="Indian" ,ZEE CLASSIC
+http://sonyiptv.net:8080/2244/2244/70255
+#EXTINF:0 group-title="Indian" ,HBO HD
+http://sonyiptv.net:8080/2244/2244/71199
+#EXTINF:0 group-title="Indian" ,CINE ACTIVE
+http://sonyiptv.net:8080/2244/2244/125292
+#EXTINF:0 group-title="Indian" ,COMEDY ACTIVE
+http://sonyiptv.net:8080/2244/2244/125293
+#EXTINF:0 group-title="Indian" ,GOLD MINES BOLLYWOOD
+http://sonyiptv.net:8080/2244/2244/134301
+#EXTINF:0 group-title="Indian" ,GOLD MINES
+http://sonyiptv.net:8080/2244/2244/141381
+#EXTINF:0 group-title="Indian" ,KHUSHBOO TV
+http://sonyiptv.net:8080/2244/2244/142889
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 1 HD" tvg-logo="http://filex.tv:8080/images/91b082932cd749b2f5901584b078fea2.png" group-title="CRICKET",SONY TEN 1 HD
+http://sonyiptv.net:8080/2244/2244/52083
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2 HD" tvg-logo="http://filex.tv:8080/images/7c01d33d407b043d4e6bde3333027505.png" group-title="CRICKET",SONY TEN 2 HD
+http://sonyiptv.net:8080/2244/2244/52085
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 3 HD" tvg-logo="http://filex.tv:8080/images/25530a31c5d8d360c8ab2f40db10215e.png" group-title="CRICKET",SONY TEN 3 HD
+http://sonyiptv.net:8080/2244/2244/52086
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="http://filex.tv:8080/images/49262566acaa5b4680908ee4c851d6ff.png" group-title="CRICKET",STAR SPORTS 1 HD
+http://sonyiptv.net:8080/2244/2244/52094
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="http://filex.tv:8080/images/cbd5bfac451fe6e0d9712c213952164d.png" group-title="CRICKET",STAR SPORTS 2 HD
+http://sonyiptv.net:8080/2244/2244/52096
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://i.ibb.co/rbgvLYd/Star-Sports-Select-1-X-Vision.png" group-title="CRICKET",STAR SPORTS SELECT 1 HD
+http://sonyiptv.net:8080/2244/2244/52098
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://i.ibb.co/dPP0vQS/Star-Sports-Select-2-X-Vision.png" group-title="CRICKET",STAR SPORTS SELECT 2 HD
+http://sonyiptv.net:8080/2244/2244/52100
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS CRICKET HD" tvg-logo="http://filex.tv:8080/images/cc25a2b0a4ce7c011bcaf719e6c524c3.png" group-title="CRICKET",SKY SPORTS CRICKET HD
+http://sonyiptv.net:8080/2244/2244/52102
+#EXTINF:-1 tvg-id="" tvg-name="TEN SPORTS HD" tvg-logo="http://sonyiptv.net:8080/images/085cd7b634f82c02e429f158d225db6f.png" group-title="CRICKET",TEN SPORTS HD
+http://sonyiptv.net:8080/2244/2244/52106
+#EXTINF:-1 tvg-id="" tvg-name="DD SPORTS" tvg-logo="http://filex.tv:8080/images/1fd5a426e1d04bedcab2bd12431e3ed2.png" group-title="CRICKET",DD SPORTS
+http://sonyiptv.net:8080/2244/2244/52107
+#EXTINF:-1 tvg-id="" tvg-name="WILLOW CRICKET HD" tvg-logo="http://filex.tv:8080/images/b47b2270c7c4339edf5f84a3de8c9366.png" group-title="CRICKET",WILLOW CRICKET HD
+http://sonyiptv.net:8080/2244/2244/52109
+#EXTINF:-1 tvg-id="" tvg-name="SONY SIX HD" tvg-logo="http://filex.tv:8080/images/652dffdb01e818ebaf040ea86613d035.png" group-title="CRICKET",SONY SIX HD
+http://sonyiptv.net:8080/2244/2244/52232
+#EXTINF:-1 tvg-id="" tvg-name="SUPER SPORTS CRICKET " tvg-logo="" group-title="CRICKET",SUPER SPORTS CRICKET 
+http://sonyiptv.net:8080/2244/2244/53044
+#EXTINF:-1 tvg-id="" tvg-name="ARY SPORTS HD" tvg-logo="" group-title="CRICKET",ARY SPORTS HD
+http://sonyiptv.net:8080/2244/2244/62393
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HINDI FHD " tvg-logo="" group-title="CRICKET",STAR SPORTS 1 HINDI FHD 
+http://sonyiptv.net:8080/2244/2244/90342
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD *" tvg-logo="http://filex.tv:8080/images/8e44876f47fc16e39d73934adb1b6ba0.png" group-title="CRICKET",ASTRO CRICKET HD *
+http://sonyiptv.net:8080/2244/2244/99833
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1 HD" tvg-logo="" group-title="CRICKET",BT SPORTS 1 HD
+http://sonyiptv.net:8080/2244/2244/111985
+#EXTINF:-1 tvg-id="" tvg-name="T SPORTS HD" tvg-logo="" group-title="CRICKET",T SPORTS HD
+http://sonyiptv.net:8080/2244/2244/122818
+
+#EXTINF:-1 tvg-id="" tvg-name="PTV NATIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_national_pk.png" group-title="PAKISTAN 4K",PTV NATIONAL
+http://sonyiptv.net:8080/2244/2244/246619
+#EXTINF:-1 tvg-id="" tvg-name="HUM TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum_tv_pk.png" group-title="PAKISTAN 4K",HUM TV HD
+http://sonyiptv.net:8080/2244/2244/246620
+#EXTINF:-1 tvg-id="" tvg-name="AUR LIFE HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aur-life-hd-pk.png" group-title="PAKISTAN 4K",AUR LIFE HD
+http://sonyiptv.net:8080/2244/2244/246621
+#EXTINF:-1 tvg-id="" tvg-name="FILMAZIA" tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmazia_pk.png" group-title="PAKISTAN 4K",FILMAZIA
+http://sonyiptv.net:8080/2244/2244/246622
+#EXTINF:-1 tvg-id="" tvg-name="FILMAZIA PASHTO" tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmazia-pashto-pk.png" group-title="PAKISTAN 4K",FILMAZIA PASHTO
+http://sonyiptv.net:8080/2244/2244/246623
+#EXTINF:-1 tvg-id="" tvg-name="FILMAZIA PUNJABI" tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmazia-punjabi-pk.png" group-title="PAKISTAN 4K",FILMAZIA PUNJABI
+http://sonyiptv.net:8080/2244/2244/246624
+#EXTINF:-1 tvg-id="" tvg-name="ATV HD" tvg-logo="http://webotv.asia:80/images/ef539b6df421dff0196ffec9dee7147c.png" group-title="PAKISTAN 4K",ATV HD
+http://sonyiptv.net:8080/2244/2244/246625
+#EXTINF:-1 tvg-id="" tvg-name="SONY SET SD" tvg-logo="http://webotv.asia:80/images/5a2c1273dfe782d9343789558849e6d0.png" group-title="INDIAN 4K",SONY SET SD
+http://sonyiptv.net:8080/2244/2244/246626
+#EXTINF:-1 tvg-id="" tvg-name="SONY TV FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/set-india-in.png" group-title="INDIAN 4K",SONY TV FHD
+http://sonyiptv.net:8080/2244/2244/246627
+#EXTINF:-1 tvg-id="" tvg-name="TS | SONY TV 4K" tvg-logo="http://webotv.asia:80/images/391f17b9a0e58d0b5986396c705a83f8.png" group-title="INDIAN 4K",TS | SONY TV 4K
+http://sonyiptv.net:8080/2244/2244/246628
+#EXTINF:-1 tvg-id="" tvg-name="COLORS SD" tvg-logo="http://webotv.asia:80/images/58641767e37942f1f4f00750677ef08f.png" group-title="INDIAN 4K",COLORS SD
+http://sonyiptv.net:8080/2244/2244/246629
+#EXTINF:-1 tvg-id="" tvg-name="COLORS FHD" tvg-logo="http://14.192.144.8:80/images/58641767e37942f1f4f00750677ef08f.png" group-title="INDIAN 4K",COLORS FHD
+http://sonyiptv.net:8080/2244/2244/246630
+#EXTINF:-1 tvg-id="" tvg-name="TS | COLORS 4K" tvg-logo="http://webotv.asia:80/images/ed81d5ab05d5cdd115fc01b3813d7840.png" group-title="INDIAN 4K",TS | COLORS 4K
+http://sonyiptv.net:8080/2244/2244/246631
+#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS SD" tvg-logo="http://webotv.asia:80/images/1a85f68031993ae53fa1bb095c76d0e7.png" group-title="INDIAN 4K",STAR PLUS SD
+http://sonyiptv.net:8080/2244/2244/246632
+#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-plus-in.png" group-title="INDIAN 4K",STAR PLUS FHD
+http://sonyiptv.net:8080/2244/2244/246633
+#EXTINF:-1 tvg-id="" tvg-name="TS | STAR PLUS 4K" tvg-logo="http://webotv.asia:80/images/c82fa2a2ba973b4ef2329513ea409666.png" group-title="INDIAN 4K",TS | STAR PLUS 4K
+http://sonyiptv.net:8080/2244/2244/246634
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV FHD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-tv-in.png" group-title="INDIAN 4K",ZEE TV FHD
+http://sonyiptv.net:8080/2244/2244/246635
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV FHD 1080" tvg-logo="http://pkindloc.com:8880/images/lZMsyULZRxIvAx2b2Z409Up8ZunOGtE9Xd7DyA0p5Cpxpj_glGxu1wZA6TQGaXLO.jpg" group-title="INDIAN 4K",ZEE TV FHD 1080
+http://sonyiptv.net:8080/2244/2244/246636
+#EXTINF:-1 tvg-id="" tvg-name="SONY SAB FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sab-tv-in.png" group-title="INDIAN 4K",SONY SAB FHD
+http://sonyiptv.net:8080/2244/2244/246637
+#EXTINF:-1 tvg-id="" tvg-name="TS | SONY SAB 4K" tvg-logo="http://webotv.asia:80/images/faa5e474bc7bdac54f40454d57433136.png" group-title="INDIAN 4K",TS | SONY SAB 4K
+http://sonyiptv.net:8080/2244/2244/246638
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-in.png" group-title="INDIAN 4K",SONY MAX FHD
+http://sonyiptv.net:8080/2244/2244/246639
+#EXTINF:-1 tvg-id="" tvg-name="TS | SONY MAX 4K" tvg-logo="http://webotv.asia:80/images/2f77af7a5d235054b6b97d9e83f6dd15.png" group-title="INDIAN 4K",TS | SONY MAX 4K
+http://sonyiptv.net:8080/2244/2244/246640
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD FHD" tvg-logo="http://14.192.144.8:80/images/86529251c86c936c4220f62d98d35e6f.png" group-title="INDIAN 4K",STAR GOLD FHD
+http://sonyiptv.net:8080/2244/2244/246641
+#EXTINF:-1 tvg-id="" tvg-name="TS | STAR GOLD 4K" tvg-logo="http://webotv.asia:80/images/fd92a2700d3dc05b11a22edc0eb8bb0a.png" group-title="INDIAN 4K",TS | STAR GOLD 4K
+http://sonyiptv.net:8080/2244/2244/246642
+#EXTINF:-1 tvg-id="" tvg-name="&TV FHD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and_tv_in.png" group-title="INDIAN 4K",&TV FHD
+http://sonyiptv.net:8080/2244/2244/246643
+#EXTINF:-1 tvg-id="" tvg-name="SONY PAL HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pal-in.png" group-title="INDIAN 4K",SONY PAL HD
+http://sonyiptv.net:8080/2244/2244/246644
+#EXTINF:-1 tvg-id="" tvg-name="STAR BHARAT FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-bharat-hk-in.png" group-title="INDIAN 4K",STAR BHARAT FHD
+http://sonyiptv.net:8080/2244/2244/246645
+#EXTINF:-1 tvg-id="" tvg-name="SONY PIX FHD" tvg-logo="http://14.192.144.8:80/images/dbe6e2c68e2f07e2a11c8f581b609257.png" group-title="INDIAN 4K",SONY PIX FHD
+http://sonyiptv.net:8080/2244/2244/246646
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-in.png" group-title="INDIAN 4K",SONY MAX FHD
+http://sonyiptv.net:8080/2244/2244/246647
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-2-in.png" group-title="INDIAN 4K",SONY MAX 2 HD
+http://sonyiptv.net:8080/2244/2244/246648
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD FHD" tvg-logo="http://14.192.144.8:80/images/86529251c86c936c4220f62d98d35e6f.png" group-title="INDIAN 4K",STAR GOLD FHD
+http://sonyiptv.net:8080/2244/2244/246649
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SELECT FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_gold_in_select_hd.png" group-title="INDIAN 4K",STAR GOLD SELECT FHD
+http://sonyiptv.net:8080/2244/2244/246650
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA FHD" tvg-logo="http://14.192.144.8:80/images/1a5e66c6714c6dabdb7aaee28f91835e.png" group-title="INDIAN 4K",ZEE CINEMA FHD
+http://sonyiptv.net:8080/2244/2244/246651
+#EXTINF:-1 tvg-id="" tvg-name="&PICTURES FHD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and_pictures_in.png" group-title="INDIAN 4K",&PICTURES FHD
+http://sonyiptv.net:8080/2244/2244/246652
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" group-title="INDIAN 4K",STAR MOVIES FHD
+http://sonyiptv.net:8080/2244/2244/246653
+#EXTINF:-1 tvg-id="" tvg-name="&FLIX FHD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-flix-in.png" group-title="INDIAN 4K",&FLIX FHD
+http://sonyiptv.net:8080/2244/2244/246654
+#EXTINF:-1 tvg-id="" tvg-name="&PRIVE FHD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="INDIAN 4K",&PRIVE FHD
+http://sonyiptv.net:8080/2244/2244/246655
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES SELECT FHD" tvg-logo="http://14.192.144.8:80/images/feec1ed700906cfa9f9b4776c80614ef.png" group-title="INDIAN 4K",STAR MOVIES SELECT FHD
+http://sonyiptv.net:8080/2244/2244/246656
+#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/goldmines-in.png" group-title="INDIAN 4K",GOLDMINES HD
+http://sonyiptv.net:8080/2244/2244/246657
+#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES BOLLYWOOD HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/goldmines-bollywood-in.png" group-title="INDIAN 4K",GOLDMINES BOLLYWOOD HD
+http://sonyiptv.net:8080/2244/2244/246658
+#EXTINF:-1 tvg-id="" tvg-name="B4U MOVIES HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/b4u_movies_in.png" group-title="INDIAN 4K",B4U MOVIES HD
+http://sonyiptv.net:8080/2244/2244/246659
+#EXTINF:-1 tvg-id="" tvg-name="B4U KADAK HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/b4u-kadak-in.png" group-title="INDIAN 4K",B4U KADAK HD
+http://sonyiptv.net:8080/2244/2244/246660
+#EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-cineplex-in.png" group-title="INDIAN 4K",COLORS CINEPLEX HD
+http://sonyiptv.net:8080/2244/2244/246661
+#EXTINF:-1 tvg-id="" tvg-name="MANORANJAN MOVIES HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/manoranjan-movies-in.png" group-title="INDIAN 4K",MANORANJAN MOVIES HD
+http://sonyiptv.net:8080/2244/2244/246662
+#EXTINF:-1 tvg-id="" tvg-name="POPCORN MOVIES HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/popcorn-movies-in.png" group-title="INDIAN 4K",POPCORN MOVIES HD
+http://sonyiptv.net:8080/2244/2244/246663
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD THRILLS HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-gold-thrills-hk.png" group-title="INDIAN 4K",STAR GOLD THRILLS HD
+http://sonyiptv.net:8080/2244/2244/246664
+#EXTINF:-1 tvg-id="" tvg-name="EVERGREEN CLASSIC" tvg-logo="" group-title="INDIAN 4K",EVERGREEN CLASSIC
+http://sonyiptv.net:8080/2244/2244/246665
+#EXTINF:-1 tvg-id="" tvg-name="COLORS INFINITY HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-infinity-in.png" group-title="INDIAN 4K",COLORS INFINITY HD
+http://sonyiptv.net:8080/2244/2244/246666
+#EXTINF:-1 tvg-id="" tvg-name="COLORS RISHTEY" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-rishtey-in.png" group-title="INDIAN 4K",COLORS RISHTEY
+http://sonyiptv.net:8080/2244/2244/246667
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD ROMANCE" tvg-logo="https://www.indiantvinfo.com/media/2023/03/Star-Gold-Romance-Logo.png" group-title="INDIAN 4K",STAR GOLD ROMANCE
+http://sonyiptv.net:8080/2244/2244/246668
+#EXTINF:-1 tvg-id="" tvg-name="MN+ HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movies_now_plus_hd.png" group-title="INDIAN 4K",MN+ HD
+http://sonyiptv.net:8080/2244/2244/246669
+#EXTINF:-1 tvg-id="" tvg-name="SONY WAH HD" tvg-logo="http://tv.netstream.pk:80/images/12d498331c622e82098ba20938cf7608.png" group-title="INDIAN 4K",SONY WAH HD
+http://sonyiptv.net:8080/2244/2244/246670
+#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="http://tv.netstream.pk:80/images/5e167c666212997c885ab826ff23e961.png" group-title="INDIAN 4K",GOLDMINES BOLLYWOOD
+http://sonyiptv.net:8080/2244/2244/246671
+#EXTINF:-1 tvg-id="" tvg-name="THRILLER ACTIVE HD" tvg-logo="" group-title="INDIAN 4K",THRILLER ACTIVE HD
+http://sonyiptv.net:8080/2244/2244/246672
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ACTION HD" tvg-logo="http://tv.netstream.pk:80/images/4f472f4e2ce768019c74b5d047c5e7d8.png" group-title="INDIAN 4K",ZEE ACTION HD
+http://sonyiptv.net:8080/2244/2244/246673
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD 2 HD" tvg-logo="http://tv.netstream.pk:80/images/6024d7c7bfa161edab3d218ccba47382.png" group-title="INDIAN 4K",STAR GOLD 2 HD
+http://sonyiptv.net:8080/2244/2244/246674
+
+ 
