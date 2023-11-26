@@ -1,0 +1,201 @@
+#EXTM3U
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/EaHWWNl.jpg" group-title="Entertainment",7Star TV
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",9X Jalwa (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0nc/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",9X Jhakaas (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0mx/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="Music",9XM (480p)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg" group-title="Undefined",ABP Ananda
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZNoM8_ZqOG-8Lksy07YD-ltPehSFnfWcmxTU1LxlwbC58_8jcfJ987g" group-title="News",ABP Asmita
+http://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ABP Asmita
+http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZNoM8_ZqOG-8Lksy07YD-ltPehSFnfWcmxTU1LxlwbC58_8jcfJ987g" group-title="News",ABP Asmita
+https://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="News",ABP News
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN;IN" tvg-logo="" group-title="Undefined",APB,印度APB
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",APB
+https://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Anjan (720p)
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Artist Aloud (1080p) [Not 24/7]
+https://live.hungama.com/linear/artist-aloud/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/WjNX1vS.png" group-title="Undefined",Ashrafi Channel
+http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/89LBgkl.png" group-title="News",Asianet News (404p)
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://static.asianetnews.com/v1/images/tamil_logo.png" group-title="News",Asianet News Tamil (360p)
+https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",Assam Talks
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/ayush_tv_in.png" group-title="Lifestyle",Ayush TV
+http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",B4U Bhojpuri (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0nq/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",BFLIX MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Bhojpuri Cinema (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0rj/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Box Cinema (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0su/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Business;Undefined",CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/3yumcV3.jpg" group-title="Business",CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Channel Win (360p)
+https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Channel-S Live TV
+https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0500/c.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",DD NEWS
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Dabangg (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0nb/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Darshana TV (360p) [Not 24/7]
+https://live.neestream.net/neestream_01/darshanatv/tracks-v1a1/mono.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/DESICHANNEL09.jpg" group-title="Music",Desi Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Desi Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/DESICHANNEL09.jpg" group-title="Music",Desi Channel
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/desiplustv.jpg" group-title="Undefined",Desi Plus
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Dhamaal (1080p) [Not 24/7]
+https://live.hungama.com/linear/dhamaal/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Dhinchaak (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0o5/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Dhinchaak 2 (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0tm/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Dil Se (360p) [Not 24/7]
+https://live.hungama.com/linear/dil-se/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Dishum (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0pe/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Dreamz TV (576p) [Not 24/7]
+http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",E24 (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0pc/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ETV Telangana (480p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6ickpgDIsltU_-8CbZaksQ/live&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Enter10 Bangla (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0j5/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",FASTWAY NEWS (720p)
+http://163.47.214.155:1935/fwnews/live/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Fakt Marathi (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0q8/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Food Food (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0qx/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Global Punjab (720p) [Not 24/7]
+https://media.streambrothers.com:1936/8522/8522/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/lzmU9zr.png" group-title="Undefined",Harvest TV USA
+http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/lzmU9zr.png" group-title="Undefined",Harvest TV USA
+https://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Hi Dosti (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0rg/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",I Love (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0p3/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",INDIA NEWS
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Imayam (480p) [Not 24/7]
+https://idvd.multitvsolution.com/idvo/imayamtv.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Jan TV (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.youtube.com/channel/UCjmnq35TvJ1J8JZS49OPg-Q/live&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/janam_tv_in.png" group-title="Entertainment",Janam TV
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/chunks.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/janam_tv_in.png" group-title="Entertainment",Janam TV
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Janam TV (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0ja/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Janam TV (720p)
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Janta TV
+http://live.wmncdn.net/jantatv/live.stream/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Janta TV
+https://live.wmncdn.net/jantatv/live.stream/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Jonack TV (360p)
+https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",KCV (576p) [Not 24/7]
+http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",KCV Movies (576p) [Not 24/7]
+http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",KITE Victers (Kerala) (720p) [Not 24/7]
+https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Kadak Hits (1080p) [Not 24/7]
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Kairali Arabia (480p) [Not 24/7]
+https://idvd.multitvsolution.com/idvo/kairaliarabia_540p/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Kannur One (720p) [Not 24/7]
+https://bnwdplewrp3a-hls-live.wmncdn.net/kannur1/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Kerala Vision (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0ni/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Khabrain Abhi Tak (480p) [Not 24/7]
+https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",MAHA MOVIE
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",MANORANJAN MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",MH1 Music
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",MH1 News
+http://rtmp.smartstream.video:1935/mhonenews/mhonenews/chunklist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Maha Movie (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0q7/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Makkal TV (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0l1/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",Malabar News (720p) [Not 24/7]
+http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Manoranjan Grand (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0m2/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",Mathrubhumi News (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCwXrBBZnIh2ER4lal6WbAHw/live&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Mazhavil Manorama (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0pa/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Mazhavil Manorama HD (1080p) [Not 24/7]
+http://14.199.164.20:4001/play/a0p9/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Undefined",Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/mirror_now_in.png" group-title="News",Mirror Now
+https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Mtunes Plus (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0p2/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Music",Music India (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0mt/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Music",Music India (576p) [Not 24/7]
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",NCV (720p) [Not 24/7]
+http://131.153.22.8:1935/NCV/ncvstream/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",NDTV
+https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="News",NDTV 24X7 (480p)
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/80vwZaO.png" group-title="News",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",NDTV India (480p)
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/pQ7nl12.png" group-title="News",NDTV Profit
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="Business",NDTV Profit (480p)
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",NEWS 18 ASSAM
+https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",NEWS 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",NVision
+http://live.singamcloud.in:1935/nvision/nvision/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Naaptol (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0n1/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/83/74/55/8374557a-7e1b-dc56-e79a-7494fd40a275/source/60x60bb.jpg" group-title="Undefined",Namdhari
+https://namdhari.tv/live/sbs1.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Nazrana (720p) [Not 24/7]
+https://live.hungama.com/linear/nazrana/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",News 18 Assam
+https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?checkedby:iptvcat.net
