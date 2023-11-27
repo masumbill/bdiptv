@@ -76,7 +76,28 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 #EXTINF:-1 group-title="My Favourite" ,Star Sports 1
 http://41.205.93.154/STARSPORTS1/index.m3u8
-
+#EXTINF:-1 group-title="My Favourite" ,PTV sports
+http://175.107.244.52:4457/play/a08g/index.m3u8
+#EXTINF:-1 group-title="My Favourite" ,Star sports
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
+#EXTINF:-1 group-title="My Favourite" ,Star Sports
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
+#EXTINF:-1 group-title="My Favourite" ,TLT** Sports > 1
+http://cdn.live247stream.com/thelight/tv/playlist.m3u8
+#EXTINF:-1 group-title="My Favourite" ,Willow Cricket HD
+http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
+#EXTINF:-1 group-title="My Favourite" ,Astro 🇲🇾 Cricket HD
+http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
+#EXTINF:-1 group-title="My Favourite" ,ICC TV Add free Channel
+https://streaming-akamized-proximity-hls-1.tahsin-ahmedahm.repl.co/hls/espn_auto.m3u8
+#EXTINF:-1 group-title="My Favourite" ,Gazi TV 2
+https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Gazi_Tv/hls/index.m3u8
+#EXTINF:-1 group-title="My Favourite" ,Willow Extra TV
+https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
+#EXTINF:-1 group-title="My Favourite" ,Saudi Pro League Live Match
+https://af.ayassport.ir/hls2/ssc1.m3u8
+#EXTINF:-1 group-title="My Favourite" ,BEIN Sports 1
+https://stream.ayas.ir/hls2/bein1.m3u8
 
 #EXTINF:0 group-title="KIDS ZONE" ,TOM & JERRY
 http://sonyiptv.net:8080/2244/2244/124006
