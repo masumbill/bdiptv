@@ -74,6 +74,10 @@ https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:0 group-title="BANGLADESH" ,NRB TV  [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
 
+#EXTINF:-1 group-title="My Favourite" ,Star Sports 1
+http://41.205.93.154/STARSPORTS1/index.m3u8
+
+
 #EXTINF:0 group-title="KIDS ZONE" ,TOM & JERRY
 http://sonyiptv.net:8080/2244/2244/124006
 #EXTINF:0 group-title="KIDS ZONE" ,Chu Chu TV
