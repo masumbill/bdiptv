@@ -82,8 +82,6 @@ http://175.107.244.52:4457/play/a08g/index.m3u8
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 group-title="My Favourite" ,Star Sports
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
-#EXTINF:-1 group-title="My Favourite" ,TLT** Sports > 1
-http://cdn.live247stream.com/thelight/tv/playlist.m3u8
 #EXTINF:-1 group-title="My Favourite" ,Willow Cricket HD
 http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
 #EXTINF:-1 group-title="My Favourite" ,Astro 🇲🇾 Cricket HD
