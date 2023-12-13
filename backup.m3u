@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1,92 News
 http://iptvtree.net:8080/F24365/058a5194/1402
 #EXTINF:-1,ARY Digital Asia
@@ -63,7 +64,6 @@ http://iptvtree.net:8080/mariopalberto/d72830ce91/11256
 #EXTINF:-1,IQ: Alhurra
 http://iptvtree.net:8080/mariopalberto/d72830ce91/1289
 
-
 #EXTINF:-1,IR Simaye Azadi Iranntv
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
 #EXTINF:-1, Al Manar Tv (Lebanon)
@@ -74,7 +74,6 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 https://mn-nl.mncdn.com:443/qaf/live/chunklist.m3u8
 #EXTINF:-1,Egypt TEN (Tahrir Network) TV
 https://weyyak-live.akamaized.net:443/weyyak_ten_tv/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1,YE: Aden TV
 http://iptvtree.net:8080/mariopalberto/d72830ce91/266324
@@ -268,7 +267,6 @@ http://iptvtree.net:8080/mariopalberto/d72830ce91/66165
 http://iptvtree.net:8080/mariopalberto/d72830ce91/196430
 #EXTINF:-1,AFG: Zhwandoon TV
 http://iptvtree.net:8080/mariopalberto/d72830ce91/66172
-
 
 #EXTINF:-1,PK| PTV Bolan
 https://ptvbkp.nayatel.com/transcoder/ptvbolantrc_source/playlist.m3u8
@@ -470,7 +468,6 @@ http://tv2.ebox.live:8080/live/ptvsports.m3u8
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="",Al Fallujah Tv
 https://live-ak.vimeocdn.com/exp=1702298839~acl=%2Fcb1ce84c-2378-4f44-9737-942a360da277%2F%2A~hmac=1261a117c31a8933b20179174c6d48a10ec2d070270aacf5bab7b17fcd21edd4/cb1ce84c-2378-4f44-9737-942a360da277/hls.m3u8?min_seconds=30
-
 
 #EXTINF:-1 tvg-id="IslamChannel.uk" tvg-country="UK" tvg-language="Urdu" tvg-logo="https://simplestream-portal.s3.eu-west-1.amazonaws.com/172/642f780c-islamtv.png" group-title="Religious",Islam Channel Urdu 
 https://live-islamtv-urdu.simplestreamcdn.com/live7/islamtv_urdu/bitrate1.isml/live.m3u8
