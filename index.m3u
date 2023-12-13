@@ -505,7 +505,9 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD14_DIG_MOB/Fallback/ind
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
 #EXTINF:-1 group-title="Personal" tvg-logo="https://i.ibb.co/xMJpLXB/profile-pic-1.png",MTV Beats 1080p
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/MTV_Beats_HD_voot_MOB-audio_98835_hin=98800-video=3110800.m3u8
-#EXTM3U
+
+
+
 #EXTINF:-1,Zee Tv India HD
 http://go.justflix.tv:80/client101/tuRLZijv18/163
 #EXTINF:-1,Sony TV India HD
