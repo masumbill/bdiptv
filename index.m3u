@@ -74,431 +74,1000 @@ https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:0 group-title="BANGLADESH" ,NRB TV  [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="My Favourite" ,Star Sports 1
-http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 group-title="My Favourite" ,PTV sports
-http://175.107.244.52:4457/play/a08g/index.m3u8
-#EXTINF:-1 group-title="My Favourite" ,Star sports
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
-#EXTINF:-1 group-title="My Favourite" ,Star Sports
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
-#EXTINF:-1 group-title="My Favourite" ,Willow Cricket HD
-http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
-#EXTINF:-1 group-title="My Favourite" ,Astro 🇲🇾 Cricket HD
-http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
-#EXTINF:-1 group-title="My Favourite" ,ICC TV Add free Channel
-https://streaming-akamized-proximity-hls-1.tahsin-ahmedahm.repl.co/hls/espn_auto.m3u8
-#EXTINF:-1 group-title="My Favourite" ,Gazi TV 2
-https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Gazi_Tv/hls/index.m3u8
-#EXTINF:-1 group-title="My Favourite" ,Willow Extra TV
-https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
-#EXTINF:-1 group-title="My Favourite" ,Saudi Pro League Live Match
-https://af.ayassport.ir/hls2/ssc1.m3u8
-#EXTINF:-1 group-title="My Favourite" ,BEIN Sports 1
-https://stream.ayas.ir/hls2/bein1.m3u8
-
-#EXTINF:0 group-title="KIDS ZONE" ,TOM & JERRY
-http://sonyiptv.net:8080/2244/2244/124006
-#EXTINF:0 group-title="KIDS ZONE" ,Chu Chu TV
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/906
-#EXTINF:-1 group-title="Indian Bangla" ,Sony ATT
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Disney-Channel-Logo-700x394.png" group-title="KIDS",DISNEY CHANNEL
-http://sonyiptv.net:8080/2244/2244/246763
-#EXTINF:-1 tvg-id="" tvg-name="POGO HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pogo-in.png" group-title="KIDS",POGO HD
-http://sonyiptv.net:8080/2244/2244/246764
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-kids-asia-us.png" group-title="KIDS",DISCOVERY KIDS
-http://sonyiptv.net:8080/2244/2244/246765
-#EXTINF:-1 tvg-id="" tvg-name="HUNGAMA TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hungama.png" group-title="KIDS",HUNGAMA TV
-http://sonyiptv.net:8080/2244/2244/246766
-#EXTINF:-1 tvg-id="" tvg-name="SONIC NICK HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nickelodeon_sonic_us.png" group-title="KIDS",SONIC NICK HD
-http://sonyiptv.net:8080/2244/2244/246767
-#EXTINF:-1 tvg-id="" tvg-name="SONY YAY HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-yay-in.png" group-title="KIDS",SONY YAY HD
-http://sonyiptv.net:8080/2244/2244/246768
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_junior_us.png" group-title="KIDS",DISNEY JUNIOR HD
-http://sonyiptv.net:8080/2244/2244/246769
-#EXTINF:-1 tvg-id="" tvg-name="NICK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/New_Nick_Logo_2015.png" group-title="KIDS",NICK HD
-http://sonyiptv.net:8080/2244/2244/246770
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK (HINDI)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Cartoon-Network-logo-500x281.png" group-title="KIDS",CARTOON NETWORK (HINDI)
-http://sonyiptv.net:8080/2244/2244/246771
-#EXTINF:-1 tvg-id="" tvg-name="KIDS ACTIVE TOONS" tvg-logo="" group-title="KIDS",KIDS ACTIVE TOONS
-http://sonyiptv.net:8080/2244/2244/246772
-#EXTINF:-1 tvg-id="" tvg-name="KIDS ACTIVE RHYME" tvg-logo="" group-title="KIDS",KIDS ACTIVE RHYME
-http://sonyiptv.net:8080/2244/2244/246773
-#EXTINF:-1 tvg-id="" tvg-name="KIDSZONE HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kidzoneplus-pakistan-ee-pk.png" group-title="KIDS",KIDSZONE HD
-http://sonyiptv.net:8080/2244/2244/246774
-#EXTINF:-1 tvg-id="" tvg-name="PLANET FUN HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/planet-fun-uk.png" group-title="KIDS",PLANET FUN HD
-http://sonyiptv.net:8080/2244/2244/246775
-#EXTINF:-1 tvg-id="" tvg-name="POP KIDS HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pop-in.png" group-title="KIDS",POP KIDS HD
-http://sonyiptv.net:8080/2244/2244/246776
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Cartoon-Network-logo-500x281.png" group-title="KIDS",CARTOON NETWORK HD
-http://sonyiptv.net:8080/2244/2244/246777
-#EXTINF:-1 tvg-id="" tvg-name="HOORA TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hoora-tv-uk.png" group-title="KIDS",HOORA TV HD
-http://sonyiptv.net:8080/2244/2244/246778
-#EXTINF:-1 tvg-id="" tvg-name="MINIMAX HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/minimax-hu.png" group-title="KIDS",MINIMAX HD
-http://sonyiptv.net:8080/2244/2244/246779
-
-#EXTINF:0 group-title="Sports" ,Abu Dhabi Sports
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:0 group-title="Sports" ,Bahrain Sports
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:0 group-title="Sports" ,CDR
-https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8
-#EXTINF:0 group-title="Sports" ,DSTV
-http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
-#EXTINF:0 group-title="Sports" ,Dubai Racing
-https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:0 group-title="Sports" ,Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:0 group-title="Sports" ,FTF
-https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 group-title="Sports" ,Oman Sports TV
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:0 group-title="Sports" ,One Golf PK
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:0 group-title="Sports" ,Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-#EXTINF:0 group-title="Sports" ,Bloomberg TV EU
-https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:0 group-title="Sports" ,Viaplay Exrtra
-https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
-#EXTINF:0 group-title="Sports" ,MATH [RU]
-https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0 group-title="Sports" ,Math 1 HD [RU]
-http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:0 group-title="Sports" ,Trace Sports
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="Sports" ,PTV Sports [pk]
-http://sonyiptv.net:8080/2244/2244/111409
-#EXTINF:0 group-title="Sports" ,18 SPORTS HD
-http://sonyiptv.net:8080/2244/2244/52077
-#EXTINF:0 group-title="Sports" ,GEO SUPER HD
-http://sonyiptv.net:8080/2244/2244/52080
-
-http://sonyiptv.net:8080/2244/2244/111409
-#EXTINF:0 group-title="Indian" ,ZEE CINEMA
-http://sonyiptv.net:8080/2244/2244/37
-#EXTINF:0 group-title="Indian" ,COLORS CINEPLEX
-http://sonyiptv.net:8080/2244/2244/43
-#EXTINF:0 group-title="Indian" ,ZEE ACTION
-http://sonyiptv.net:8080/2244/2244/50
-#EXTINF:0 group-title="Indian" ,COLOR RISHTE
-http://sonyiptv.net:8080/2244/2244/52
-#EXTINF:0 group-title="Indian" ,& FLIX
-http://sonyiptv.net:8080/2244/2244/55
-#EXTINF:0 group-title="Indian" ,COLOUR CINEPLEX BOLLYWOO
-COLOUR CINEPLEX BOLLYWOO
-#EXTINF:0 group-title="Indian" ,B4U MOVIE
-http://sonyiptv.net:8080/2244/2244/60
-#EXTINF:0 group-title="Indian" ,MANORANJAN MOVIE
-http://sonyiptv.net:8080/2244/2244/63
-#EXTINF:0 group-title="Indian" ,SONY PIX
-http://sonyiptv.net:8080/2244/2244/75
-#EXTINF:0 group-title="Indian" ,STAR UTSAV
-http://sonyiptv.net:8080/2244/2244/103
-#EXTINF:0 group-title="Indian" ,ZING
-http://sonyiptv.net:8080/2244/2244/106
-#EXTINF:0 group-title="Indian" ,MOVIE NOW
-http://sonyiptv.net:8080/2244/2244/113
-#EXTINF:0 group-title="Indian" ,MOVIE ACTIVE
-http://sonyiptv.net:8080/2244/2244/118
-#EXTINF:0 group-title="English" ,STAR WORLD ENGLISH HD
-http://sonyiptv.net:8080/2244/2244/52223
-#EXTINF:0 group-title="Indian" ,STAR WORLD PREMIER
-http://sonyiptv.net:8080/2244/2244/52224
-#EXTINF:0 group-title="Indian" ,STAR MOVIES SELECT ENGLISH
-http://sonyiptv.net:8080/2244/2244/52225
-#EXTINF:0 group-title="Indian" ,ENTER 10 MOVIE
-http://sonyiptv.net:8080/2244/2244/52231
-#EXTINF:0 group-title="Indian" ,BIG MAGIC
-http://sonyiptv.net:8080/2244/2244/52404
-#EXTINF:0 group-title="Indian" ,ZEE CLASSIC
-http://sonyiptv.net:8080/2244/2244/70255
-#EXTINF:0 group-title="Indian" ,HBO HD
-http://sonyiptv.net:8080/2244/2244/71199
-#EXTINF:0 group-title="Indian" ,CINE ACTIVE
-http://sonyiptv.net:8080/2244/2244/125292
-#EXTINF:0 group-title="Indian" ,COMEDY ACTIVE
-http://sonyiptv.net:8080/2244/2244/125293
-#EXTINF:0 group-title="Indian" ,GOLD MINES BOLLYWOOD
-http://sonyiptv.net:8080/2244/2244/134301
-#EXTINF:0 group-title="Indian" ,GOLD MINES
-http://sonyiptv.net:8080/2244/2244/141381
-#EXTINF:0 group-title="Indian" ,KHUSHBOO TV
-http://sonyiptv.net:8080/2244/2244/142889
-
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 1 HD" tvg-logo="http://filex.tv:8080/images/91b082932cd749b2f5901584b078fea2.png" group-title="CRICKET",SONY TEN 1 HD
-http://sonyiptv.net:8080/2244/2244/52083
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2 HD" tvg-logo="http://filex.tv:8080/images/7c01d33d407b043d4e6bde3333027505.png" group-title="CRICKET",SONY TEN 2 HD
-http://sonyiptv.net:8080/2244/2244/52085
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 3 HD" tvg-logo="http://filex.tv:8080/images/25530a31c5d8d360c8ab2f40db10215e.png" group-title="CRICKET",SONY TEN 3 HD
-http://sonyiptv.net:8080/2244/2244/52086
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="http://filex.tv:8080/images/49262566acaa5b4680908ee4c851d6ff.png" group-title="CRICKET",STAR SPORTS 1 HD
-http://sonyiptv.net:8080/2244/2244/52094
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="http://filex.tv:8080/images/cbd5bfac451fe6e0d9712c213952164d.png" group-title="CRICKET",STAR SPORTS 2 HD
-http://sonyiptv.net:8080/2244/2244/52096
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://i.ibb.co/rbgvLYd/Star-Sports-Select-1-X-Vision.png" group-title="CRICKET",STAR SPORTS SELECT 1 HD
-http://sonyiptv.net:8080/2244/2244/52098
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://i.ibb.co/dPP0vQS/Star-Sports-Select-2-X-Vision.png" group-title="CRICKET",STAR SPORTS SELECT 2 HD
-http://sonyiptv.net:8080/2244/2244/52100
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS CRICKET HD" tvg-logo="http://filex.tv:8080/images/cc25a2b0a4ce7c011bcaf719e6c524c3.png" group-title="CRICKET",SKY SPORTS CRICKET HD
-http://sonyiptv.net:8080/2244/2244/52102
-#EXTINF:-1 tvg-id="" tvg-name="TEN SPORTS HD" tvg-logo="http://sonyiptv.net:8080/images/085cd7b634f82c02e429f158d225db6f.png" group-title="CRICKET",TEN SPORTS HD
-http://sonyiptv.net:8080/2244/2244/52106
-#EXTINF:-1 tvg-id="" tvg-name="DD SPORTS" tvg-logo="http://filex.tv:8080/images/1fd5a426e1d04bedcab2bd12431e3ed2.png" group-title="CRICKET",DD SPORTS
-http://sonyiptv.net:8080/2244/2244/52107
-#EXTINF:-1 tvg-id="" tvg-name="WILLOW CRICKET HD" tvg-logo="http://filex.tv:8080/images/b47b2270c7c4339edf5f84a3de8c9366.png" group-title="CRICKET",WILLOW CRICKET HD
-http://sonyiptv.net:8080/2244/2244/52109
-#EXTINF:-1 tvg-id="" tvg-name="SONY SIX HD" tvg-logo="http://filex.tv:8080/images/652dffdb01e818ebaf040ea86613d035.png" group-title="CRICKET",SONY SIX HD
-http://sonyiptv.net:8080/2244/2244/52232
-#EXTINF:-1 tvg-id="" tvg-name="SUPER SPORTS CRICKET " tvg-logo="" group-title="CRICKET",SUPER SPORTS CRICKET 
-http://sonyiptv.net:8080/2244/2244/53044
-#EXTINF:-1 tvg-id="" tvg-name="ARY SPORTS HD" tvg-logo="" group-title="CRICKET",ARY SPORTS HD
-http://sonyiptv.net:8080/2244/2244/62393
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HINDI FHD " tvg-logo="" group-title="CRICKET",STAR SPORTS 1 HINDI FHD 
-http://sonyiptv.net:8080/2244/2244/90342
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD *" tvg-logo="http://filex.tv:8080/images/8e44876f47fc16e39d73934adb1b6ba0.png" group-title="CRICKET",ASTRO CRICKET HD *
-http://sonyiptv.net:8080/2244/2244/99833
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1 HD" tvg-logo="" group-title="CRICKET",BT SPORTS 1 HD
-http://sonyiptv.net:8080/2244/2244/111985
-#EXTINF:-1 tvg-id="" tvg-name="T SPORTS HD" tvg-logo="" group-title="CRICKET",T SPORTS HD
-http://sonyiptv.net:8080/2244/2244/122818
-
-#EXTINF:-1 tvg-id="" tvg-name="PTV NATIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_national_pk.png" group-title="PAKISTAN 4K",PTV NATIONAL
-http://sonyiptv.net:8080/2244/2244/246619
-#EXTINF:-1 tvg-id="" tvg-name="HUM TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum_tv_pk.png" group-title="PAKISTAN 4K",HUM TV HD
-http://sonyiptv.net:8080/2244/2244/246620
-#EXTINF:-1 tvg-id="" tvg-name="AUR LIFE HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aur-life-hd-pk.png" group-title="PAKISTAN 4K",AUR LIFE HD
-http://sonyiptv.net:8080/2244/2244/246621
-#EXTINF:-1 tvg-id="" tvg-name="FILMAZIA" tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmazia_pk.png" group-title="PAKISTAN 4K",FILMAZIA
-http://sonyiptv.net:8080/2244/2244/246622
-#EXTINF:-1 tvg-id="" tvg-name="FILMAZIA PASHTO" tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmazia-pashto-pk.png" group-title="PAKISTAN 4K",FILMAZIA PASHTO
-http://sonyiptv.net:8080/2244/2244/246623
-#EXTINF:-1 tvg-id="" tvg-name="FILMAZIA PUNJABI" tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmazia-punjabi-pk.png" group-title="PAKISTAN 4K",FILMAZIA PUNJABI
-http://sonyiptv.net:8080/2244/2244/246624
-#EXTINF:-1 tvg-id="" tvg-name="ATV HD" tvg-logo="http://webotv.asia:80/images/ef539b6df421dff0196ffec9dee7147c.png" group-title="PAKISTAN 4K",ATV HD
-http://sonyiptv.net:8080/2244/2244/246625
-#EXTINF:-1 tvg-id="" tvg-name="SONY SET SD" tvg-logo="http://webotv.asia:80/images/5a2c1273dfe782d9343789558849e6d0.png" group-title="INDIAN 4K",SONY SET SD
-http://sonyiptv.net:8080/2244/2244/246626
-#EXTINF:-1 tvg-id="" tvg-name="SONY TV FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/set-india-in.png" group-title="INDIAN 4K",SONY TV FHD
-http://sonyiptv.net:8080/2244/2244/246627
-#EXTINF:-1 tvg-id="" tvg-name="TS | SONY TV 4K" tvg-logo="http://webotv.asia:80/images/391f17b9a0e58d0b5986396c705a83f8.png" group-title="INDIAN 4K",TS | SONY TV 4K
-http://sonyiptv.net:8080/2244/2244/246628
-#EXTINF:-1 tvg-id="" tvg-name="COLORS SD" tvg-logo="http://webotv.asia:80/images/58641767e37942f1f4f00750677ef08f.png" group-title="INDIAN 4K",COLORS SD
-http://sonyiptv.net:8080/2244/2244/246629
-#EXTINF:-1 tvg-id="" tvg-name="COLORS FHD" tvg-logo="http://14.192.144.8:80/images/58641767e37942f1f4f00750677ef08f.png" group-title="INDIAN 4K",COLORS FHD
-http://sonyiptv.net:8080/2244/2244/246630
-#EXTINF:-1 tvg-id="" tvg-name="TS | COLORS 4K" tvg-logo="http://webotv.asia:80/images/ed81d5ab05d5cdd115fc01b3813d7840.png" group-title="INDIAN 4K",TS | COLORS 4K
-http://sonyiptv.net:8080/2244/2244/246631
-#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS SD" tvg-logo="http://webotv.asia:80/images/1a85f68031993ae53fa1bb095c76d0e7.png" group-title="INDIAN 4K",STAR PLUS SD
-http://sonyiptv.net:8080/2244/2244/246632
-#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-plus-in.png" group-title="INDIAN 4K",STAR PLUS FHD
-http://sonyiptv.net:8080/2244/2244/246633
-#EXTINF:-1 tvg-id="" tvg-name="TS | STAR PLUS 4K" tvg-logo="http://webotv.asia:80/images/c82fa2a2ba973b4ef2329513ea409666.png" group-title="INDIAN 4K",TS | STAR PLUS 4K
-http://sonyiptv.net:8080/2244/2244/246634
-#EXTINF:-1 tvg-id="" tvg-name="ZEE TV FHD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-tv-in.png" group-title="INDIAN 4K",ZEE TV FHD
-http://sonyiptv.net:8080/2244/2244/246635
-#EXTINF:-1 tvg-id="" tvg-name="ZEE TV FHD 1080" tvg-logo="http://pkindloc.com:8880/images/lZMsyULZRxIvAx2b2Z409Up8ZunOGtE9Xd7DyA0p5Cpxpj_glGxu1wZA6TQGaXLO.jpg" group-title="INDIAN 4K",ZEE TV FHD 1080
-http://sonyiptv.net:8080/2244/2244/246636
-#EXTINF:-1 tvg-id="" tvg-name="SONY SAB FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sab-tv-in.png" group-title="INDIAN 4K",SONY SAB FHD
-http://sonyiptv.net:8080/2244/2244/246637
-#EXTINF:-1 tvg-id="" tvg-name="TS | SONY SAB 4K" tvg-logo="http://webotv.asia:80/images/faa5e474bc7bdac54f40454d57433136.png" group-title="INDIAN 4K",TS | SONY SAB 4K
-http://sonyiptv.net:8080/2244/2244/246638
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-in.png" group-title="INDIAN 4K",SONY MAX FHD
-http://sonyiptv.net:8080/2244/2244/246639
-#EXTINF:-1 tvg-id="" tvg-name="TS | SONY MAX 4K" tvg-logo="http://webotv.asia:80/images/2f77af7a5d235054b6b97d9e83f6dd15.png" group-title="INDIAN 4K",TS | SONY MAX 4K
-http://sonyiptv.net:8080/2244/2244/246640
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD FHD" tvg-logo="http://14.192.144.8:80/images/86529251c86c936c4220f62d98d35e6f.png" group-title="INDIAN 4K",STAR GOLD FHD
-http://sonyiptv.net:8080/2244/2244/246641
-#EXTINF:-1 tvg-id="" tvg-name="TS | STAR GOLD 4K" tvg-logo="http://webotv.asia:80/images/fd92a2700d3dc05b11a22edc0eb8bb0a.png" group-title="INDIAN 4K",TS | STAR GOLD 4K
-http://sonyiptv.net:8080/2244/2244/246642
-#EXTINF:-1 tvg-id="" tvg-name="&TV FHD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and_tv_in.png" group-title="INDIAN 4K",&TV FHD
-http://sonyiptv.net:8080/2244/2244/246643
-#EXTINF:-1 tvg-id="" tvg-name="SONY PAL HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pal-in.png" group-title="INDIAN 4K",SONY PAL HD
-http://sonyiptv.net:8080/2244/2244/246644
-#EXTINF:-1 tvg-id="" tvg-name="STAR BHARAT FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-bharat-hk-in.png" group-title="INDIAN 4K",STAR BHARAT FHD
-http://sonyiptv.net:8080/2244/2244/246645
-#EXTINF:-1 tvg-id="" tvg-name="SONY PIX FHD" tvg-logo="http://14.192.144.8:80/images/dbe6e2c68e2f07e2a11c8f581b609257.png" group-title="INDIAN 4K",SONY PIX FHD
-http://sonyiptv.net:8080/2244/2244/246646
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-in.png" group-title="INDIAN 4K",SONY MAX FHD
-http://sonyiptv.net:8080/2244/2244/246647
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-2-in.png" group-title="INDIAN 4K",SONY MAX 2 HD
-http://sonyiptv.net:8080/2244/2244/246648
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD FHD" tvg-logo="http://14.192.144.8:80/images/86529251c86c936c4220f62d98d35e6f.png" group-title="INDIAN 4K",STAR GOLD FHD
-http://sonyiptv.net:8080/2244/2244/246649
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SELECT FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_gold_in_select_hd.png" group-title="INDIAN 4K",STAR GOLD SELECT FHD
-http://sonyiptv.net:8080/2244/2244/246650
-#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA FHD" tvg-logo="http://14.192.144.8:80/images/1a5e66c6714c6dabdb7aaee28f91835e.png" group-title="INDIAN 4K",ZEE CINEMA FHD
-http://sonyiptv.net:8080/2244/2244/246651
-#EXTINF:-1 tvg-id="" tvg-name="&PICTURES FHD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and_pictures_in.png" group-title="INDIAN 4K",&PICTURES FHD
-http://sonyiptv.net:8080/2244/2244/246652
-#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" group-title="INDIAN 4K",STAR MOVIES FHD
-http://sonyiptv.net:8080/2244/2244/246653
-#EXTINF:-1 tvg-id="" tvg-name="&FLIX FHD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-flix-in.png" group-title="INDIAN 4K",&FLIX FHD
-http://sonyiptv.net:8080/2244/2244/246654
-#EXTINF:-1 tvg-id="" tvg-name="&PRIVE FHD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="INDIAN 4K",&PRIVE FHD
-http://sonyiptv.net:8080/2244/2244/246655
-#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES SELECT FHD" tvg-logo="http://14.192.144.8:80/images/feec1ed700906cfa9f9b4776c80614ef.png" group-title="INDIAN 4K",STAR MOVIES SELECT FHD
-http://sonyiptv.net:8080/2244/2244/246656
-#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/goldmines-in.png" group-title="INDIAN 4K",GOLDMINES HD
-http://sonyiptv.net:8080/2244/2244/246657
-#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES BOLLYWOOD HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/goldmines-bollywood-in.png" group-title="INDIAN 4K",GOLDMINES BOLLYWOOD HD
-http://sonyiptv.net:8080/2244/2244/246658
-#EXTINF:-1 tvg-id="" tvg-name="B4U MOVIES HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/b4u_movies_in.png" group-title="INDIAN 4K",B4U MOVIES HD
-http://sonyiptv.net:8080/2244/2244/246659
-#EXTINF:-1 tvg-id="" tvg-name="B4U KADAK HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/b4u-kadak-in.png" group-title="INDIAN 4K",B4U KADAK HD
-http://sonyiptv.net:8080/2244/2244/246660
-#EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-cineplex-in.png" group-title="INDIAN 4K",COLORS CINEPLEX HD
-http://sonyiptv.net:8080/2244/2244/246661
-#EXTINF:-1 tvg-id="" tvg-name="MANORANJAN MOVIES HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/manoranjan-movies-in.png" group-title="INDIAN 4K",MANORANJAN MOVIES HD
-http://sonyiptv.net:8080/2244/2244/246662
-#EXTINF:-1 tvg-id="" tvg-name="POPCORN MOVIES HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/popcorn-movies-in.png" group-title="INDIAN 4K",POPCORN MOVIES HD
-http://sonyiptv.net:8080/2244/2244/246663
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD THRILLS HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-gold-thrills-hk.png" group-title="INDIAN 4K",STAR GOLD THRILLS HD
-http://sonyiptv.net:8080/2244/2244/246664
-#EXTINF:-1 tvg-id="" tvg-name="EVERGREEN CLASSIC" tvg-logo="" group-title="INDIAN 4K",EVERGREEN CLASSIC
-http://sonyiptv.net:8080/2244/2244/246665
-#EXTINF:-1 tvg-id="" tvg-name="COLORS INFINITY HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-infinity-in.png" group-title="INDIAN 4K",COLORS INFINITY HD
-http://sonyiptv.net:8080/2244/2244/246666
-#EXTINF:-1 tvg-id="" tvg-name="COLORS RISHTEY" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-rishtey-in.png" group-title="INDIAN 4K",COLORS RISHTEY
-http://sonyiptv.net:8080/2244/2244/246667
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD ROMANCE" tvg-logo="https://www.indiantvinfo.com/media/2023/03/Star-Gold-Romance-Logo.png" group-title="INDIAN 4K",STAR GOLD ROMANCE
-http://sonyiptv.net:8080/2244/2244/246668
-#EXTINF:-1 tvg-id="" tvg-name="MN+ HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movies_now_plus_hd.png" group-title="INDIAN 4K",MN+ HD
-http://sonyiptv.net:8080/2244/2244/246669
-#EXTINF:-1 tvg-id="" tvg-name="SONY WAH HD" tvg-logo="http://tv.netstream.pk:80/images/12d498331c622e82098ba20938cf7608.png" group-title="INDIAN 4K",SONY WAH HD
-http://sonyiptv.net:8080/2244/2244/246670
-#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="http://tv.netstream.pk:80/images/5e167c666212997c885ab826ff23e961.png" group-title="INDIAN 4K",GOLDMINES BOLLYWOOD
-http://sonyiptv.net:8080/2244/2244/246671
-#EXTINF:-1 tvg-id="" tvg-name="THRILLER ACTIVE HD" tvg-logo="" group-title="INDIAN 4K",THRILLER ACTIVE HD
-http://sonyiptv.net:8080/2244/2244/246672
-#EXTINF:-1 tvg-id="" tvg-name="ZEE ACTION HD" tvg-logo="http://tv.netstream.pk:80/images/4f472f4e2ce768019c74b5d047c5e7d8.png" group-title="INDIAN 4K",ZEE ACTION HD
-http://sonyiptv.net:8080/2244/2244/246673
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD 2 HD" tvg-logo="http://tv.netstream.pk:80/images/6024d7c7bfa161edab3d218ccba47382.png" group-title="INDIAN 4K",STAR GOLD 2 HD
-http://sonyiptv.net:8080/2244/2244/246674
-#EXTINF:-1 tvg-id="" tvg-name="CINE ACTIVE" tvg-logo="http://webotv.asia:80/images/2570524e263ed7e167ae07b2d5ac8bcb.png" group-title="INDIAN 4K",CINE ACTIVE
-http://sonyiptv.net:8080/2244/2244/246747
-#EXTINF:-1 tvg-id="" tvg-name="HITS ACTIVE" tvg-logo="" group-title="INDIAN 4K",HITS ACTIVE
-http://sonyiptv.net:8080/2244/2244/246748
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY ACTIVE" tvg-logo="" group-title="INDIAN 4K",COMEDY ACTIVE
-http://sonyiptv.net:8080/2244/2244/246749
-#EXTINF:-1 tvg-id="" tvg-name="COOKING ACTIVE" tvg-logo="" group-title="INDIAN 4K",COOKING ACTIVE
-http://sonyiptv.net:8080/2244/2244/246750
-#EXTINF:-1 tvg-id="" tvg-name="MOVIES ACTIVE" tvg-logo="" group-title="INDIAN 4K",MOVIES ACTIVE
-http://sonyiptv.net:8080/2244/2244/246751
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BOLLYWOOD" tvg-logo="http://webotv.asia:80/images/e359d36f090dcd004fcce8f79645f6e4.png" group-title="INDIAN 4K",ZEE BOLLYWOOD
-http://sonyiptv.net:8080/2244/2244/246752
-#EXTINF:-1 tvg-id="" tvg-name="ZEE CAFE HD" tvg-logo="http://webotv.asia:80/images/b3caa3453aaf648142843f0b43c42e38.png" group-title="INDIAN 4K",ZEE CAFE HD
-http://sonyiptv.net:8080/2244/2244/246753
-#EXTINF:-1 tvg-id="" tvg-name="ABZY MOVIES" tvg-logo="http://webotv.asia:80/images/7881048d04f4585edcb058615737f57c.png" group-title="INDIAN 4K",ABZY MOVIES
-http://sonyiptv.net:8080/2244/2244/246754
-#EXTINF:-1 tvg-id="" tvg-name="STAR UTSAV MOVIES" tvg-logo="http://webotv.asia:80/images/b61e661d8d6199317032aa9d96f9adc5.png" group-title="INDIAN 4K",STAR UTSAV MOVIES
-http://sonyiptv.net:8080/2244/2244/246755
-#EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL CINEMA" tvg-logo="http://webotv.asia:80/images/af9650c7d06d99bb3ab1d1d4b0e58498.png" group-title="INDIAN 4K",ZEE ANMOL CINEMA
-http://sonyiptv.net:8080/2244/2244/246756
-#EXTINF:-1 tvg-id="" tvg-name="ZEE CLASSIC HD" tvg-logo="http://webotv.asia:80/images/a3628081c4bd4d665cdf49eb71651cf6.png" group-title="INDIAN 4K",ZEE CLASSIC HD
-http://sonyiptv.net:8080/2244/2244/246757
-#EXTINF:-1 tvg-id="" tvg-name="ZINDAGI ACTIVE" tvg-logo="" group-title="INDIAN 4K",ZINDAGI ACTIVE
-http://sonyiptv.net:8080/2244/2244/246758
-#EXTINF:-1 tvg-id="" tvg-name="ROMEDY NOW" tvg-logo="http://webotv.asia:80/images/44eae5aa0d2dcddd82cc39ca3777089e.png" group-title="INDIAN 4K",ROMEDY NOW
-http://sonyiptv.net:8080/2244/2244/246759
-#EXTINF:-1 tvg-id="" tvg-name="MOVIES NOW" tvg-logo="http://webotv.asia:80/images/29d2191899393a9e1d2b404b9217a0c1.png" group-title="INDIAN 4K",MOVIES NOW
-http://sonyiptv.net:8080/2244/2244/246760
-#EXTINF:-1 tvg-id="" tvg-name="MNX HD" tvg-logo="http://webotv.asia:80/images/0cbfdab1edfe26d56606e5b05d1219a9.png" group-title="INDIAN 4K",MNX HD
-http://sonyiptv.net:8080/2244/2244/246761
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://webotv.asia:80/images/522d0423d10e1e239e84d850ceff7517.png" group-title="INDIAN 4K",COMEDY CENTRAL HD
-http://sonyiptv.net:8080/2244/2244/246762
-
- 
-#EXTINF:-1 tvg-id="" tvg-name="9XM MUSIC HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/9x_music.png" group-title="MUSIC VIP",9XM MUSIC HD
-http://sonyiptv.net:8080/2244/2244/246675
-#EXTINF:-1 tvg-id="" tvg-name="MTV BEATS HD" tvg-logo="http://14.192.144.8:80/images/26df5b71360319d1b741e9c94b55806a.png" group-title="MUSIC VIP",MTV BEATS HD
-http://sonyiptv.net:8080/2244/2244/246676
-#EXTINF:-1 tvg-id="" tvg-name="MASTI MUSIC HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mastiii_tv_in.png" group-title="MUSIC VIP",MASTI MUSIC HD
-http://sonyiptv.net:8080/2244/2244/246677
-#EXTINF:-1 tvg-id="" tvg-name="B4U MUSIC HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/b4u_music_in.png" group-title="MUSIC VIP",B4U MUSIC HD
-http://sonyiptv.net:8080/2244/2244/246678
-#EXTINF:-1 tvg-id="" tvg-name="ZOOM MUSIC HD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zoom_tv_in.png" group-title="MUSIC VIP",ZOOM MUSIC HD
-http://sonyiptv.net:8080/2244/2244/246679
-#EXTINF:-1 tvg-id="" tvg-name="MTV MUSIC" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.png" group-title="MUSIC VIP",MTV MUSIC
-http://sonyiptv.net:8080/2244/2244/246680
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC ACTIVE HITS" tvg-logo="" group-title="MUSIC VIP",MUSIC ACTIVE HITS
-http://sonyiptv.net:8080/2244/2244/246681
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC ACTIVE MASALA" tvg-logo="" group-title="MUSIC VIP",MUSIC ACTIVE MASALA
-http://sonyiptv.net:8080/2244/2244/246682
-#EXTINF:-1 tvg-id="" tvg-name="PTC MUSIC" tvg-logo="http://webotv.asia:80/images/8f201279e12c7d33a6ca183a62fd6aae.png" group-title="MUSIC VIP",PTC MUSIC
-http://sonyiptv.net:8080/2244/2244/246683
-#EXTINF:-1 tvg-id="" tvg-name="8XM MUSIC HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/8x_music_pk.png" group-title="MUSIC VIP",8XM MUSIC HD
-http://sonyiptv.net:8080/2244/2244/246684
-#EXTINF:-1 tvg-id="" tvg-name="JALWA MUSIC HD" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jalwa_tv_pk.png" group-title="MUSIC VIP",JALWA MUSIC HD
-http://sonyiptv.net:8080/2244/2244/246685
-#EXTINF:-1 tvg-id="" tvg-name="ARY MUSIC HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_musik.png" group-title="MUSIC VIP",ARY MUSIC HD
-http://sonyiptv.net:8080/2244/2244/246686
-#EXTINF:-1 tvg-id="" tvg-name="KASHISH HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kashish-pk.png" group-title="MUSIC VIP",KASHISH HD
-http://sonyiptv.net:8080/2244/2244/246687
-#EXTINF:-1 tvg-id="" tvg-name="FILMAZIA GAANE" tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmazia-gaane-pk.png" group-title="MUSIC VIP",FILMAZIA GAANE
-http://sonyiptv.net:8080/2244/2244/246688
-#EXTINF:-1 tvg-id="" tvg-name="24B MUSIC HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/24_beat_tv.png" group-title="MUSIC VIP",24B MUSIC HD
-http://sonyiptv.net:8080/2244/2244/246689
-#EXTINF:-1 tvg-id="" tvg-name="MIFA MUSIC HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-mifa-ca.png" group-title="MUSIC VIP",MIFA MUSIC HD
-http://sonyiptv.net:8080/2244/2244/246690
-#EXTINF:-1 tvg-id="" tvg-name="MIFA + HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-mifa-ca.png" group-title="MUSIC VIP",MIFA + HD
-http://sonyiptv.net:8080/2244/2244/246691
-
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET (HINDI)" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Animal-Planet-logo.png" group-title="ALL DISCOVERY",ANIMAL PLANET (HINDI)
-http://sonyiptv.net:8080/2244/2244/246719
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Animal-Planet-logo.png" group-title="ALL DISCOVERY",ANIMAL PLANET HD
-http://sonyiptv.net:8080/2244/2244/246720
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY (HINDI)" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="ALL DISCOVERY",HISTORY (HINDI)
-http://sonyiptv.net:8080/2244/2244/246721
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="ALL DISCOVERY",HISTORY HD
-http://sonyiptv.net:8080/2244/2244/246722
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE (HINDI)" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-life-us.png" group-title="ALL DISCOVERY",FOX LIFE (HINDI)
-http://sonyiptv.net:8080/2244/2244/246723
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-life-us.png" group-title="ALL DISCOVERY",FOX LIFE HD
-http://sonyiptv.net:8080/2244/2244/246724
-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV INDIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/2560px-Fashion_TV_logo.svg.png" group-title="ALL DISCOVERY",FASHION TV INDIA HD
-http://sonyiptv.net:8080/2244/2244/246725
-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/2560px-Fashion_TV_logo.svg.png" group-title="ALL DISCOVERY",FASHION TV HD
-http://sonyiptv.net:8080/2244/2244/246726
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (HINDI)" tvg-logo="https://seeklogo.com/images/N/nat-geo-wild-logo-CFB1305DCD-seeklogo.com.png" group-title="ALL DISCOVERY",NAT GEO WILD (HINDI)
-http://sonyiptv.net:8080/2244/2244/246727
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD" tvg-logo="http://14.192.144.8:80/images/2626321d1f79a93d14138eab2875647b.png" group-title="ALL DISCOVERY",NAT GEO WILD HD
-http://sonyiptv.net:8080/2244/2244/246728
-#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH (HINDI)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.png" group-title="ALL DISCOVERY",BBC EARTH (HINDI)
-http://sonyiptv.net:8080/2244/2244/246729
-#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH HD" tvg-logo="http://14.192.144.8:80/images/0d377736211c958c05c6464cd2291be5.png" group-title="ALL DISCOVERY",BBC EARTH HD
-http://sonyiptv.net:8080/2244/2244/246730
-#EXTINF:-1 tvg-id="" tvg-name="TLC (HINDI)" tvg-logo="https://seeklogo.com/images/T/tlc-logo-774E9A4AB6-seeklogo.com.png" group-title="ALL DISCOVERY",TLC (HINDI)
-http://sonyiptv.net:8080/2244/2244/246731
-#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="http://fariyatv.com:80/images/6f5698127d0e8940b222d96cb21d7395.png" group-title="ALL DISCOVERY",TLC HD
-http://sonyiptv.net:8080/2244/2244/246732
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY (HINDI)" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="ALL DISCOVERY",DISCOVERY (HINDI)
-http://sonyiptv.net:8080/2244/2244/246733
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HD" tvg-logo="http://14.192.144.8:80/images/a281ac3e2b560404c8ca6b83f1855d5b.png" group-title="ALL DISCOVERY",DISCOVERY HD
-http://sonyiptv.net:8080/2244/2244/246734
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE (HINDI)" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_science_in.png" group-title="ALL DISCOVERY",DISCOVERY SCIENCE (HINDI)
-http://sonyiptv.net:8080/2244/2244/246735
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://14.192.144.8:80/images/8a0b663405956121afd3fbae92f56a76.png" group-title="ALL DISCOVERY",DISCOVERY SCIENCE HD
-http://sonyiptv.net:8080/2244/2244/246736
-#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY (HINDI)" tvg-logo="https://www.lyngsat.com/logo/tv/ii/investigation-discovery-us.png" group-title="ALL DISCOVERY",INVESTIGATION DISCOVERY (HINDI)
-http://sonyiptv.net:8080/2244/2244/246737
-#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY HD" tvg-logo="http://14.192.144.8:80/images/100aa2bc3a141d7f3bc7c1a4cdd39cd5.png" group-title="ALL DISCOVERY",INVESTIGATION DISCOVERY HD
-http://sonyiptv.net:8080/2244/2244/246738
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEO (HINDI)" tvg-logo="https://seeklogo.com/images/N/National_Geographic-logo-A43277202F-seeklogo.com.png" group-title="ALL DISCOVERY",NATIONAL GEO (HINDI)
-http://sonyiptv.net:8080/2244/2244/246739
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEO HD" tvg-logo="http://webotv.asia:80/images/e990a04b9b6c0178d787ddc066e997b4.png" group-title="ALL DISCOVERY",NATIONAL GEO HD
-http://sonyiptv.net:8080/2244/2244/246740
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP (HINDI)" tvg-logo="http://webotv.asia:80/images/1702a3ea4b606deecdfa86d890b96f4b.png" group-title="ALL DISCOVERY",TRAVEL XP (HINDI)
-http://sonyiptv.net:8080/2244/2244/246741
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP" tvg-logo="http://webotv.asia:80/images/1702a3ea4b606deecdfa86d890b96f4b.png" group-title="ALL DISCOVERY",TRAVEL XP
-http://sonyiptv.net:8080/2244/2244/246742
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVER PAKISTAN HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discover-pakistan-pk.png" group-title="ALL DISCOVERY",DISCOVER PAKISTAN HD
-http://sonyiptv.net:8080/2244/2244/246743
-#EXTINF:-1 tvg-id="" tvg-name="INSIGHT TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/ii/insight-hd-nl.png" group-title="ALL DISCOVERY",INSIGHT TV HD
-http://sonyiptv.net:8080/2244/2244/246744
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://14.192.144.8:80/images/cc8f333e810a0b724f1887dfc7e2f58e.png" group-title="ALL DISCOVERY",DISCOVERY TURBO HD
-http://sonyiptv.net:8080/2244/2244/246745
-#EXTINF:-1 tvg-id="" tvg-name="LOTUS MOVIES HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/macau_lotus_tv_mo.png" group-title="ALL DISCOVERY",LOTUS MOVIES HD
-http://sonyiptv.net:8080/2244/2244/246746
-
+#EXTM3U
+#EXTINF:-1,Zee Tv India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/163
+#EXTINF:-1,Sony TV India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/166
+#EXTINF:-1,Star Plus India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/162
+#EXTINF:-1,Star Bharat India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/874
+#EXTINF:-1,Sony Sab India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/227
+#EXTINF:-1,& Tv India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/120
+#EXTINF:-1,& Pictures India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/26
+#EXTINF:-1,Star Gold Select India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/235
+#EXTINF:-1,Star Gold India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/185
+#EXTINF:-1,Mtv Beats India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/167
+#EXTINF:-1,Zee Cinema India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/165
+#EXTINF:-1,Sony Max India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/97
+#EXTINF:-1,Sony BBC Earth India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/65
+#EXTINF:-1,National Geograhic India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/192
+#EXTINF:-1,History Tv India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/138
+#EXTINF:-1,Travel Xp India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/128
+#EXTINF:-1,Discovery World India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/229
+#EXTINF:-1,Colors Cineplex SuperHits
+http://go.justflix.tv:80/client101/tuRLZijv18/966
+#EXTINF:-1,Saileela TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/182
+#EXTINF:-1,Live Darshan
+http://go.justflix.tv:80/client101/tuRLZijv18/221
+#EXTINF:-1,Miniplex HD
+http://go.justflix.tv:80/client101/tuRLZijv18/563
+#EXTINF:-1,Colors TV India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/164
+#EXTINF:-1,Tamil | Colors  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/269
+#EXTINF:-1,Marathi | Colors  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/802
+#EXTINF:-1,Kannada | Colors  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/838
+#EXTINF:-1,Kannada | Colors Super  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/880
+#EXTINF:-1,Bangla | Colors  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/326
+#EXTINF:-1,Gujarati | Colors  India
+http://go.justflix.tv:80/client101/tuRLZijv18/70
+#EXTINF:-1,Telugu | Gemini TV  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/716
+#EXTINF:-1,Telugu | Gemini Music  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/720
+#EXTINF:-1,Telugu | Gemini Movies  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/717
+#EXTINF:-1,Telugu | Gemini Life  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/719
+#EXTINF:-1,Telugu | Gemini Comedy  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/718
+#EXTINF:-1,Telugu | Star Maa TV  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/723
+#EXTINF:-1,Telugu | Star Maa Movies  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/722
+#EXTINF:-1,Telugu | Star Maa Gold  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/721
+#EXTINF:-1,Telugu | Etv 
+http://go.justflix.tv:80/client101/tuRLZijv18/727
+#EXTINF:-1,Telugu | Etv Plus 
+http://go.justflix.tv:80/client101/tuRLZijv18/726
+#EXTINF:-1,Telugu | Etv Life 
+http://go.justflix.tv:80/client101/tuRLZijv18/728
+#EXTINF:-1,Tamil | Sun tv  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/237
+#EXTINF:-1,Tamil | Sun Music  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/295
+#EXTINF:-1,Tamil | KTV  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/203
+#EXTINF:-1,Tamil | Star Vijay  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/296
+#EXTINF:-1,Tamil | Sun Life 
+http://go.justflix.tv:80/client101/tuRLZijv18/282
+#EXTINF:-1,Marathi | Zee  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/789
+#EXTINF:-1,Marathi | Star Pravah  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/803
+#EXTINF:-1,Malayalam | Asianet  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/767
+#EXTINF:-1,Malayalam | Asianet Movies  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/768
+#EXTINF:-1,Malayalam | Asianet Plus  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/769
+#EXTINF:-1,Malayalam | Mazavali Manorama  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/771
+#EXTINF:-1,Malayalam | Surya  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/765
+#EXTINF:-1,Malayalam | Zee Keralam  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/762
+#EXTINF:-1,Malayalam | Kochu tv 
+http://go.justflix.tv:80/client101/tuRLZijv18/774
+#EXTINF:-1,Malayalam | Surya Tv Hd  Uk
+http://go.justflix.tv:80/client101/tuRLZijv18/778
+#EXTINF:-1,Kannada | Star Suvarna  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/839
+#EXTINF:-1,Zee Classic India
+http://go.justflix.tv:80/client101/tuRLZijv18/956
+#EXTINF:-1,Colors Cineplex India HD 
+http://go.justflix.tv:80/client101/tuRLZijv18/191
+#EXTINF:-1,Zee Ganga
+http://go.justflix.tv:80/client101/tuRLZijv18/863
+#EXTINF:-1,Janta tv India
+http://go.justflix.tv:80/client101/tuRLZijv18/967
+#EXTINF:-1,Aaj Tak India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/668
+#EXTINF:-1,Ptv Sport PK
+http://go.justflix.tv:80/client101/tuRLZijv18/22
+#EXTINF:-1,Geo Super PK
+http://go.justflix.tv:80/client101/tuRLZijv18/21
+#EXTINF:-1,Sony Ten 1 India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/217
+#EXTINF:-1,Sony Ten 2 India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/218
+#EXTINF:-1,Sony Ten 3 India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/219
+#EXTINF:-1,Sony Ten 4 India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/126
+#EXTINF:-1,Sony Ten 5 India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/606
+#EXTINF:-1,Ten Sports
+http://go.justflix.tv:80/client101/tuRLZijv18/127
+#EXTINF:-1,Astro Cricket HD
+http://go.justflix.tv:80/client101/tuRLZijv18/141
+#EXTINF:-1,Star Sports 1 India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/121
+#EXTINF:-1,Star Sports 2 India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/122
+#EXTINF:-1,Star Sports Hindi India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/123
+#EXTINF:-1,Star Sport Select 1 India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/189
+#EXTINF:-1,Star Sport Select 2 India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/190
+#EXTINF:-1,Willow Cricket HD
+http://go.justflix.tv:80/client101/tuRLZijv18/125
+#EXTINF:-1,Romedy Now India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/90
+#EXTINF:-1,Movies Now India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/900
+#EXTINF:-1,Star World India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/899
+#EXTINF:-1,MNX India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/901
+#EXTINF:-1,Colors infinity India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/898
+#EXTINF:-1,HBO HD
+http://go.justflix.tv:80/client101/tuRLZijv18/236
+#EXTINF:-1,& Flix India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/130
+#EXTINF:-1,& Prive India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/89
+#EXTINF:-1,Zee Cafe HD
+http://go.justflix.tv:80/client101/tuRLZijv18/889
+#EXTINF:-1,WB India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/902
+#EXTINF:-1,Axn HD
+http://go.justflix.tv:80/client101/tuRLZijv18/161
+#EXTINF:-1,Sony Pix India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/234
+#EXTINF:-1,Star Movies India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/160
+#EXTINF:-1,Star Gold Romance
+http://go.justflix.tv:80/client101/tuRLZijv18/27
+#EXTINF:-1,Star Sports 3
+http://go.justflix.tv:80/client101/tuRLZijv18/959
+#EXTINF:-1,Bangla | Star Jalsha 
+http://go.justflix.tv:80/client101/tuRLZijv18/315
+#EXTINF:-1,Bangla | Star Jalsa Movies 
+http://go.justflix.tv:80/client101/tuRLZijv18/362
+#EXTINF:-1,Justflix Action HD
+http://go.justflix.tv:80/client101/tuRLZijv18/3382
+#EXTINF:-1,Justflix Comedy HD
+http://go.justflix.tv:80/client101/tuRLZijv18/3383
+#EXTINF:-1,Justflix Music HD
+http://go.justflix.tv:80/client101/tuRLZijv18/214
+#EXTINF:-1,Justflix Crime HD
+http://go.justflix.tv:80/client101/tuRLZijv18/3384
+#EXTINF:-1,Justflix Drama HD
+http://go.justflix.tv:80/client101/tuRLZijv18/3385
+#EXTINF:-1,Justflix Horror HD
+http://go.justflix.tv:80/client101/tuRLZijv18/3386
+#EXTINF:-1,Justflix Romance HD
+http://go.justflix.tv:80/client101/tuRLZijv18/3387
+#EXTINF:-1,Justflix Thriller HD
+http://go.justflix.tv:80/client101/tuRLZijv18/3388
+#EXTINF:-1,Justflix Premiere HD
+http://go.justflix.tv:80/client101/tuRLZijv18/3389
+#EXTINF:-1,Tamil | Asianet news 
+http://go.justflix.tv:80/client101/tuRLZijv18/283
+#EXTINF:-1,Telugu | Sony BBC Earth HD 
+http://go.justflix.tv:80/client101/tuRLZijv18/724
+#EXTINF:-1,Tamil | Sony BBC Earth 
+http://go.justflix.tv:80/client101/tuRLZijv18/277
+#EXTINF:-1,Telugu | Discovery 
+http://go.justflix.tv:80/client101/tuRLZijv18/700
+#EXTINF:-1,Telugu | History 18 
+http://go.justflix.tv:80/client101/tuRLZijv18/725
+#EXTINF:-1,Malayalam | Discovery HD
+http://go.justflix.tv:80/client101/tuRLZijv18/782
+#EXTINF:-1,Ary Digital PK HD
+http://go.justflix.tv:80/client101/tuRLZijv18/35
+#EXTINF:-1,A Sports Pk HD
+http://go.justflix.tv:80/client101/tuRLZijv18/960
+#EXTINF:-1,Ary Digital Usa HD
+http://go.justflix.tv:80/client101/tuRLZijv18/230
+#EXTINF:-1,Geo tv Usa HD
+http://go.justflix.tv:80/client101/tuRLZijv18/952
+#EXTINF:-1,Hum Tv Usa HD 
+http://go.justflix.tv:80/client101/tuRLZijv18/859
+#EXTINF:-1,BBC World
+http://go.justflix.tv:80/client101/tuRLZijv18/852
+#EXTINF:-1,Shemaroo Bollywood HD
+http://go.justflix.tv:80/client101/tuRLZijv18/950
+#EXTINF:-1,Utsav Gold UK
+http://go.justflix.tv:80/client101/tuRLZijv18/33
+#EXTINF:-1,Sony Max UK
+http://go.justflix.tv:80/client101/tuRLZijv18/34
+#EXTINF:-1,Colors Rishtey Europe UK
+http://go.justflix.tv:80/client101/tuRLZijv18/117
+#EXTINF:-1,Geo News Pk
+http://go.justflix.tv:80/client101/tuRLZijv18/3358
+#EXTINF:-1,Zee TV Uk HD
+http://go.justflix.tv:80/client101/tuRLZijv18/30
+#EXTINF:-1,Tamil | Star Vijay Super
+http://go.justflix.tv:80/client101/tuRLZijv18/822
+#EXTINF:-1,Tamil | Star Vijay Music
+http://go.justflix.tv:80/client101/tuRLZijv18/293
+#EXTINF:-1,Star Movies Select HD
+http://go.justflix.tv:80/client101/tuRLZijv18/566
+#EXTINF:-1,Sony Kal India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/2791
+#EXTINF:-1,IPL Tamil 4K
+http://go.justflix.tv:80/client101/tuRLZijv18/963
+#EXTINF:-1,IPL ENGLISH 4K
+http://go.justflix.tv:80/client101/tuRLZijv18/962
+#EXTINF:-1,IPL Malayalam 4K
+http://go.justflix.tv:80/client101/tuRLZijv18/622
+#EXTINF:-1,IPL BANGALI
+http://go.justflix.tv:80/client101/tuRLZijv18/955
+#EXTINF:-1,Utsav Plus UK HD
+http://go.justflix.tv:80/client101/tuRLZijv18/36
+#EXTINF:-1,Star Sports 1  HD Tamil
+http://go.justflix.tv:80/client101/tuRLZijv18/2588
+#EXTINF:-1,Samaa News Pk
+http://go.justflix.tv:80/client101/tuRLZijv18/3359
+#EXTINF:-1,Tamil | Adithya TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/286
+#EXTINF:-1,Malayalam | Asianet sd
+http://go.justflix.tv:80/client101/tuRLZijv18/783
+#EXTINF:-1,Tamil | Star Vijay sd
+http://go.justflix.tv:80/client101/tuRLZijv18/784
+#EXTINF:-1,Sony Tv UK
+http://go.justflix.tv:80/client101/tuRLZijv18/46
+#EXTINF:-1,Colors TV UK
+http://go.justflix.tv:80/client101/tuRLZijv18/39
+#EXTINF:-1,Utsav Bharat Uk
+http://go.justflix.tv:80/client101/tuRLZijv18/51
+#EXTINF:-1,& Tv UK
+http://go.justflix.tv:80/client101/tuRLZijv18/155
+#EXTINF:-1,Sony Sab UK
+http://go.justflix.tv:80/client101/tuRLZijv18/45
+#EXTINF:-1,Sony Pal India
+http://go.justflix.tv:80/client101/tuRLZijv18/96
+#EXTINF:-1,Zee Anmol India
+http://go.justflix.tv:80/client101/tuRLZijv18/193
+#EXTINF:-1,Zee cinema UK
+http://go.justflix.tv:80/client101/tuRLZijv18/31
+#EXTINF:-1,Colors CinePlex UK
+http://go.justflix.tv:80/client101/tuRLZijv18/37
+#EXTINF:-1,Republic Tv News India
+http://go.justflix.tv:80/client101/tuRLZijv18/887
+#EXTINF:-1,B4u Movies UK
+http://go.justflix.tv:80/client101/tuRLZijv18/48
+#EXTINF:-1,Little Treehouse Nursery
+http://go.justflix.tv:80/client101/tuRLZijv18/893
+#EXTINF:-1,Wion News India
+http://go.justflix.tv:80/client101/tuRLZijv18/892
+#EXTINF:-1,News24 India
+http://go.justflix.tv:80/client101/tuRLZijv18/890
+#EXTINF:-1,Abp News HD
+http://go.justflix.tv:80/client101/tuRLZijv18/891
+#EXTINF:-1,Filmachi India
+http://go.justflix.tv:80/client101/tuRLZijv18/378
+#EXTINF:-1,Cinema Tv India
+http://go.justflix.tv:80/client101/tuRLZijv18/143
+#EXTINF:-1,Zee Anmol Cinema India
+http://go.justflix.tv:80/client101/tuRLZijv18/194
+#EXTINF:-1,Zee Action India
+http://go.justflix.tv:80/client101/tuRLZijv18/29
+#EXTINF:-1,Zee Bollywood India
+http://go.justflix.tv:80/client101/tuRLZijv18/142
+#EXTINF:-1,Sony wah India
+http://go.justflix.tv:80/client101/tuRLZijv18/233
+#EXTINF:-1,Fox life India
+http://go.justflix.tv:80/client101/tuRLZijv18/159
+#EXTINF:-1,Zing Music UK
+http://go.justflix.tv:80/client101/tuRLZijv18/112
+#EXTINF:-1,B4u Music UK
+http://go.justflix.tv:80/client101/tuRLZijv18/116
+#EXTINF:-1,Music India
+http://go.justflix.tv:80/client101/tuRLZijv18/113
+#EXTINF:-1,Brit Asia UK
+http://go.justflix.tv:80/client101/tuRLZijv18/91
+#EXTINF:-1,Mtv India
+http://go.justflix.tv:80/client101/tuRLZijv18/140
+#EXTINF:-1,Masti Music India
+http://go.justflix.tv:80/client101/tuRLZijv18/134
+#EXTINF:-1,9XM Music India
+http://go.justflix.tv:80/client101/tuRLZijv18/86
+#EXTINF:-1,9X Jalwa India
+http://go.justflix.tv:80/client101/tuRLZijv18/85
+#EXTINF:-1,E 24 India
+http://go.justflix.tv:80/client101/tuRLZijv18/197
+#EXTINF:-1,Kids TV - Nursery
+http://go.justflix.tv:80/client101/tuRLZijv18/864
+#EXTINF:-1,Ary Digital UK
+http://go.justflix.tv:80/client101/tuRLZijv18/881
+#EXTINF:-1,Geo Tv UK
+http://go.justflix.tv:80/client101/tuRLZijv18/47
+#EXTINF:-1,Geo Kahani UK
+http://go.justflix.tv:80/client101/tuRLZijv18/23
+#EXTINF:-1,Hum Tv UK
+http://go.justflix.tv:80/client101/tuRLZijv18/50
+#EXTINF:-1,Urdu 1
+http://go.justflix.tv:80/client101/tuRLZijv18/11
+#EXTINF:-1,A Plus
+http://go.justflix.tv:80/client101/tuRLZijv18/4
+#EXTINF:-1,News One PK
+http://go.justflix.tv:80/client101/tuRLZijv18/213
+#EXTINF:-1,Hum Tv PK HD
+http://go.justflix.tv:80/client101/tuRLZijv18/17
+#EXTINF:-1,Hum Masala UK
+http://go.justflix.tv:80/client101/tuRLZijv18/10
+#EXTINF:-1,Hum Sitaray PK
+http://go.justflix.tv:80/client101/tuRLZijv18/9
+#EXTINF:-1,Ary Zindagi PK
+http://go.justflix.tv:80/client101/tuRLZijv18/3
+#EXTINF:-1,Lahore News Pk
+http://go.justflix.tv:80/client101/tuRLZijv18/5
+#EXTINF:-1,Kay 2
+http://go.justflix.tv:80/client101/tuRLZijv18/209
+#EXTINF:-1,Tv One PK
+http://go.justflix.tv:80/client101/tuRLZijv18/14
+#EXTINF:-1,Colors Rishtey Asia India
+http://go.justflix.tv:80/client101/tuRLZijv18/13
+#EXTINF:-1,Express Enterterment PK
+http://go.justflix.tv:80/client101/tuRLZijv18/7
+#EXTINF:-1,Bol Entertainment PK
+http://go.justflix.tv:80/client101/tuRLZijv18/16
+#EXTINF:-1,ATV PK
+http://go.justflix.tv:80/client101/tuRLZijv18/208
+#EXTINF:-1,Ptv Home
+http://go.justflix.tv:80/client101/tuRLZijv18/111
+#EXTINF:-1,City 41 News Pk
+http://go.justflix.tv:80/client101/tuRLZijv18/20
+#EXTINF:-1,Khyber Tv PK
+http://go.justflix.tv:80/client101/tuRLZijv18/19
+#EXTINF:-1,Peace Tv English
+http://go.justflix.tv:80/client101/tuRLZijv18/211
+#EXTINF:-1,Geo News UK
+http://go.justflix.tv:80/client101/tuRLZijv18/42
+#EXTINF:-1,Duniya News UK
+http://go.justflix.tv:80/client101/tuRLZijv18/49
+#EXTINF:-1,Sab Tv Pk
+http://go.justflix.tv:80/client101/tuRLZijv18/225
+#EXTINF:-1,Ary World UK
+http://go.justflix.tv:80/client101/tuRLZijv18/224
+#EXTINF:-1,Ary News PK
+http://go.justflix.tv:80/client101/tuRLZijv18/43
+#EXTINF:-1,Geo Tez
+http://go.justflix.tv:80/client101/tuRLZijv18/41
+#EXTINF:-1,Dawn news PK
+http://go.justflix.tv:80/client101/tuRLZijv18/12
+#EXTINF:-1,Gnn New Pk
+http://go.justflix.tv:80/client101/tuRLZijv18/1
+#EXTINF:-1,Lahore Rang Pk
+http://go.justflix.tv:80/client101/tuRLZijv18/210
+#EXTINF:-1,Express News PK
+http://go.justflix.tv:80/client101/tuRLZijv18/6
+#EXTINF:-1,92 News UK
+http://go.justflix.tv:80/client101/tuRLZijv18/15
+#EXTINF:-1,Aaj News PK
+http://go.justflix.tv:80/client101/tuRLZijv18/2
+#EXTINF:-1,Bol News PK
+http://go.justflix.tv:80/client101/tuRLZijv18/212
+#EXTINF:-1,Ptv News UK
+http://go.justflix.tv:80/client101/tuRLZijv18/110
+#EXTINF:-1,Khyber News PK
+http://go.justflix.tv:80/client101/tuRLZijv18/18
+#EXTINF:-1,NDTV News UK
+http://go.justflix.tv:80/client101/tuRLZijv18/87
+#EXTINF:-1,NDTV News India
+http://go.justflix.tv:80/client101/tuRLZijv18/178
+#EXTINF:-1,Zee News India
+http://go.justflix.tv:80/client101/tuRLZijv18/107
+#EXTINF:-1,Shemaroo TV
+http://go.justflix.tv:80/client101/tuRLZijv18/114
+#EXTINF:-1,Tv9 India India
+http://go.justflix.tv:80/client101/tuRLZijv18/172
+#EXTINF:-1,Aaj Tak News UK
+http://go.justflix.tv:80/client101/tuRLZijv18/115
+#EXTINF:-1,Tez News
+http://go.justflix.tv:80/client101/tuRLZijv18/195
+#EXTINF:-1,India Today TV India
+http://go.justflix.tv:80/client101/tuRLZijv18/215
+#EXTINF:-1,News 18 India
+http://go.justflix.tv:80/client101/tuRLZijv18/866
+#EXTINF:-1,Ndtv Profit India
+http://go.justflix.tv:80/client101/tuRLZijv18/865
+#EXTINF:-1,Zee Business India
+http://go.justflix.tv:80/client101/tuRLZijv18/867
+#EXTINF:-1,Times Now India
+http://go.justflix.tv:80/client101/tuRLZijv18/132
+#EXTINF:-1,|Punjabi|  Anandabarta
+http://go.justflix.tv:80/client101/tuRLZijv18/94
+#EXTINF:-1,Ary Qtv UK
+http://go.justflix.tv:80/client101/tuRLZijv18/44
+#EXTINF:-1,Takbeer TV UK
+http://go.justflix.tv:80/client101/tuRLZijv18/38
+#EXTINF:-1,Madni Channel UK
+http://go.justflix.tv:80/client101/tuRLZijv18/109
+#EXTINF:-1,Peace Tv Urdu UK
+http://go.justflix.tv:80/client101/tuRLZijv18/104
+#EXTINF:-1,Noor Tv UK
+http://go.justflix.tv:80/client101/tuRLZijv18/76
+#EXTINF:-1,Minhaj Tv PK
+http://go.justflix.tv:80/client101/tuRLZijv18/68
+#EXTINF:-1,Iqra Tv UK
+http://go.justflix.tv:80/client101/tuRLZijv18/69
+#EXTINF:-1,Saudi Sunnah
+http://go.justflix.tv:80/client101/tuRLZijv18/66
+#EXTINF:-1,Saudi Quran
+http://go.justflix.tv:80/client101/tuRLZijv18/170
+#EXTINF:-1,Madini Tv
+http://go.justflix.tv:80/client101/tuRLZijv18/52
+#EXTINF:-1,Hidayat Tv UK
+http://go.justflix.tv:80/client101/tuRLZijv18/54
+#EXTINF:-1,Ahlulbayt Tv UK
+http://go.justflix.tv:80/client101/tuRLZijv18/53
+#EXTINF:-1,Aastha UK
+http://go.justflix.tv:80/client101/tuRLZijv18/67
+#EXTINF:-1,SuperHits
+http://go.justflix.tv:80/client101/tuRLZijv18/131
+#EXTINF:-1,Discovery India HD
+http://go.justflix.tv:80/client101/tuRLZijv18/136
+#EXTINF:-1,Malayalam | Surya Movies 
+http://go.justflix.tv:80/client101/tuRLZijv18/772
+#EXTINF:-1,Malayalam | Surya Comedy 
+http://go.justflix.tv:80/client101/tuRLZijv18/773
+#EXTINF:-1,Malayalam | Manorama News 
+http://go.justflix.tv:80/client101/tuRLZijv18/755
+#EXTINF:-1,Malayalam | Shalom TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/763
+#EXTINF:-1,Malayalam | Raj News 
+http://go.justflix.tv:80/client101/tuRLZijv18/754
+#EXTINF:-1,Malayalam | Raj Musix 
+http://go.justflix.tv:80/client101/tuRLZijv18/753
+#EXTINF:-1,Malayalam | Asianet News 
+http://go.justflix.tv:80/client101/tuRLZijv18/752
+#EXTINF:-1,Malayalam | Jeevan Tv 
+http://go.justflix.tv:80/client101/tuRLZijv18/770
+#EXTINF:-1,Malayalam | News 18 
+http://go.justflix.tv:80/client101/tuRLZijv18/764
+#EXTINF:-1,Malayalam | Media One 
+http://go.justflix.tv:80/client101/tuRLZijv18/751
+#EXTINF:-1,Malayalam | DD 
+http://go.justflix.tv:80/client101/tuRLZijv18/756
+#EXTINF:-1,Malayalam | Mathrubhumi News 
+http://go.justflix.tv:80/client101/tuRLZijv18/750
+#EXTINF:-1,Malayalam | Kaumudy 
+http://go.justflix.tv:80/client101/tuRLZijv18/749
+#EXTINF:-1,Malayalam | Reporter TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/748
+#EXTINF:-1,Malayalam | Kairali TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/761
+#EXTINF:-1,Malayalam | People TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/760
+#EXTINF:-1,Malayalam | Janam TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/759
+#EXTINF:-1,Malayalam | Jaihind TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/758
+#EXTINF:-1,Malayalam | Harvest TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/747
+#EXTINF:-1,Malayalam | News 24 
+http://go.justflix.tv:80/client101/tuRLZijv18/757
+#EXTINF:-1,Malayalam | Flowers TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/746
+#EXTINF:-1,Malayalam | Surya Music  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/766
+#EXTINF:-1,Malayalam | Amrita 
+http://go.justflix.tv:80/client101/tuRLZijv18/745
+#EXTINF:-1,Telugu | Zee 
+http://go.justflix.tv:80/client101/tuRLZijv18/713
+#EXTINF:-1,Telugu | Zee Telungu
+http://go.justflix.tv:80/client101/tuRLZijv18/715
+#EXTINF:-1,Telugu | Zee Cinema alu 
+http://go.justflix.tv:80/client101/tuRLZijv18/714
+#EXTINF:-1,Telugu | Vissa TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/711
+#EXTINF:-1,Telugu | V6 News 
+http://go.justflix.tv:80/client101/tuRLZijv18/710
+#EXTINF:-1,Telugu | Unitech TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/709
+#EXTINF:-1,Telugu | TV9 
+http://go.justflix.tv:80/client101/tuRLZijv18/708
+#EXTINF:-1,Telugu | TV5 
+http://go.justflix.tv:80/client101/tuRLZijv18/707
+#EXTINF:-1,Telugu | Thanthi TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/706
+#EXTINF:-1,Telugu | Telungu 
+http://go.justflix.tv:80/client101/tuRLZijv18/705
+#EXTINF:-1,Telugu | T News 
+http://go.justflix.tv:80/client101/tuRLZijv18/704
+#EXTINF:-1,Tamil | Zee Thirai 
+http://go.justflix.tv:80/client101/tuRLZijv18/703
+#EXTINF:-1,Telugu | Subhavaartha TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/702
+#EXTINF:-1,Telugu | Sirippoli 
+http://go.justflix.tv:80/client101/tuRLZijv18/701
+#EXTINF:-1,Telugu | Seithigal 24x7 
+http://go.justflix.tv:80/client101/tuRLZijv18/699
+#EXTINF:-1,Telugu | Sakshi TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/698
+#EXTINF:-1,Telugu | Raj News 
+http://go.justflix.tv:80/client101/tuRLZijv18/697
+#EXTINF:-1,Telugu | Raj Musix 
+http://go.justflix.tv:80/client101/tuRLZijv18/696
+#EXTINF:-1,Telugu | Puthiya Thalamurai 
+http://go.justflix.tv:80/client101/tuRLZijv18/695
+#EXTINF:-1,Telugu | Power Vision 
+http://go.justflix.tv:80/client101/tuRLZijv18/694
+#EXTINF:-1,Telugu | Om Spiritual 
+http://go.justflix.tv:80/client101/tuRLZijv18/693
+#EXTINF:-1,Telugu | Naaptol 
+http://go.justflix.tv:80/client101/tuRLZijv18/691
+#EXTINF:-1,Telugu | Kushi TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/690
+#EXTINF:-1,Tamil | Kalingar 
+http://go.justflix.tv:80/client101/tuRLZijv18/689
+#EXTINF:-1,Telugu | Gemini Movies  Uk
+http://go.justflix.tv:80/client101/tuRLZijv18/688
+#EXTINF:-1,Telugu | Gemini Tv  Uk
+http://go.justflix.tv:80/client101/tuRLZijv18/687
+#EXTINF:-1,Telugu | Gemini Life  Uk
+http://go.justflix.tv:80/client101/tuRLZijv18/686
+#EXTINF:-1,Telugu | Jaya Max 
+http://go.justflix.tv:80/client101/tuRLZijv18/685
+#EXTINF:-1,Tamil| Isaiaruvi
+http://go.justflix.tv:80/client101/tuRLZijv18/674
+#EXTINF:-1,Telugu | Gyana Yogi 
+http://go.justflix.tv:80/client101/tuRLZijv18/684
+#EXTINF:-1,Telugu | Gemini Comedy 
+http://go.justflix.tv:80/client101/tuRLZijv18/683
+#EXTINF:-1,Telugu | DD Yadagiri 
+http://go.justflix.tv:80/client101/tuRLZijv18/682
+#EXTINF:-1,Telugu | Gemini News 
+http://go.justflix.tv:80/client101/tuRLZijv18/730
+#EXTINF:-1,Telugu | DD Saptagiri 
+http://go.justflix.tv:80/client101/tuRLZijv18/681
+#EXTINF:-1,Telugu | CVR News 
+http://go.justflix.tv:80/client101/tuRLZijv18/680
+#EXTINF:-1,Telugu | CVR Health 
+http://go.justflix.tv:80/client101/tuRLZijv18/679
+#EXTINF:-1,Telugu | Bhakti TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/678
+#EXTINF:-1,Telugu | Aradana TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/677
+#EXTINF:-1,Telugu | Kalaignar Murasu
+http://go.justflix.tv:80/client101/tuRLZijv18/729
+#EXTINF:-1,Telugu | ABN News 
+http://go.justflix.tv:80/client101/tuRLZijv18/676
+#EXTINF:-1,Telugu | 10 TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/675
+#EXTINF:-1,Tamil | Jaya Movie 
+http://go.justflix.tv:80/client101/tuRLZijv18/307
+#EXTINF:-1,Tamil | Jaya Plus 
+http://go.justflix.tv:80/client101/tuRLZijv18/304
+#EXTINF:-1,Tamil | JAYA TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/305
+#EXTINF:-1,Tamil | Jaya Max 
+http://go.justflix.tv:80/client101/tuRLZijv18/309
+#EXTINF:-1,Tamil | Raj News 24x7 
+http://go.justflix.tv:80/client101/tuRLZijv18/297
+#EXTINF:-1,Tamil | Raj TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/298
+#EXTINF:-1,Tamil | Raj Digital Plus 
+http://go.justflix.tv:80/client101/tuRLZijv18/301
+#EXTINF:-1,Tamil | Vasanth TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/289
+#EXTINF:-1,Tamil | Thanthi News 
+http://go.justflix.tv:80/client101/tuRLZijv18/291
+#EXTINF:-1,Tamil | Raj Musix 
+http://go.justflix.tv:80/client101/tuRLZijv18/300
+#EXTINF:-1,Tamil | Angel TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/303
+#EXTINF:-1,Tamil |  vision TV
+http://go.justflix.tv:80/client101/tuRLZijv18/241
+#EXTINF:-1,Tamil | Puthu Yugam 
+http://go.justflix.tv:80/client101/tuRLZijv18/271
+#EXTINF:-1,Tamil | Polimer 
+http://go.justflix.tv:80/client101/tuRLZijv18/302
+#EXTINF:-1,Tamil | News 7 
+http://go.justflix.tv:80/client101/tuRLZijv18/279
+#EXTINF:-1,Tamil | Sun News 
+http://go.justflix.tv:80/client101/tuRLZijv18/281
+#EXTINF:-1,Tamil | Peppers 
+http://go.justflix.tv:80/client101/tuRLZijv18/275
+#EXTINF:-1,Tamil | Makkal Tv 
+http://go.justflix.tv:80/client101/tuRLZijv18/284
+#EXTINF:-1,Tamil | Travel XP 
+http://go.justflix.tv:80/client101/tuRLZijv18/285
+#EXTINF:-1,Tamil | News 18 
+http://go.justflix.tv:80/client101/tuRLZijv18/290
+#EXTINF:-1,Tamil | Kalingar News 
+http://go.justflix.tv:80/client101/tuRLZijv18/292
+#EXTINF:-1,Tamil | Captain TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/311
+#EXTINF:-1,Tamil | Polimer News 
+http://go.justflix.tv:80/client101/tuRLZijv18/274
+#EXTINF:-1,Tamil | Captain News 
+http://go.justflix.tv:80/client101/tuRLZijv18/312
+#EXTINF:-1,Tamil | PuthiyaThalaimurai 
+http://go.justflix.tv:80/client101/tuRLZijv18/273
+#EXTINF:-1,Tamil | Murasu TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/272
+#EXTINF:-1,Tamil | Chutti Tv 
+http://go.justflix.tv:80/client101/tuRLZijv18/308
+#EXTINF:-1,Tamil | Ktv HD  Uk
+http://go.justflix.tv:80/client101/tuRLZijv18/310
+#EXTINF:-1,Tamil | Madha TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/239
+#EXTINF:-1,Tamil | Discovery 
+http://go.justflix.tv:80/client101/tuRLZijv18/278
+#EXTINF:-1,Kannada | TV9 
+http://go.justflix.tv:80/client101/tuRLZijv18/836
+#EXTINF:-1,Kannada | TV5 News 
+http://go.justflix.tv:80/client101/tuRLZijv18/835
+#EXTINF:-1,Kannada | Udaya Comedy 
+http://go.justflix.tv:80/client101/tuRLZijv18/845
+#EXTINF:-1,Kannada | Udaya New 
+http://go.justflix.tv:80/client101/tuRLZijv18/844
+#EXTINF:-1,Kannada | Suvarna News 
+http://go.justflix.tv:80/client101/tuRLZijv18/834
+#EXTINF:-1,Kannada | Sri Sankara 
+http://go.justflix.tv:80/client101/tuRLZijv18/833
+#EXTINF:-1,Kannada | Saral Jeevan 
+http://go.justflix.tv:80/client101/tuRLZijv18/832
+#EXTINF:-1,Kannada | Raj Music 
+http://go.justflix.tv:80/client101/tuRLZijv18/829
+#EXTINF:-1,Kannada | Raj Musix 
+http://go.justflix.tv:80/client101/tuRLZijv18/830
+#EXTINF:-1,Kannada | Raj News 
+http://go.justflix.tv:80/client101/tuRLZijv18/831
+#EXTINF:-1,Kannada | Public TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/828
+#EXTINF:-1,Kannada | Prajaa TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/827
+#EXTINF:-1,Kannada | Naaptol 
+http://go.justflix.tv:80/client101/tuRLZijv18/825
+#EXTINF:-1,Kannada | DD Chandana 
+http://go.justflix.tv:80/client101/tuRLZijv18/826
+#EXTINF:-1,Kannada | BTV News 24X7 
+http://go.justflix.tv:80/client101/tuRLZijv18/824
+#EXTINF:-1,Kannada | Zee 
+http://go.justflix.tv:80/client101/tuRLZijv18/837
+#EXTINF:-1,Kannada | Udaya  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/841
+#EXTINF:-1,Kannada | Udaya Music 
+http://go.justflix.tv:80/client101/tuRLZijv18/843
+#EXTINF:-1,Kannada | Udaya Movies 
+http://go.justflix.tv:80/client101/tuRLZijv18/842
+#EXTINF:-1,Kannada | BTV 
+http://go.justflix.tv:80/client101/tuRLZijv18/823
+#EXTINF:-1,Marathi | Zee Talkies  HD
+http://go.justflix.tv:80/client101/tuRLZijv18/790
+#EXTINF:-1,Marathi | Zee Yuva 
+http://go.justflix.tv:80/client101/tuRLZijv18/796
+#EXTINF:-1,Marathi | Zee 24 Taas 
+http://go.justflix.tv:80/client101/tuRLZijv18/800
+#EXTINF:-1,Marathi | TV9 
+http://go.justflix.tv:80/client101/tuRLZijv18/795
+#EXTINF:-1,Marathi | Sony 
+http://go.justflix.tv:80/client101/tuRLZijv18/804
+#EXTINF:-1,Marathi | Sangeet 
+http://go.justflix.tv:80/client101/tuRLZijv18/794
+#EXTINF:-1,Marathi | Saam 
+http://go.justflix.tv:80/client101/tuRLZijv18/799
+#EXTINF:-1,Marathi | News 18 Lokmat 
+http://go.justflix.tv:80/client101/tuRLZijv18/801
+#EXTINF:-1,Marathi | Maiboli 
+http://go.justflix.tv:80/client101/tuRLZijv18/793
+#EXTINF:-1,Marathi | Fakt 
+http://go.justflix.tv:80/client101/tuRLZijv18/792
+#EXTINF:-1,Marathi | ABP Majha 
+http://go.justflix.tv:80/client101/tuRLZijv18/791
+#EXTINF:-1,Marathi | 9X Jhakaas 
+http://go.justflix.tv:80/client101/tuRLZijv18/797
+#EXTINF:-1,Marathi | Zee Vajwa 
+http://go.justflix.tv:80/client101/tuRLZijv18/798
+#EXTINF:-1,Gujarati | TV9 Gujarat India
+http://go.justflix.tv:80/client101/tuRLZijv18/73
+#EXTINF:-1,Gujarati | Zee 24 Kalak Guajrati
+http://go.justflix.tv:80/client101/tuRLZijv18/869
+#EXTINF:-1,Gujarati | Vtv  News India
+http://go.justflix.tv:80/client101/tuRLZijv18/71
+#EXTINF:-1,Gujarati | News 18 
+http://go.justflix.tv:80/client101/tuRLZijv18/664
+#EXTINF:-1,Gujarati | Sandesh  News
+http://go.justflix.tv:80/client101/tuRLZijv18/665
+#EXTINF:-1,Gujarati | Abp  Asmita
+http://go.justflix.tv:80/client101/tuRLZijv18/74
+#EXTINF:-1,Gujarati | SardharKatha  India
+http://go.justflix.tv:80/client101/tuRLZijv18/72
+#EXTINF:-1,Gujarati | Lakshya TV
+http://go.justflix.tv:80/client101/tuRLZijv18/77
+#EXTINF:-1,Zoom India
+http://go.justflix.tv:80/client101/tuRLZijv18/57
+#EXTINF:-1,Awaz Canada Tv PK
+http://go.justflix.tv:80/client101/tuRLZijv18/886
+#EXTINF:-1,Public News PK
+http://go.justflix.tv:80/client101/tuRLZijv18/953
+#EXTINF:-1,92 News PK
+http://go.justflix.tv:80/client101/tuRLZijv18/968
+#EXTINF:-1,Dunya News PK
+http://go.justflix.tv:80/client101/tuRLZijv18/969
+#EXTINF:-1,Abb takk News PK
+http://go.justflix.tv:80/client101/tuRLZijv18/971
+#EXTINF:-1,|Punjabi|  Boogle Bollywood
+http://go.justflix.tv:80/client101/tuRLZijv18/873
+#EXTINF:-1,|Punjabi|  DD Punjabi
+http://go.justflix.tv:80/client101/tuRLZijv18/879
+#EXTINF:-1,|Punjabi|  Zee Punjabi HP Haryana
+http://go.justflix.tv:80/client101/tuRLZijv18/92
+#EXTINF:-1,|Punjabi|  Zee Punjabi
+http://go.justflix.tv:80/client101/tuRLZijv18/93
+#EXTINF:-1,Tamil | Zee 
+http://go.justflix.tv:80/client101/tuRLZijv18/287
+#EXTINF:-1,|Punjabi| PTC Chakde
+http://go.justflix.tv:80/client101/tuRLZijv18/2866
+#EXTINF:-1,|Punjabi| 9x Tashan
+http://go.justflix.tv:80/client101/tuRLZijv18/2867
+#EXTINF:-1,|Punjabi| Pitaara Tv
+http://go.justflix.tv:80/client101/tuRLZijv18/2868
+#EXTINF:-1,|Punjabi| India News Haryana
+http://go.justflix.tv:80/client101/tuRLZijv18/2869
+#EXTINF:-1,|Punjabi| News 18 Haryana
+http://go.justflix.tv:80/client101/tuRLZijv18/2870
+#EXTINF:-1,|Punjabi|  Janta TV
+http://go.justflix.tv:80/client101/tuRLZijv18/2871
+#EXTINF:-1,|Punjabi|  5AAB Today Tv
+http://go.justflix.tv:80/client101/tuRLZijv18/2872
+#EXTINF:-1,|Punjabi|  Zee Alpha
+http://go.justflix.tv:80/client101/tuRLZijv18/32
+#EXTINF:-1,|Punjabi|  Sikh Channel UK
+http://go.justflix.tv:80/client101/tuRLZijv18/169
+#EXTINF:-1,|Punjabi|  Sangat Tv UK
+http://go.justflix.tv:80/client101/tuRLZijv18/55
+#EXTINF:-1,|Punjabi|  KTV UK
+http://go.justflix.tv:80/client101/tuRLZijv18/231
+#EXTINF:-1,|Punjabi|  Ptc Punjabi UK
+http://go.justflix.tv:80/client101/tuRLZijv18/119
+#EXTINF:-1,|Punjabi|  Akaal Tv UK
+http://go.justflix.tv:80/client101/tuRLZijv18/56
+#EXTINF:-1,|Punjabi|  Hulchul Tv
+http://go.justflix.tv:80/client101/tuRLZijv18/177
+#EXTINF:-1,|Punjabi| Chardikala time tv
+http://go.justflix.tv:80/client101/tuRLZijv18/118
+#EXTINF:-1,|Punjabi|  Ptc News India
+http://go.justflix.tv:80/client101/tuRLZijv18/133
+#EXTINF:-1,|Punjabi|  Mh One Shradha
+http://go.justflix.tv:80/client101/tuRLZijv18/181
+#EXTINF:-1,|Punjabi|  Mh One Music
+http://go.justflix.tv:80/client101/tuRLZijv18/180
+#EXTINF:-1,|Punjabi|  A One Punjabi India
+http://go.justflix.tv:80/client101/tuRLZijv18/105
+#EXTINF:-1,|Punjabi| Fateh TV
+http://go.justflix.tv:80/client101/tuRLZijv18/196
+#EXTINF:-1,|Punjabi| Jus
+http://go.justflix.tv:80/client101/tuRLZijv18/106
+#EXTINF:-1,Malayalam | Kappa TV 
+http://go.justflix.tv:80/client101/tuRLZijv18/775
+#EXTINF:-1,Malayalam | Safari 
+http://go.justflix.tv:80/client101/tuRLZijv18/776
+#EXTINF:-1,Malayalam | Kairali WE Tv 
+http://go.justflix.tv:80/client101/tuRLZijv18/777
+#EXTINF:-1,|Punjabi| Desi Channel
+http://go.justflix.tv:80/client101/tuRLZijv18/2874
+#EXTINF:-1,|Punjabi| Ptc Dhol HD
+http://go.justflix.tv:80/client101/tuRLZijv18/2875
+#EXTINF:-1,Ndtv good times
+http://go.justflix.tv:80/client101/tuRLZijv18/25
+#EXTINF:-1,Apna Channel Pk
+http://go.justflix.tv:80/client101/tuRLZijv18/242
+#EXTINF:-1,GTv PK
+http://go.justflix.tv:80/client101/tuRLZijv18/199
+#EXTINF:-1,Waseb Tv PK
+http://go.justflix.tv:80/client101/tuRLZijv18/228
+#EXTINF:-1,Filmworld PK
+http://go.justflix.tv:80/client101/tuRLZijv18/243
+#EXTINF:-1,Film max PK
+http://go.justflix.tv:80/client101/tuRLZijv18/244
+#EXTINF:-1,Tag Tv
+http://go.justflix.tv:80/client101/tuRLZijv18/245
+#EXTINF:-1,24 News HD
+http://go.justflix.tv:80/client101/tuRLZijv18/248
+#EXTINF:-1,Justflix Islam HD
+http://go.justflix.tv:80/client101/tuRLZijv18/3295
+#EXTINF:-1,Bless tv India
+http://go.justflix.tv:80/client101/tuRLZijv18/3296
+#EXTINF:-1,Sony max 2 India
+http://go.justflix.tv:80/client101/tuRLZijv18/3297
+#EXTINF:-1,Zee Salam
+http://go.justflix.tv:80/client101/tuRLZijv18/3298
+#EXTINF:-1,Bangla | Zee 
+http://go.justflix.tv:80/client101/tuRLZijv18/313
+#EXTINF:-1,Tamil | Vendhar Tv 
+http://go.justflix.tv:80/client101/tuRLZijv18/299
+#EXTINF:-1,Food Food TV
+http://go.justflix.tv:80/client101/tuRLZijv18/3354
+#EXTINF:-1,|Punjabi| Punjabi Beats
+http://go.justflix.tv:80/client101/tuRLZijv18/3366
+#EXTINF:-1,Hum News Pk
+http://go.justflix.tv:80/client101/tuRLZijv18/3357
+#EXTINF:-1,PNN PK
+http://go.justflix.tv:80/client101/tuRLZijv18/240
+#EXTINF:-1,Maha Movies
+http://go.justflix.tv:80/client101/tuRLZijv18/1025
+#EXTINF:-1,Zindagi Tv Pk
+http://go.justflix.tv:80/client101/tuRLZijv18/108
+#EXTINF:-1,Geo Tv PK HD
+http://go.justflix.tv:80/client101/tuRLZijv18/201
+#EXTINF:-1,Aaj Entertainment Pk
+http://go.justflix.tv:80/client101/tuRLZijv18/379
+#EXTINF:-1,Prime Canada Pk
+http://go.justflix.tv:80/client101/tuRLZijv18/380
+#EXTINF:-1,Aur Life Pk
+http://go.justflix.tv:80/client101/tuRLZijv18/381
+#EXTINF:-1,Prime Canada Tv Pk
+http://go.justflix.tv:80/client101/tuRLZijv18/382
+#EXTINF:-1,Islam Channel Urdu Pk
+http://go.justflix.tv:80/client101/tuRLZijv18/383
+#EXTINF:-1,Eman Tv Uk
+http://go.justflix.tv:80/client101/tuRLZijv18/384
+#EXTINF:-1,Raham Tv Pk
+http://go.justflix.tv:80/client101/tuRLZijv18/385
+#EXTINF:-1,Deen Tv Uk
+http://go.justflix.tv:80/client101/tuRLZijv18/386
+#EXTINF:-1,Ptv Global Pk
+http://go.justflix.tv:80/client101/tuRLZijv18/857
+#EXTINF:-1,Raavi Tv Pk
+http://go.justflix.tv:80/client101/tuRLZijv18/858
+#EXTINF:-1,Canada one Pk
+http://go.justflix.tv:80/client101/tuRLZijv18/860
+#EXTINF:-1,Roze News Pk
+http://go.justflix.tv:80/client101/tuRLZijv18/862
+#EXTINF:-1,Ary Music Pk
+http://go.justflix.tv:80/client101/tuRLZijv18/3360
+#EXTINF:-1,Apna Stage Show
+http://go.justflix.tv:80/client101/tuRLZijv18/3361
+#EXTINF:-1,Discover Pakistan
+http://go.justflix.tv:80/client101/tuRLZijv18/3362
+#EXTINF:-1,Jalwa Music Pk
+http://go.justflix.tv:80/client101/tuRLZijv18/3364
+#EXTINF:-1,8xm Music Pk
+http://go.justflix.tv:80/client101/tuRLZijv18/3365
+#EXTINF:-1,CNN
+http://go.justflix.tv:80/client101/tuRLZijv18/3337
+#EXTINF:-1,Fastway News India
+http://go.justflix.tv:80/client101/tuRLZijv18/1040
+#EXTINF:-1,Bflix Hindi
+http://go.justflix.tv:80/client101/tuRLZijv18/851
+#EXTINF:-1,Bindass India
+http://go.justflix.tv:80/client101/tuRLZijv18/850
+#EXTINF:-1,Manoranjan Movies India
+http://go.justflix.tv:80/client101/tuRLZijv18/560
+#EXTINF:-1,Star Sports Hindi India
+http://go.justflix.tv:80/client101/tuRLZijv18/907
+#EXTINF:-1,Star Sports 1 India
+http://go.justflix.tv:80/client101/tuRLZijv18/905
+#EXTINF:-1,Star Sports 2 India
+http://go.justflix.tv:80/client101/tuRLZijv18/906
+#EXTINF:-1,Telugu | NTV 
+http://go.justflix.tv:80/client101/tuRLZijv18/692
+#EXTINF:-1,CHANNEL 24 Bangla
+http://go.justflix.tv:80/client101/tuRLZijv18/2604
+#EXTINF:-1,Suno Tv Pk
+http://go.justflix.tv:80/client101/tuRLZijv18/40
+#EXTINF:-1,|Punjabi|  Tv Punjab
+http://go.justflix.tv:80/client101/tuRLZijv18/2819
+#EXTINF:-1,Bharat Express India
+http://go.justflix.tv:80/client101/tuRLZijv18/3336
+#EXTINF:-1,Utsav Plus Uk
+http://go.justflix.tv:80/client101/tuRLZijv18/564
+#EXTINF:-1,Colors Cineplex Bollywood
+http://go.justflix.tv:80/client101/tuRLZijv18/949
+#EXTINF:-1,Hare Krsna TV
+http://go.justflix.tv:80/client101/tuRLZijv18/268
+#EXTINF:-1,India Daily
+http://go.justflix.tv:80/client101/tuRLZijv18/232
+#EXTINF:-1,Ariana Tv National Afghan
+http://go.justflix.tv:80/client101/tuRLZijv18/946
+#EXTINF:-1,Ariana Tv Europe Afghan
+http://go.justflix.tv:80/client101/tuRLZijv18/947
+#EXTINF:-1,Ariana Tv Usa Afghan
+http://go.justflix.tv:80/client101/tuRLZijv18/945
+#EXTINF:-1,Khurshid TV Afghan
+http://go.justflix.tv:80/client101/tuRLZijv18/928
+#EXTINF:-1,Lemar Tv Afghan
+http://go.justflix.tv:80/client101/tuRLZijv18/929
+#EXTINF:-1,Kabul Tv Afghan
+http://go.justflix.tv:80/client101/tuRLZijv18/935
+#EXTINF:-1,1TV Afghan
+http://go.justflix.tv:80/client101/tuRLZijv18/930
+#EXTINF:-1,Tuti TV Afghan
+http://go.justflix.tv:80/client101/tuRLZijv18/939
+#EXTINF:-1,Hewad TV Afghan
+http://go.justflix.tv:80/client101/tuRLZijv18/942
+#EXTINF:-1,Afghan TV Afghan
+http://go.justflix.tv:80/client101/tuRLZijv18/943
+#EXTINF:-1,Tolo TV Afghan
+http://go.justflix.tv:80/client101/tuRLZijv18/941
+#EXTINF:-1,Payameafghan TV Afghan
+http://go.justflix.tv:80/client101/tuRLZijv18/944
+#EXTINF:-1,Jahan TV Afghan
+http://go.justflix.tv:80/client101/tuRLZijv18/931
+#EXTINF:-1,Shamshad TV Afghan
+http://go.justflix.tv:80/client101/tuRLZijv18/934
+#EXTINF:-1,Arezo Tv Afghan
+http://go.justflix.tv:80/client101/tuRLZijv18/933
+#EXTINF:-1,Kayhan TV Afghan
+http://go.justflix.tv:80/client101/tuRLZijv18/925
+#EXTINF:-1,Ariana News Afghan
+http://go.justflix.tv:80/client101/tuRLZijv18/923
+#EXTINF:-1,BBC News Farsi Afghan
+http://go.justflix.tv:80/client101/tuRLZijv18/922
+#EXTINF:-1,Tolo News Afghan
+http://go.justflix.tv:80/client101/tuRLZijv18/921
+#EXTINF:-1,Kabul News Afghan
+http://go.justflix.tv:80/client101/tuRLZijv18/924
+#EXTINF:-1,Zee Tv Usa HD
+http://go.justflix.tv:80/client101/tuRLZijv18/3335
+#EXTINF:-1,Star Plus Usa HD
+http://go.justflix.tv:80/client101/tuRLZijv18/3338
+#EXTINF:-1,Bangla | Star Jalsha Usa HD
+http://go.justflix.tv:80/client101/tuRLZijv18/3339
+#EXTINF:-1,Star Gold Usa HD
+http://go.justflix.tv:80/client101/tuRLZijv18/3340
+#EXTINF:-1,Sony Tv Usa HD
+http://go.justflix.tv:80/client101/tuRLZijv18/3341
+#EXTINF:-1,Star Gold 2
+http://go.justflix.tv:80/client101/tuRLZijv18/3342
+#EXTINF:-1,Colors Cineplex Usa HD
+http://go.justflix.tv:80/client101/tuRLZijv18/3343
+#EXTINF:-1,Tamil | Sun Tv HD  Usa
+http://go.justflix.tv:80/client101/tuRLZijv18/861
+#EXTINF:-1,Tamil | Ktv HD  Usa
+http://go.justflix.tv:80/client101/tuRLZijv18/270
+#EXTINF:-1,Sony Max Usa HD
+http://go.justflix.tv:80/client101/tuRLZijv18/3374
+#EXTINF:-1,Zee Cinema Usa HD
+http://go.justflix.tv:80/client101/tuRLZijv18/3367
+#EXTINF:-1,Star Bharat Usa HD
+http://go.justflix.tv:80/client101/tuRLZijv18/3381
+#EXTINF:-1,& Pictures Usa HD
+http://go.justflix.tv:80/client101/tuRLZijv18/3379
+#EXTINF:-1, Shemaroo Bollywood Usa HD
+http://go.justflix.tv:80/client101/tuRLZijv18/870
+#EXTINF:-1,Malayalam | Surya Tv Hd  Usa
+http://go.justflix.tv:80/client101/tuRLZijv18/779
+#EXTINF:-1,Malayalam | Surya Movies Hd  Usa
+http://go.justflix.tv:80/client101/tuRLZijv18/780
+#EXTINF:-1,Tamil | Star Vijay  Usa
+http://go.justflix.tv:80/client101/tuRLZijv18/280
+#EXTINF:-1,Malayalam | Asianet  Usa
+http://go.justflix.tv:80/client101/tuRLZijv18/781
+#EXTINF:-1,Tamil | Colors Tv  Usa
+http://go.justflix.tv:80/client101/tuRLZijv18/306
+#EXTINF:-1,Star Gold Select Usa HD
+http://go.justflix.tv:80/client101/tuRLZijv18/909
+#EXTINF:-1,BBO HD
+http://go.justflix.tv:80/client101/tuRLZijv18/158
