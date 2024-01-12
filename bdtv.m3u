@@ -1,1 +1,24 @@
+#EXTM3U
+#EXTINF:-1 ,BTV
+http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
+#EXTINF:-1 ,Btv
+http://103.230.105.252:1935/live/btv/manifest.mpd
+#EXTINF:-1 ,BTV World
+http://103.230.105.252:1935/live/btv/manifest.m3u8
+#EXTINF:-1 ,deepto
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-720p.m3u8
+#EXTINF:-1 ,Dipto TV
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
+#EXTINF:-1 ,CHANNEL I
+http://208.86.19.13:81/510.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png",Ekushay TV(BDIX)
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png",Ekushey TV(BD2)
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 ,DESHI TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="BDIX",14. Ntv HD
+http://tv.cloudcdn.me/live.ts?channelId=109&uid=5060&deviceMac=00:1A:79:73:9C:A1
 
+#EXTINF:-1 ,Gazi TV (4)
+http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
