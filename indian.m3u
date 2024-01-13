@@ -39,4 +39,13 @@ https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 ,SONY|MAX 2
 http://208.86.19.13:81/7300.stream/index.m3u8
 
-
+#EXTINF:-1 group-title="Documentery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet
+https://food-dlvr-ott.akamaized.net:443/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
+#EXTINF:-1 group-title="Documentery" tvg-logo="https://i.imgur.com/ESeGnT2.jpg",Discovery
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
+#EXTINF:-1 group-title="Documentery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT4IXdzztVTiAlJyXMeOXXONdpUWawc21Y_A&usqp=CAU",Discovery Science
+https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
+#EXTINF:-1 group-title="Documentery" tvg-logo="https://bestmediainfo.com/uploads/2014/11/Turbo-logo-Black-top.jpg",Discovery Turbo
+https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
+#EXTINF:-1 group-title="Documentery" tvg-logo="https://www.nasa.gov/sites/default/files/files/tv_share.jpg",Nasa TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
