@@ -3,42 +3,6 @@
 
 
 
-#EXTINF:-1  tvg-logo="http://www.maiboli.tv/images/new/main-logo.png",Fakt Marathi
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Faktmarathi/default/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/desi-tv-white.png",Desi Channel
-http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/nwxCDxG.png",Steelbird Music
-http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-#EXTINF:-1 group-title="BD",B4U Movies IN (BD)
-http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 group-title="Sports" tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png",MU TV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
-#EXTINF:-1 ,SONY|MAX 2
-http://208.86.19.13:81/7300.stream/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/M9Z5cfD.png",Cartoon Network
-http://iptv.prosto.tv:7000/ch207/video.m3u8
-#EXTINF:-1 group-title="Documentery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet
-https://food-dlvr-ott.akamaized.net:443/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
-#EXTINF:-1 group-title="Documentery" tvg-logo="https://i.imgur.com/ESeGnT2.jpg",Discovery
-https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
-#EXTINF:-1 group-title="Documentery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT4IXdzztVTiAlJyXMeOXXONdpUWawc21Y_A&usqp=CAU",Discovery Science
-https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
-#EXTINF:-1 group-title="Documentery" tvg-logo="https://bestmediainfo.com/uploads/2014/11/Turbo-logo-Black-top.jpg",Discovery Turbo
-https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
-#EXTINF:-1 group-title="Documentery" tvg-logo="https://www.nasa.gov/sites/default/files/files/tv_share.jpg",Nasa TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 ,SPACETOON KIDS
-http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1 ,TCT Kids
-https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
-#EXTINF:-1 ,EBS Kids
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 ,kabillion
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
-#EXTINF:-1 ,BOOMERANG
-http://38gb.pro:80/live/4478355/94943550/127718.m3u8
-#EXTINF:-1 ,GULLI ARABI
-http://38gb.pro:80/live/4478355/94943550/143139.m3u8
 #EXTINF:-1 ,9 XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 ,& Pictures HD
