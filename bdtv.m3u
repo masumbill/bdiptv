@@ -1,8 +1,9 @@
 #EXTM3U
-#EXTINF:0 group-title="MasumTV" tvg-logo="https://avatars.githubusercontent.com/u/12118758?v=4",Masum TV
-https://www.masumbill.blogspot.com
-#EXTINF:0 group-title="Bangladeshi" ,Ekusey TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8?checkedby:iptvcat.org
+#EXTINF:0 group-title="Bar Preperation" , SR Act-1877
+https://www.youtube.com/watch?v=BvbFIOdDCME
+#EXTINF:0 group-title="Bar Preperation" , Limitation Act-1908
+https://www.youtube.com/watch?v=woI-rKI3awg
+
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/pLrjPsGJ/btv.png" ,BTV
 http://mag.trexlive.me:80/Michael88/Michael88/225734
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/PxdPbgjB/btv-world.jpg" ,BTV World
