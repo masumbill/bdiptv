@@ -3,7 +3,6 @@
 https://www.youtube.com/watch?v=BvbFIOdDCME&t=2m26s
 #EXTINF:0 group-title="Bar Preperation" , Limitation Act-1908
 https://www.youtube.com/watch?v=woI-rKI3awg&t=3m56s
-
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/pLrjPsGJ/btv.png" ,BTV
 http://mag.trexlive.me:80/Michael88/Michael88/225734
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/PxdPbgjB/btv-world.jpg" ,BTV World
@@ -13,15 +12,9 @@ http://mag.trexlive.me:80/Michael88/Michael88/165533
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/J7TH7nQY/1200px-Sangsad-Television-Emblem-svg.png" ,Sangsad TV
 http://mag.trexlive.me:80/Michael88/Michael88/165544
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/Y0KXWYDF/5PsRkPd.png" ,ATN Bangla
-https://uniflixbd.xyz/unuse/payplay/live.php?id=72236e9ac8d0&e=.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/Y0KXWYDF/5PsRkPd.png" ,ATN Bangla
 http://mag.trexlive.me:80/Michael88/Michael88/225723
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/gJZR1XFM/Atnnews-2.jpg" ,ATN News
-https://uniflixbd.xyz/unuse/payplay/live.php?id=e05cb33b3c3b&e=.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/gJZR1XFM/Atnnews-2.jpg" ,ATN News
 http://mag.trexlive.me:80/Michael88/Michael88/165527
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/Fs4LFBd9/HX8SSDA.png" ,Banglavision HD
-https://uniflixbd.xyz/unuse/payplay/live.php?id=133495806584&e=.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/Fs4LFBd9/HX8SSDA.png" ,Banglavision HD
 http://mag.trexlive.me:80/Michael88/Michael88/225729
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/BnM8ZZH3/pTJSGtj.png" ,Boishakhi TV
@@ -39,59 +32,33 @@ http://208.86.19.13:81/510.stream/index.m3u8?
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/ZnXPq0RL/Cumilla-TV.jpg" ,Cumilla 24 TV
 http://103.149.142.133/0.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/pX8gbwgq/Desh-TV.jpg" ,Desh TV
-https://uniflixbd.xyz/unuse/payplay/live.php?id=09958247947d&e=.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/pX8gbwgq/Desh-TV.jpg" ,Desh TV
 http://mag.trexlive.me:80/Michael88/Michael88/225743
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/pX8gbwgq/Desh-TV.jpg" ,Desh TV
 http://mag.trexlive.me:80/Michael88/Michael88/165523
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/X7F0P50N/GKBkm2e.png" ,Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/8c9Y58zZ/1200px-Ekattor-TV-logo-svg.png" ,Ekattor TV
-http://ott1.co:8080/live/22552255/22552255/428.ts
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/8c9Y58zZ/1200px-Ekattor-TV-logo-svg.png" ,Ekattor TV
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/SNnz9nWH/Ekhon-Logo.png" ,Ekhon TV
-https://uniflixbd.xyz/unuse/payplay/live.php?id=19980e294350&e=.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/SNnz9nWH/Ekhon-Logo.png" ,Ekhon TV
-https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/1tx4Nqw8/Ekushey-TV.jpg" ,Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/1tx4Nqw8/Ekushey-TV.jpg" ,Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/W1Gyczj1/ds3aThu_2.jpg" ,Jamuna TV
 http://mag.trexlive.me:80/Michael88/Michael88/225789
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/xCZx8bLn/image.jpg" ,Movie Bangla [Jagobd]
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/live-orgin/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/xCZx8bLn/image.jpg" ,Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/BQ8LjtBG/v-DXLu-LBXf6-J.png" ,MyTV HD
-https://uniflixbd.xyz/unuse/payplay/live.php?id=0a48642721c7&e=.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/BQ8LjtBG/v-DXLu-LBXf6-J.png" ,MyTV HD
 http://mag.trexlive.me:80/Michael88/Michael88/165522
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/BQ8LjtBG/v-DXLu-LBXf6-J.png" ,MyTV HD
-http://ott1.co:8080/live/22552255/22552255/398.ts
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/qv15vYtP/image_3.jpg" ,Nandan TV
 https://web.nandansyst.com/hls/nandan.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/KYmZThYy/Nexus-Television-Logo.jpg" ,Nexus TV [Jagobd]
-https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/KYmZThYy/Nexus-Television-Logo.jpg" ,Nexus TV
 http://mag.trexlive.me:80/Michael88/Michael88/225814
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/kgLbNbbM/3usnOla.png" ,NTV
-http://38.96.178.201/live/NTV/index.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/kgLbNbbM/3usnOla.png" ,NTV
 http://mag.trexlive.me:80/Michael88/Michael88/225765
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/kgLbNbbM/3usnOla.png" ,NTV
-http://103.230.105.252:1935/live/ntv/manifest.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/PfS61dd3/fraEjzm.png" ,SATV [Jagobd]
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/PfS61dd3/fraEjzm.png" ,SATV
 http://mag.trexlive.me:80/Michael88/Michael88/165518
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/0yHtY8tg/Somoy-TV.jpg" ,Somoy TV
-https://uniflixbd.xyz/unuse/payplay/live.php?id=b8cc9e2596b2&e=.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/0yHtY8tg/Somoy-TV.jpg" ,Somoy TV
 http://mag.trexlive.me:80/Michael88/Michael88/165521
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/0yHtY8tg/Somoy-TV.jpg" ,Somoy TV
-http://ott1.co:8080/live/22552255/22552255/422.ts
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png",ABP Ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png",ABP Ananda [SamsungTVPlus]
@@ -108,8 +75,6 @@ http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 https://akdnetwork.co.in/live/cnnew/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/Ghn1dCF9/Colors-Bangla-Logo.jpg",Colors Bangla
 https://uniflixbd.xyz/unuse/payplay/live.php?id=cb074ae82cd0&e=.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/Ghn1dCF9/Colors-Bangla-Logo.jpg",Colors Bangla
-http://mag.trexlive.me:80/Michael88/Michael88/225740
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/6q55LH2b/HVZHZGl.jpg",Colors Bangla HD
 http://mag.trexlive.me:80/Michael88/Michael88/282063
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/6q55LH2b/HVZHZGl.jpg",Colors Bangla HD
@@ -123,18 +88,7 @@ http://streamcloud.biz:1935/Friendstv/friendstv/playlist.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/bYGDC2Hk/in-high-news-3156.jpg",High News
 http://highmedia.livebox.co.in:80/HIGHNEWShls/LIVE.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/MHB3Pg3Z/Sony-Aath-new.png",Sony Aath
-https://cdn-tv.co.in/myweb/watch.php?id=1000009255
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/MHB3Pg3Z/Sony-Aath-new.png",Sony Aath
-https://uniflixbd.xyz/unuse/payplay/live.php?id=e96cb72a3787&e=.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/MHB3Pg3Z/Sony-Aath-new.png",Sony Aath
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/MHB3Pg3Z/Sony-Aath-new.png",Sony Aath
 http://mag.trexlive.me:80/Michael88/Michael88/1112197
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155781&extension=ts&play_token=otM0DQF4Ff
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/qqXdts7J/e5Ldh7e.jpg",ZEE Bangla
-https://uniflixbd.xyz/unuse/payplay/live.php?id=a994bb5a55fc&e=.m3u8%20
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/qqXdts7J/e5Ldh7e.jpg",ZEE Bangla
-https://uniflixbd.xyz/unuse/payplay/live.php?id=a994bb5a55fc&e=.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/qqXdts7J/e5Ldh7e.jpg",ZEE Bangla
 http://mag.trexlive.me:80/Michael88/Michael88/225786
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/x8JFdDP7/Zee-Bangla-HD.png",ZEE Bangla HD
@@ -142,23 +96,13 @@ http://mag.trexlive.me:80/Michael88/Michael88/225796
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/x8JFdDP7/Zee-Bangla-HD.png",ZEE Bangla HD
 http://mag.trexlive.me:80/Michael88/Michael88/155774
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/kGtYZCb2/ZVro-V3u-400x400.jpg",Zee Bangla Cinema
-https://uniflixbd.xyz/unuse/payplay/live.php?id=3c1cc31a847f&e=.m3u8%20
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/kGtYZCb2/ZVro-V3u-400x400.jpg",Zee Bangla Cinema
 http://mag.trexlive.me:80/Michael88/Michael88/225781
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/jqQ3T7FC/picture.jpg",& Pictures HD
 http://mag.trexlive.me:80/Michael88/Michael88/155997
-#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/jqQ3T7FC/picture.jpg",& Pictures HD
-https://pubads.g.doubleclick.net/ssai/event/GvxJH26zQU2K26dScVna1A/master.m3u8
-#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/jqQ3T7FC/picture.jpg",& Pictures HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/MZyXtWry/download-5.jpg",& TV HD
 http://mag.trexlive.me:80/Michael88/Michael88/280745
-#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/MZyXtWry/download-5.jpg",& TV HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/yx8VBs3C/download.jpg",Aaj Tak
 https://feeds.intoday.in/aajtak/api/master.m3u8
-#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/yx8VBs3C/download.jpg",Aaj Tak
-http://103.120.172.74:1090
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/TP8T7Wh5/image.jpg",Aaj Tak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/8zyKL8vL/image-1.jpg",B4U Movies
@@ -195,8 +139,6 @@ https://ythls.armelin.one/channel/UCttspZesZIDEwwpVIgoZtWQ.m3u8
 https://thelegitpro.in/hls10/jansetunews/index.m3u8
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/kgYmw8y2/maha-movie-logo.jpg",Maha Movies
 http://longstream-04.ajaah.com/PlayBoxTV/MahaMovies/playlist.m3u8
-#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/43Z3zBYG/Manoranjan-TV.jpg",Manoranjan TV
-https://jiu.top10bhaluka.com/ki/iptv/stream.php?id=2326
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/1zHD6g5W/Manoranjan-Movies.jpg",Manoranjan Movies
 http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/1zWHk1NR/News-18-India.jpg",News18 India
