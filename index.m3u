@@ -1,5 +1,13 @@
+#=================================
+# Link Collected By: Masum Billah
+# Disclaimer:
+# This tool does NOT host any content. All link collected form publicly available source on internet.
+# This tool does NOT host for bussiness. Only personal Use and educational purpose.
+# It aggregates publicly available data for informational purposes only.
+# For any issues or concerns, please contact.
+#==================================
 #EXTM3U
-
+#=============Akash Go=====================
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Akash Go",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Akash Go",Deepto TV
@@ -39,6 +47,10 @@ https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png",[BD] Jamuna TV
 https://bldcmprod-cdn.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8
 
+#===========BD Free Channel=======================
+
+
+#===========Sports Cricket=======================
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
 https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=0e915035aac24dd5341617cfda221b0776ff769c-0c67c32e0efb261ec0b8078f027a2351-1770730587-1770726987
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/25.png" group-title="sports",star sports 1
