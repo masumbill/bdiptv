@@ -1,1 +1,19 @@
-resources.
+# ==========iptv sources:==========
+
+1. https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/refs/heads/main/playlist.m3u
+2. https://raw.githubusercontent.com/imShakil/tvlink/refs/heads/main/iptv.m3u8
+3. https://iptv-org.github.io/iptv/index.category.m3u 
+4. https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlist.m3u8
+5. https://raw.githubusercontent.com/FunctionError/PiratesTv/refs/heads/main/combined_playlist.m3u
+6. https://iptv-org.github.io/iptv/countries/pk.m3u
+7. https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/CricHD.m3u
+8. https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/Yupptv.m3u
+9. https://raw.githubusercontent.com/MRM3UK/New-try/refs/heads/main/mixsports.m3u
+10. https://raw.githubusercontent.com/AhasanSheikhBangladeshi/iptv/refs/heads/main/BD%20TV%20README.m3u
+11. https://raw.githubusercontent.com/AhasanSheikhBangladeshi/iptv/refs/heads/main/IndiaPakArabTV.m3u
+12. https://raw.githubusercontent.com/bdles69/m3uBD/refs/heads/main/updated.m3u
+13. https://raw.githubusercontent.com/C0d3d-bR4in/BDTV.live/refs/heads/main/index.m3u
+
+
+# =========Taken Support from: ===============
+M3U Link Checker: https://junguler.github.io/M3U-link-checker/.
