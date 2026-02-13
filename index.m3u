@@ -69,20 +69,25 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #=============Kids Zone=====================
 #EXTINF:-1 tvg-id="141" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="Kids Zone",SRK TV HD
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/2b00567c538d392c8050124f0064c4a1" group-title="Kids Zone",Enter 10 Bangla
+ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
 #=============Indian Bangla=====================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png?20230625063343" group-title="Indian Bangla",Star Jalsha
 https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e5117c508d18adf0a3f2475eb1fd5a9d" group-title="Indian Bangla",DD Bangla
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+#EXTINF:-1 tvg-name="BhiChannel" group-title="Indian Bangla",BhiChannel
+http://15.235.185.236/hls/bhi.m3u8
+#EXTINF:-1 tvg-name="StarJalsha HD" group-title="Indian Bangla",StarJalsha HD
+https://tvsen1.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/index.m3u8
 #=============Hindi Moives=====================
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png?20230802074221" group-title="Hindi Movies",Zee Cinema
-https://padmaonline.duckdns.org:8088/ZeeCinemaHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sony_MAX_Logo_%282011%29.png/1280px-Sony_MAX_Logo_%282011%29.png" group-title="Hindi Movies",Sony Max
-https://padmaonline.duckdns.org:8088/SonyMaxHD/tracks-v1a1/mono.m3u8
+
 #=============English Movies=====================
 
 #=============Indian News=====================
+#EXTINF:-1 tvg-name="R Plus News" group-title="Indian News",R Plus News
+https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
 
 #=============International News=====================
 
