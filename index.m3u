@@ -76,6 +76,15 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://vods2.aynascope.net/gseriesDrama/index.m3u8
 
 
+EXTINF:-1 tvg-name="Zee Anmol TV" group-title="Hindi Movies",Zee Anmol TV
+http://103.175.73.12:8080/live/256/256_0.m3u8
+#EXTINF:-1 tvg-name="Colors Rishtey" group-title="Hindi Movies",Colors Rishtey
+http://103.175.73.12:8080/live/12/12_0.m3u8
+#EXTINF:-1 tvg-name="Big Magic" group-title="Hindi Movies",Big Magic
+http://103.175.73.12:8080/live/13/13_0.m3u8
+
+
+
 #============= india news=====================
 
 
