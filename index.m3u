@@ -164,6 +164,10 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png" group-title="Hindi Movies",Kairali We (576p)
 https://cdn-3.pishow.tv/live/1530/master.m3u8
+#EXTINF:-1 tvg-id="MahaMovie.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="Hindi Movies",Maha Movie (576p)
+https://cdn-6.pishow.tv/live/10007/master.m3u8
+#EXTINF:-1 tvg-id="ManoranjanGrand.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143302_ld_h15_aa.png?lock=720x540" group-title="Hindi Movies",Manoranjan Grand (720p)
+https://cdn-1.pishow.tv/live/1011/master.m3u8
 
 
 #=============English and other Movies=====================
@@ -221,6 +225,16 @@ https://live.presstv.ir/hls/ifilmar.m3u8
 https://live.presstv.ir/hls/ifilmen.m3u8
 #EXTINF:-1 tvg-id="iFilmPersian.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Movies",iFilm Persian
 https://live.presstv.ir/hls/ifilmfa.m3u8
+#EXTINF:-1 tvg-id="Kino24.ru@SD" tvg-logo="https://i.imgur.com/QAdDARF.png" group-title="Movies",Kino 24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 tvg-id="Kinoteatr.uz@SD" tvg-logo="https://i.imgur.com/emH1BgC.png" group-title="Movies;Chinese",Kinoteatr (1080p)
+https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosCine.pt@SD" tvg-logo="https://i.imgur.com/CZViCwB.jpg" group-title="Movies",Kuriakos Cine (1080p)
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MaahTV.my@SD" tvg-logo="https://i.imgur.com/FkyueH6.png" group-title="Movies;Arabic",Maah TV (720p)
+https://hls.maahtv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="MadeInHollywood.us@SD" tvg-logo="https://i.imgur.com/p16HNIM.png" group-title="Movies",Made in Hollywood
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 
 
 
