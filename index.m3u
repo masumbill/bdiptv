@@ -143,6 +143,9 @@ http://103.175.73.12:8080/live/155/155_0.m3u8
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 tvg-name="Goldmines Movies 2" group-title="Hindi Movies",Goldmines Movies 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 tvg-name="KIX" group-title="Hindi Movies",KIX
+http://93.184.10.248/MBCBollywood/index.m3u8
+
 
 #=============English Movies=====================
 #EXTINF:-1 tvg-name="And Prive" group-title="English Movies",And Prive
@@ -151,8 +154,7 @@ http://202.70.146.135:8000/play/a05y/index.m3u8
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-name="My Cinema" group-title="English Movies",My Cinema
 https://mytime-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="KIX" group-title="English Movies",KIX
-http://93.184.10.248/MBCBollywood/index.m3u8
+
 
 #============= News=====================
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5d707a103f48d8f9f1634f1b70e2ecdf" group-title="News",AlJazeera
