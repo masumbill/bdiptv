@@ -145,9 +145,14 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 tvg-name="KIX" group-title="Hindi Movies",KIX
 http://93.184.10.248/MBCBollywood/index.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA/images/LOGO_HD/image.png" group-title="Hindi Movies",Bhojpuri Cinema (720p)
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Hindi Movies",Bollywood Classic (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8?ads.vf=QzgeokcHKvy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Hindi Movies",Bollywood HD (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8?ads.vf=lWu9a-np_Vi
 
-
-#=============English Movies=====================
+#=============English and other Movies=====================
 #EXTINF:-1 tvg-name="And Prive" group-title="Movies",And Prive
 http://202.70.146.135:8000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-name="Action Hollywood Movies" group-title="Movies",Action Hollywood Movies
@@ -156,7 +161,24 @@ https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playli
 https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Afra Film
 https://afrafhls.wns.live/hls/stream.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aESdqiB.png" group-title="Movies",Afriwood Blockbuster (720p)
+https://streamdot.broadpeak.io/cff02a74da64d145c102a2d012758398/afxpstr/AfriwoodBlockbuster/index.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALANKAR/images/LOGO_HD/image.png" group-title="Movies",Alankar TV (720p)
+https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5pOZQB4.png" group-title="Classic;Movies",Artflix Movie Classics (720p)
+https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="Movies",Aurora Media Films (720p)
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+#EXTINF:-1 tvg-logo="https://biztv.uz/static/media/biz-cinema.286b83dc.png" group-title="Movies",BIZ Cinema (1080p)
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Movies", Boreal (720p)
+https://mlb.essastream.com:8081/borealtelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LGJlmtp.png" group-title="Movies", Box Cinema (1080p)
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8?ads.vf=l_Bw4LbbQO8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FUrrDrb.png" group-title="Movies",Cine Romantico (720p)
+https://d1si3n1st4nkgb.cloudfront.net/10502/88886011/hls/master.m3u8?ads.xumo_channelId=88886011
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 
 #============= News=====================
