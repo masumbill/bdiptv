@@ -93,130 +93,215 @@ https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 
 
 #=============Sports=====================
-#EXTINF:0  group-title="Sports",Star Sports 1
+#EXTINF:0 group-title="Sports",Star Sports 1
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n5.sanwalyaarpya.com:1686/hls/star1in.m3u8?md5=2AwzOiFEXDiD2EJgzlkMUw&expires=1773918523
-
 #EXTINF:0 group-title="Sports",Star Sports 1 Hindi
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n9.sanwalyaarpya.com:1686/hls/starhindi.m3u8?md5=OglH582wEoAs_pZeVLShkA&expires=1773918523
-
 #EXTINF:0 group-title="Sports",PTV Sports
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n9.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=Kj0oR7Y5-EVveH9Gw_6lHg&expires=1773918523
-
 #EXTINF:0 group-title="Sports",Willow HD
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n5.sanwalyaarpya.com:1686/hls/willowusa.m3u8?md5=r4wntK4_zQSvHKfmGNV1ow&expires=1773918523
-
 #EXTINF:0 group-title="Sports",Willow HD 2
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n8.sanwalyaarpya.com:1686/hls/willowextra.m3u8?md5=OmaB78CURZsqyMdmwTSxKQ&expires=1773918523
-
 #EXTINF:0 group-title="Sports",Ten Sports
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n9.sanwalyaarpya.com:1686/hls/tenspk.m3u8?md5=kdz6CF7L4mcda7zpmR5-bg&expires=1773918524
-
 #EXTINF:0 group-title="Sports",A Sports HD
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n2.sanwalyaarpya.com:1686/hls/asportshd.m3u8?md5=G6pv6nNEkdtSHel3jKVwSw&expires=1773918524
-
 #EXTINF:0 group-title="Sports",Sky Sports Cricket
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n2.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=JjQDG7od-O2uAIaeYkvbzA&expires=1773918524
-
 #EXTINF:0 group-title="Sports",Sky Sports Main Event
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n4.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=JqnR6SzJyYt8hsdGYphIkA&expires=1773918524
-
 #EXTINF:0 group-title="Sports",TNT 1
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n7.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=oGUlUhc9ZFp7sBs4vwNX_g&expires=1773918524
-
 #EXTINF:0 group-title="Sports",TNT 2
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n9.sanwalyaarpya.com:1686/hls/bbtsp2.m3u8?md5=t0X1w5iWxnEuHOyvdol8ig&expires=1773918524
-
 #EXTINF:0 group-title="Sports",TNT 3
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n6.sanwalyaarpya.com:1686/hls/bbtsp3.m3u8?md5=odAhf3Pn2d-Os8ZFUsadpA&expires=1773918524
-
 #EXTINF:0 group-title="Sports",TNT 4
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n1.sanwalyaarpya.com:1686/hls/bbtespn.m3u8?md5=10bY0TGsl5XHx-9vAc1HAA&expires=1773918525
-
 #EXTINF:0 group-title="Sports",Sky Sport Nz 1
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n9.sanwalyaarpya.com:1686/hls/sky1nz.m3u8?md5=WPwcbhJtxvoLSuNRhhny_A&expires=1773918525
-
 #EXTINF:0 group-title="Sports",Sky Sport Nz 2
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n8.sanwalyaarpya.com:1686/hls/sky2nz.m3u8?md5=fKETNBVGER2SjL4DPU6zuA&expires=1773918525
-
 #EXTINF:0 group-title="Sports",Sky Sport Nz 3
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n6.sanwalyaarpya.com:1686/hls/sky3nz.m3u8?md5=r8b7WETvAywSDoEjeu2AGg&expires=1773918525
-
 #EXTINF:0 group-title="Sports",Sky Sport Nz 4
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n2.sanwalyaarpya.com:1686/hls/sky4nz.m3u8?md5=5rifNZshLAJSg_2WkFcg0A&expires=1773918525
-
 #EXTINF:0 group-title="Sports",Sky Sport Nz 5
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n2.sanwalyaarpya.com:1686/hls/sky5nz.m3u8?md5=TgQHd7KXc9D-gi8s1RtUdA&expires=1773918525
-
 #EXTINF:0 group-title="Sports",Sky Sport 6 Nz
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n6.sanwalyaarpya.com:1686/hls/sky6nz.m3u8?md5=gzPsp9uuxHNhS-BQaVtLuA&expires=1773918525
-
 #EXTINF:0 group-title="Sports",Sky Sport Nz 7
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n3.sanwalyaarpya.com:1686/hls/sky7nz.m3u8?md5=B8Z1smnFZ5v02Gw2R_N-ow&expires=1773918525
-
 #EXTINF:0 group-title="Sports",Sky Sport Nz 8
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n1.sanwalyaarpya.com:1686/hls/sky8nz.m3u8?md5=FBIL3RKFlnocnu1xunDJHg&expires=1773918526
-
 #EXTINF:0 group-title="Sports",Sky Sport Nz 9
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n4.sanwalyaarpya.com:1686/hls/sky9nz.m3u8?md5=0DhM1kpPjWAxZgHF9bSCHg&expires=1773918526
-
 #EXTINF:0 group-title="Sports",Sky Cinema
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n2.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=CnLbrHu4vLy_ITt4v-HhRw&expires=1773918526
-
 #EXTINF:0 group-title="Sports",Sky Sports Action
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n5.sanwalyaarpya.com:1686/hls/skysact.m3u8?md5=E_iGX0Rnajzv_VhPeu6cIg&expires=1773918526
-
 #EXTINF:0 group-title="Sports",Sky Sports Golf
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n3.sanwalyaarpya.com:1686/hls/skysgol.m3u8?md5=ESVCjY6stgzEcIa23bv3iw&expires=1773918526
-
 #EXTINF:0 group-title="Sports",Sky Sports Premier League
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n2.sanwalyaarpya.com:1686/hls/skysprem.m3u8?md5=WUJTbqeWsaYKSac53enV0g&expires=1773918526
-
 #EXTINF:0 group-title="Sports",Sky Sports Football
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n14.sanwalyaarpya.com:1686/hls/skysfott.m3u8?md5=uwssztdJrMQsnPELYgIidw&expires=1773918526
-
 #EXTINF:0 group-title="Sports",Sky Sports Plus
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n14.sanwalyaarpya.com:1686/hls/skysare.m3u8?md5=V6KSyCU1usSHbPRAs16AEg&expires=1773918526
-
 #EXTINF:0 group-title="Sports",Sky Sports F1
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n5.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=Gj_wdQ2zaEqqpfU2TqUS0w&expires=1773918526
-
 #EXTINF:0 group-title="Sports",LaLiGA
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n3.sanwalyaarpya.com:1686/hls/laligauk.m3u8?md5=4dkktm_kPdmqfi4ODb-pQQ&expires=1773918527
-
 #EXTINF:0 group-title="Sports",Premier Sports 1
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n3.sanwalyaarpya.com:1686/hls/premieruk.m3u8?md5=fAqzUHlxuD4Aa3LLfsKyHw&expires=1773918527
-
 #EXTINF:0 group-title="Sports",Premier Sports 2
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n2.sanwalyaarpya.com:1686/hls/hdchnl2.m3u8?md5=6ACALz-4vAUSzp9PKG6kgQ&expires=1773918527
-
 #EXTINF:0 group-title="Sports",Super Football
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n8.sanwalyaarpya.com:1686/hls/superfotball.m3u8?md5=1lW2pG26Rw367qwhtjv9NA&expires=1773918527
-
 #EXTINF:0 group-title="Sports",Super Premier League
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n9.sanwalyaarpya.com:1686/hls/superpremier.m3u8?md5=de7zn4cNtKw7V5S6LTidWw&expires=1773918527
-
 #EXTINF:0 group-title="Sports",Astro Cricket
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n4.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=9xaHkX_FDCbQGduMxa-vhw&expires=1773918527
-
 #EXTINF:0 group-title="Sports",ESPN 1
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n3.sanwalyaarpya.com:1686/hls/espnusa.m3u8?md5=kLd2TjWejaTqU9nqHmERvg&expires=1773918527
-
-#EXTINF:0 group-title="Sports",ESPN 2
+#EXTINF:0,ESPN 2
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n3.sanwalyaarpya.com:1686/hls/espn2.m3u8?md5=iBEc3NqO19OEEwog3m2uUQ&expires=1773918527
-
 #EXTINF:0 group-title="Sports",Sky Sports Arena
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n7.sanwalyaarpya.com:1686/hls/skysare.m3u8?md5=6QkEPyM8rbbJatmefNVOCg&expires=1773918527
-
 #EXTINF:0 group-title="Sports",Sky Sports Mix
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n8.sanwalyaarpya.com:1686/hls/skysmixx.m3u8?md5=cUkMksblrEP900NJLxtGYQ&expires=1773918528
-
-#EXTINF:0 group-title="Sports", Sky Sports Tennis
+#EXTINF:0 group-title="Sports",Sky Sports Tennis
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n3.sanwalyaarpya.com:1686/hls/skystennis.m3u8?md5=5JfeRvWE7XjPvdi0gVjEbA&expires=1773918528
-
 #EXTINF:0 group-title="Sports",Fox Cricket 501 HD
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n6.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=W_ut2h9tt59pwOlxpPSzkQ&expires=1773918528
-
 #EXTINF:0 group-title="Sports",Sony Sports3
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTVLCOPT:network-caching=1000
 https://n2.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=RwbRvlo_EYEUBWKeAd3jPg&expires=1773918528
 
 #EXTINF:-1 tvg-logo="https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png" group-title="Sports", Cricket Gold (1080p)
