@@ -5,9 +5,11 @@
 # This tool does NOT host for bussiness. Only personal Use and educational purpose.
 # It aggregates publicly available data for informational purposes only.
 # For any issues or concerns, please contact.
-#==================================
+
+#=============================================
 #EXTM3U
 #=============Bangladeshi=====================
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Bangladeshi", Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="Bangladeshi",Channel 24
