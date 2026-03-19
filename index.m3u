@@ -32,21 +32,21 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="Bangladeshi", Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="Bangladeshi",INDEPENDENT TV
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="Bangladeshi", INDEPENDENT TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 tvg-id="GaziTV.bd@SD" tvg-logo="https://i.imgur.com/2Lzhiq6.png" group-title="Bangladeshi",Gazi TV (1080p)
+#EXTINF:-1 tvg-id="GaziTV.bd@SD" tvg-logo="https://i.imgur.com/2Lzhiq6.png" group-title="Bangladeshi", Gazi TV (1080p)
 http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/1200px-Logo_of_Deepto_TV.svg.png" group-title="Bangladeshi", Deepto TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="Bangladeshi",Jamuna TV
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="Bangladeshi", Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Bangladeshi", Duronto TV
 https://tvsen4.aynaott.com/durontotv/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="Bangladeshi",ATN NEWS
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="Bangladeshi", ATN NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Bangladeshi",ATN Bangla [1]
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Bangladeshi", ATN Bangla [1]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png",ATN Bangla [HD]
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png", ATN Bangla [HD]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ytimg.com/vi/GRCWbI5ZSFg/maxresdefault.jpg", ATN BANGLA UK
 https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
@@ -87,63 +87,63 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
 
 #=============Hindi Movies=====================
-#EXTINF:-1 tvg-name="B4U Kadak" group-title="Hindi Movies",B4U Kadak
+#EXTINF:-1 tvg-name="B4U Kadak" group-title="Hindi Movies", B4U Kadak
 https://cdn-2.pishow.tv/live/227/master.m3u8
-#EXTINF:-1 tvg-name="Sony Max 2 HD" group-title="Hindi Movies",Sony Max 2 HD
+#EXTINF:-1 tvg-name="Sony Max 2 HD" group-title="Hindi Movies", Sony Max 2 HD
 https://edge2.roarzone.info:8447/roarzone/edge3/sony-max-2/index.m3u8
-#EXTINF:-1 tvg-name="Goldmines" group-title="Hindi Movies",Goldmines
+#EXTINF:-1 tvg-name="Goldmines" group-title="Hindi Movies", Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-name="9XM" group-title="Hindi Movies",9XM
 http://103.175.73.12:8080/live/155/155_0.m3u8
-#EXTINF:-1 tvg-name="Goldmines Movies" group-title="Hindi Movies",Goldmines Movies
+#EXTINF:-1 tvg-name="Goldmines Movies" group-title="Hindi Movies", Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:-1 tvg-name="Goldmines Movies 2" group-title="Hindi Movies",Goldmines Movies 2
+#EXTINF:-1 tvg-name="Goldmines Movies 2" group-title="Hindi Movies", Goldmines Movies 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
-#EXTINF:-1 tvg-name="SONY SAB" group-title="Hindi Movies",SONY SAB
+#EXTINF:-1 tvg-name="SONY SAB" group-title="Hindi Movies", SONY SAB
 http://206.212.244.71:8080/BRIDGITS@YAHOO.COM/BRIDGITS@2022/125809
-#EXTINF:-1 tvg-name="Baallee" group-title="Hindi Movies",Baallee
+#EXTINF:-1 tvg-name="Baallee" group-title="Hindi Movies", Baallee
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="E24" group-title="Hindi Movies",E24
+#EXTINF:-1 tvg-name="E24" group-title="Hindi Movies", E24
 http://103.175.73.12:8080/live/159/159_0.m3u8
-#EXTINF:-1 tvg-name="YRF Music HD" group-title="Hindi Movies",YRF Music HD
+#EXTINF:-1 tvg-name="YRF Music HD" group-title="Hindi Movies", YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-name="Music India" group-title="Hindi Movies",Music India
+#EXTINF:-1 tvg-name="Music India" group-title="Hindi Movies", Music India
 http://103.175.73.12:8080/live/158/158_0.m3u8
-#EXTINF:-1 tvg-name="Mardaani 3" group-title="Hindi Movies",Mardaani 3
+#EXTINF:-1 tvg-name="Mardaani 3" group-title="Hindi Movies", Mardaani 3
 http://103.225.94.27/Infobase/hdd-3/hindi/Mardaani%203%20(2026)%201080p%20DVDRip.mp4
-#EXTINF:-1 tvg-name="Tiger 3" group-title="Hindi Movies",Tiger 3
+#EXTINF:-1 tvg-name="Tiger 3" group-title="Hindi Movies", Tiger 3
 http://103.225.94.27/Infobase/hdd-3/hindi/Border%202%20(2026)%20Hindi%20720p%20HDTS%20x264%20%5bDDN%5d.mp4
-#EXTINF:-1 tvg-name="Test" group-title="Hindi Movies",Test
+#EXTINF:-1 tvg-name="Test" group-title="Hindi Movies", Test
 http://103.225.94.27/Infobase/hdd-3/Hindi%20Dub/Test%20(2025)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-name="Star Gold HD" group-title="Hindi Movies",Star Gold HD
+#EXTINF:-1 tvg-name="Star Gold HD" group-title="Hindi Movies", Star Gold HD
 http://103.99.249.139/stargold/index.m3u8
-#EXTINF:-1 tvg-name="SONY MAX SD" group-title="Hindi Movies",SONY MAX SD
+#EXTINF:-1 tvg-name="SONY MAX SD" group-title="Hindi Movies", SONY MAX SD
 http://103.99.249.139/sonymax/index.m3u8
-#EXTINF:-1 tvg-name="Zee Action" group-title="Hindi Movies",Zee Action
+#EXTINF:-1 tvg-name="Zee Action" group-title="Hindi Movies", Zee Action
 http://103.161.153.165:8000/play/a03s/index.m3u8
-#EXTINF:-1 tvg-name="MK Six" group-title="Hindi Movies",MK Six
+#EXTINF:-1 tvg-name="MK Six" group-title="Hindi Movies", MK Six
 https://cdn-3.pishow.tv/live/1253/master.m3u8
-#EXTINF:-1 tvg-name="ARY Digital" group-title="Hindi Movies",ARY Digital
+#EXTINF:-1 tvg-name="ARY Digital" group-title="Hindi Movies", ARY Digital
 https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi Movies", Hindi Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="South Movies" group-title="Hindi Movies", South Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
-EXTINF:-1 tvg-name="Zee Anmol TV" group-title="Hindi Movies",Zee Anmol TV
+EXTINF:-1 tvg-name="Zee Anmol TV" group-title="Hindi Movies", Zee Anmol TV
 http://103.175.73.12:8080/live/256/256_0.m3u8
-#EXTINF:-1 tvg-name="Colors Rishtey" group-title="Hindi Movies",Colors Rishtey
+#EXTINF:-1 tvg-name="Colors Rishtey" group-title="Hindi Movies", Colors Rishtey
 http://103.175.73.12:8080/live/12/12_0.m3u8
-#EXTINF:-1 tvg-name="Big Magic" group-title="Hindi Movies",Big Magic
+#EXTINF:-1 tvg-name="Big Magic" group-title="Hindi Movies", Big Magic
 http://103.175.73.12:8080/live/13/13_0.m3u8
-#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Hindi Movies",Hindi Hits HD
+#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Hindi Movies", Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-name="Zee Action" group-title="Hindi Movies",Zee Action
+#EXTINF:-1 tvg-name="Zee Action" group-title="Hindi Movies", Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
-#EXTINF:-1 tvg-name="Zee Cinema HD" group-title="Hindi Movies",Zee Cinema HD
+#EXTINF:-1 tvg-name="Zee Cinema HD" group-title="Hindi Movies", Zee Cinema HD
 http://103.99.249.139/zeecinema/index.m3u8
-#EXTINF:-1 tvg-name="Sheemaroo Bollywood" group-title="Hindi Movies",Sheemaroo Bollywood
+#EXTINF:-1 tvg-name="Sheemaroo Bollywood" group-title="Hindi Movies", Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 tvg-name="Goldmines Bollywood" group-title="Hindi Movies",Goldmines Bollywood
+#EXTINF:-1 tvg-name="Goldmines Bollywood" group-title="Hindi Movies", Goldmines Bollywood
 http://103.175.73.12:8080/live/52/52_0.m3u8
 #EXTINF:-1 tvg-name="Star Gold" group-title="Hindi Movies", Star Gold
 http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
