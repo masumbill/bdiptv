@@ -93,130 +93,130 @@ https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 
 
 #=============Sports=====================
-#EXTINF:97,Star Sports 1
+#EXTINF:0  group-title="Sports",Star Sports 1
 https://n5.sanwalyaarpya.com:1686/hls/star1in.m3u8?md5=2AwzOiFEXDiD2EJgzlkMUw&expires=1773918523
 
-#EXTINF:0,Star Sports 1 Hindi
+#EXTINF:0 group-title="Sports",Star Sports 1 Hindi
 https://n9.sanwalyaarpya.com:1686/hls/starhindi.m3u8?md5=OglH582wEoAs_pZeVLShkA&expires=1773918523
 
-#EXTINF:0,PTV Sports
+#EXTINF:0 group-title="Sports",PTV Sports
 https://n9.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=Kj0oR7Y5-EVveH9Gw_6lHg&expires=1773918523
 
-#EXTINF:0,Willow HD
+#EXTINF:0 group-title="Sports",Willow HD
 https://n5.sanwalyaarpya.com:1686/hls/willowusa.m3u8?md5=r4wntK4_zQSvHKfmGNV1ow&expires=1773918523
 
-#EXTINF:0,Willow HD 2
+#EXTINF:0 group-title="Sports",Willow HD 2
 https://n8.sanwalyaarpya.com:1686/hls/willowextra.m3u8?md5=OmaB78CURZsqyMdmwTSxKQ&expires=1773918523
 
-#EXTINF:0,Ten Sports
+#EXTINF:0 group-title="Sports",Ten Sports
 https://n9.sanwalyaarpya.com:1686/hls/tenspk.m3u8?md5=kdz6CF7L4mcda7zpmR5-bg&expires=1773918524
 
-#EXTINF:0,A Sports HD
+#EXTINF:0 group-title="Sports",A Sports HD
 https://n2.sanwalyaarpya.com:1686/hls/asportshd.m3u8?md5=G6pv6nNEkdtSHel3jKVwSw&expires=1773918524
 
-#EXTINF:0,Sky Sports Cricket
+#EXTINF:0 group-title="Sports",Sky Sports Cricket
 https://n2.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=JjQDG7od-O2uAIaeYkvbzA&expires=1773918524
 
-#EXTINF:0,Sky Sports Main Event
+#EXTINF:0 group-title="Sports",Sky Sports Main Event
 https://n4.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=JqnR6SzJyYt8hsdGYphIkA&expires=1773918524
 
-#EXTINF:0,TNT 1
+#EXTINF:0 group-title="Sports",TNT 1
 https://n7.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=oGUlUhc9ZFp7sBs4vwNX_g&expires=1773918524
 
-#EXTINF:0,TNT 2
+#EXTINF:0 group-title="Sports",TNT 2
 https://n9.sanwalyaarpya.com:1686/hls/bbtsp2.m3u8?md5=t0X1w5iWxnEuHOyvdol8ig&expires=1773918524
 
-#EXTINF:0,TNT 3
+#EXTINF:0 group-title="Sports",TNT 3
 https://n6.sanwalyaarpya.com:1686/hls/bbtsp3.m3u8?md5=odAhf3Pn2d-Os8ZFUsadpA&expires=1773918524
 
-#EXTINF:0,TNT 4
+#EXTINF:0 group-title="Sports",TNT 4
 https://n1.sanwalyaarpya.com:1686/hls/bbtespn.m3u8?md5=10bY0TGsl5XHx-9vAc1HAA&expires=1773918525
 
-#EXTINF:0,Sky Sport Nz 1
+#EXTINF:0 group-title="Sports",Sky Sport Nz 1
 https://n9.sanwalyaarpya.com:1686/hls/sky1nz.m3u8?md5=WPwcbhJtxvoLSuNRhhny_A&expires=1773918525
 
-#EXTINF:0,Sky Sport Nz 2
+#EXTINF:0 group-title="Sports",Sky Sport Nz 2
 https://n8.sanwalyaarpya.com:1686/hls/sky2nz.m3u8?md5=fKETNBVGER2SjL4DPU6zuA&expires=1773918525
 
-#EXTINF:0,Sky Sport Nz 3
+#EXTINF:0 group-title="Sports",Sky Sport Nz 3
 https://n6.sanwalyaarpya.com:1686/hls/sky3nz.m3u8?md5=r8b7WETvAywSDoEjeu2AGg&expires=1773918525
 
-#EXTINF:0,Sky Sport Nz 4
+#EXTINF:0 group-title="Sports",Sky Sport Nz 4
 https://n2.sanwalyaarpya.com:1686/hls/sky4nz.m3u8?md5=5rifNZshLAJSg_2WkFcg0A&expires=1773918525
 
-#EXTINF:0,Sky Sport Nz 5
+#EXTINF:0 group-title="Sports",Sky Sport Nz 5
 https://n2.sanwalyaarpya.com:1686/hls/sky5nz.m3u8?md5=TgQHd7KXc9D-gi8s1RtUdA&expires=1773918525
 
-#EXTINF:0,Sky Sport 6 Nz
+#EXTINF:0 group-title="Sports",Sky Sport 6 Nz
 https://n6.sanwalyaarpya.com:1686/hls/sky6nz.m3u8?md5=gzPsp9uuxHNhS-BQaVtLuA&expires=1773918525
 
-#EXTINF:0,Sky Sport Nz 7
+#EXTINF:0 group-title="Sports",Sky Sport Nz 7
 https://n3.sanwalyaarpya.com:1686/hls/sky7nz.m3u8?md5=B8Z1smnFZ5v02Gw2R_N-ow&expires=1773918525
 
-#EXTINF:0,Sky Sport Nz 8
+#EXTINF:0 group-title="Sports",Sky Sport Nz 8
 https://n1.sanwalyaarpya.com:1686/hls/sky8nz.m3u8?md5=FBIL3RKFlnocnu1xunDJHg&expires=1773918526
 
-#EXTINF:0,Sky Sport Nz 9
+#EXTINF:0 group-title="Sports",Sky Sport Nz 9
 https://n4.sanwalyaarpya.com:1686/hls/sky9nz.m3u8?md5=0DhM1kpPjWAxZgHF9bSCHg&expires=1773918526
 
-#EXTINF:0,Sky Cinema
+#EXTINF:0 group-title="Sports",Sky Cinema
 https://n2.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=CnLbrHu4vLy_ITt4v-HhRw&expires=1773918526
 
-#EXTINF:0,Sky Sports Action
+#EXTINF:0 group-title="Sports",Sky Sports Action
 https://n5.sanwalyaarpya.com:1686/hls/skysact.m3u8?md5=E_iGX0Rnajzv_VhPeu6cIg&expires=1773918526
 
-#EXTINF:0,Sky Sports Golf
+#EXTINF:0 group-title="Sports",Sky Sports Golf
 https://n3.sanwalyaarpya.com:1686/hls/skysgol.m3u8?md5=ESVCjY6stgzEcIa23bv3iw&expires=1773918526
 
-#EXTINF:0,Sky Sports Premier League
+#EXTINF:0 group-title="Sports",Sky Sports Premier League
 https://n2.sanwalyaarpya.com:1686/hls/skysprem.m3u8?md5=WUJTbqeWsaYKSac53enV0g&expires=1773918526
 
-#EXTINF:0,Sky Sports Football
+#EXTINF:0 group-title="Sports",Sky Sports Football
 https://n14.sanwalyaarpya.com:1686/hls/skysfott.m3u8?md5=uwssztdJrMQsnPELYgIidw&expires=1773918526
 
-#EXTINF:0,Sky Sports Plus
+#EXTINF:0 group-title="Sports",Sky Sports Plus
 https://n14.sanwalyaarpya.com:1686/hls/skysare.m3u8?md5=V6KSyCU1usSHbPRAs16AEg&expires=1773918526
 
-#EXTINF:0,Sky Sports F1
+#EXTINF:0 group-title="Sports",Sky Sports F1
 https://n5.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=Gj_wdQ2zaEqqpfU2TqUS0w&expires=1773918526
 
-#EXTINF:0,LaLiGA
+#EXTINF:0 group-title="Sports",LaLiGA
 https://n3.sanwalyaarpya.com:1686/hls/laligauk.m3u8?md5=4dkktm_kPdmqfi4ODb-pQQ&expires=1773918527
 
-#EXTINF:0,Premier Sports 1
+#EXTINF:0 group-title="Sports",Premier Sports 1
 https://n3.sanwalyaarpya.com:1686/hls/premieruk.m3u8?md5=fAqzUHlxuD4Aa3LLfsKyHw&expires=1773918527
 
-#EXTINF:0,Premier Sports 2
+#EXTINF:0 group-title="Sports",Premier Sports 2
 https://n2.sanwalyaarpya.com:1686/hls/hdchnl2.m3u8?md5=6ACALz-4vAUSzp9PKG6kgQ&expires=1773918527
 
-#EXTINF:0,Super Football
+#EXTINF:0 group-title="Sports",Super Football
 https://n8.sanwalyaarpya.com:1686/hls/superfotball.m3u8?md5=1lW2pG26Rw367qwhtjv9NA&expires=1773918527
 
-#EXTINF:0,Super Premier League
+#EXTINF:0 group-title="Sports",Super Premier League
 https://n9.sanwalyaarpya.com:1686/hls/superpremier.m3u8?md5=de7zn4cNtKw7V5S6LTidWw&expires=1773918527
 
-#EXTINF:0,Astro Cricket
+#EXTINF:0 group-title="Sports",Astro Cricket
 https://n4.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=9xaHkX_FDCbQGduMxa-vhw&expires=1773918527
 
-#EXTINF:0,ESPN 1
+#EXTINF:0 group-title="Sports",ESPN 1
 https://n3.sanwalyaarpya.com:1686/hls/espnusa.m3u8?md5=kLd2TjWejaTqU9nqHmERvg&expires=1773918527
 
-#EXTINF:0,ESPN 2
+#EXTINF:0 group-title="Sports",ESPN 2
 https://n3.sanwalyaarpya.com:1686/hls/espn2.m3u8?md5=iBEc3NqO19OEEwog3m2uUQ&expires=1773918527
 
-#EXTINF:0,Sky Sports Arena
+#EXTINF:0 group-title="Sports",Sky Sports Arena
 https://n7.sanwalyaarpya.com:1686/hls/skysare.m3u8?md5=6QkEPyM8rbbJatmefNVOCg&expires=1773918527
 
-#EXTINF:0,Sky Sports Mix
+#EXTINF:0 group-title="Sports",Sky Sports Mix
 https://n8.sanwalyaarpya.com:1686/hls/skysmixx.m3u8?md5=cUkMksblrEP900NJLxtGYQ&expires=1773918528
 
-#EXTINF:0,Sky Sports Tennis
+#EXTINF:0 group-title="Sports", Sky Sports Tennis
 https://n3.sanwalyaarpya.com:1686/hls/skystennis.m3u8?md5=5JfeRvWE7XjPvdi0gVjEbA&expires=1773918528
 
-#EXTINF:0,Fox Cricket 501 HD
+#EXTINF:0 group-title="Sports",Fox Cricket 501 HD
 https://n6.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=W_ut2h9tt59pwOlxpPSzkQ&expires=1773918528
 
-#EXTINF:0,Sony Sports3
+#EXTINF:0 group-title="Sports",Sony Sports3
 https://n2.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=RwbRvlo_EYEUBWKeAd3jPg&expires=1773918528
 
 #EXTINF:-1 tvg-logo="https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png" group-title="Sports", Cricket Gold (1080p)
@@ -326,9 +326,9 @@ http://93.184.10.248/MBCBollywood/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA/images/LOGO_HD/image.png" group-title="Hindi Movies",Bhojpuri Cinema (720p)
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Hindi Movies", Bollywood Classic (1080p)
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8?ads.vf=QzgeokcHKvy
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Hindi Movies", Bollywood HD (1080p)
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8?ads.vf=lWu9a-np_Vi
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-id="GoldStar.ir@SD" tvg-logo="" group-title="Hindi Movies", Gold Star
 https://moviethls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" group-title="Hindi Movies",Goldmines (576p)
@@ -367,7 +367,7 @@ https://afrafhls.wns.live/hls/stream.m3u8
 https://streamdot.broadpeak.io/cff02a74da64d145c102a2d012758398/afxpstr/AfriwoodBlockbuster/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALANKAR/images/LOGO_HD/image.png" group-title="Movies", Alankar TV (720p)
 https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5pOZQB4.png" group-title="Classic;Movies", Artflix Movie Classics (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5pOZQB4.png" group-title="Movies", Artflix Movie Classics (720p)
 https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="Movies",Aurora Media Films (720p)
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
@@ -423,7 +423,7 @@ https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MBCBollywood.ae@SD" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Movies", MBC Bollywood (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:-1 tvg-id="MBCPlusDrama.sa@SD" tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="Movies;Arabic", MBC+ Drama (1080p)
+#EXTINF:-1 tvg-id="MBCPlusDrama.sa@SD" tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="Movies", MBC+ Drama (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 #EXTINF:-1 tvg-id="MetaFilmTV.ir@SD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/meta-film-tv.png" group-title="Movies", Meta Film TV
 https://metafilmhls.wns.live/hls/stream.m3u8
@@ -528,7 +528,7 @@ https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-s
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/12a9fc64-24ca-491e-b86c-be18c9be047b/manifest.m3u8
 #EXTINF:-1 tvg-id="PersianaIranian.fr@SD" tvg-logo="https://i.imgur.com/vqrrpBi.png" group-title="Movies;Iran",Persiana Iranian
 https://irhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaTurkiye.fr@SD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-turkiye-fr.png" group-title="Entertainment",Persiana Turkiye
+#EXTINF:-1 tvg-id="PersianaTurkiye.fr@SD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-turkiye-fr.png" group-title="Movies",Persiana Turkiye
 https://turkhls.persiana.live/hls/stream.m3u8
 
 
