@@ -36,26 +36,24 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="Music",ATN Music
 https://owrcovcrpy.gpcdn.net/bpk-tv/1717/output/index.m3u8
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/Vv6Q42w7/20250719-172535.jpg" group-title="Bangladeshi",SA TV
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://www.satv.tv/wp-content/uploads/2016/07/logo1.png" group-title="Bangladeshi",SA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/Vv6Q42w7/20250719-172535.jpg" group-title="Bangladeshi", Al-Jazeera
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Al-Jazeera-Logo-500x281.png" group-title="Bangladeshi", Al-Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/Vv6Q42w7/20250719-172535.jpg" group-title="Bangladeshi",Maasranga TV
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangladeshi",Maasranga TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" group-title="Bangladeshi",Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vv6Q42w7/20250719-172535.jpg" group-title="Bangladeshi", Islamic TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Islamic_TV_New_Logo.png/250px-Islamic_TV_New_Logo.png" group-title="Bangladeshi", Islamic TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/Vv6Q42w7/20250719-172535.jpg" group-title="Bangladeshi",DBC News
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png?_=20240414081418" group-title="Bangladeshi",DBC News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/Vv6Q42w7/20250719-172535.jpg" group-title="Bangladeshi",Channel 9
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/500px-Channel9_bd.svg.png" group-title="Bangladeshi",Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/T38Oiwl.jpg",EKUSHEY TV [BD]
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.imgur.com/T38Oiwl.jpg",EKUSHEY TV
 https://ekusheyserver.com/etvlivesn.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png" group-title="Bangla", Mohona TV
