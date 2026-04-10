@@ -113,9 +113,17 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 #==================BDIX Live Link====================
 #EXTINF:-1 tvg-logo=""group-title="BDIXTV", Gazi TV
-http://cdn.moviemazic.xyz:8083/GaziTV/index.m3u8?token=37288395b3f72555cc42e687f0faeaaeb3d63591-ff22c9c3ad1dbc2cecfb3d1913013237-1775834863-1775824063
+http://cdn.moviemazic.xyz:8083/GaziTV/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BDIXTV", NagorikTV
 http://cdn.moviemazic.xyz:8083/NagorikTV/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIXTV", Toffee TV
+http://cdn.moviemazic.xyz:8083/TSportsHD/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIXTV", AllSports
+http://cdn.moviemazic.xyz:8083/Feedget/allsports_3/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIXTV", Willow Sports
+http://cdn.moviemazic.xyz:8083/Feedget/willow_usa/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIXTV", Star Movies
+http://cdn.moviemazic.xyz:8083/Feedget/Star-Movies/index.m3u8
 
 #============Mix=====================
 
