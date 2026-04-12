@@ -2244,6 +2244,8 @@ https://cdn-4.pishow.tv/live/37/master.m3u8
 https://cdn-2.pishow.tv/live/39/master.m3u8
 #EXTINF:-1 group-title="PiShow", 40
 https://cdn-7.pishow.tv/live/40/master.m3u8
+
+
 #EXTINF:-1 group-title="PiShow", 220
 https://cdn-3.pishow.tv/live/220/master.m3u8
 #EXTINF:-1 group-title="PiShow", 221
@@ -2256,11 +2258,11 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1 group-title="PiShow", 228. Manoranjan Movies
 https://cdn-2.pishow.tv/live/228/master.m3u8
-#EXTINF:-1 group-title="PiShow", 229
+#EXTINF:-1 group-title="PiShow", 229. Channel Win
 https://cdn-4.pishow.tv/live/229/master.m3u8
 #EXTINF:-1 group-title="PiShow", 230. Shemaroo TV
 https://cdn-3.pishow.tv/live/230/master.m3u8
-#EXTINF:-1 group-title="PiShow", 232
+#EXTINF:-1 group-title="PiShow", 232. 6TV
 https://cdn-1.pishow.tv/live/232/master.m3u8
 #EXTINF:- group-title="PiShow"1, 233. Oscer Movies
 https://cdn-4.pishow.tv/live/233/master.m3u8
@@ -2282,7 +2284,7 @@ https://cdn-7.pishow.tv/live/266/master.m3u8
 https://cdn-3.pishow.tv/live/268/master.m3u8
 #EXTINF:-1 group-title="PiShow", 269
 https://cdn-2.pishow.tv/live/269/master.m3u8
-#EXTINF:-1 group-title="PiShow", 270
+#EXTINF:-1 group-title="PiShow", 270. R.Bangla
 https://cdn-4.pishow.tv/live/270/master.m3u8
 #EXTINF:-1 group-title="PiShow", 271
 https://cdn-2.pishow.tv/live/271/master.m3u8
@@ -2350,7 +2352,7 @@ https://cdn-2.pishow.tv/live/457/master.m3u8
 https://cdn-3.pishow.tv/live/461/master.m3u8
 #EXTINF:-1 group-title="PiShow", 465
 https://cdn-2.pishow.tv/live/465/master.m3u8
-#EXTINF:-1 group-title="PiShow", 473
+#EXTINF:-1 group-title="PiShow", 473. MalarTV
 https://cdn-3.pishow.tv/live/473/master.m3u8
 #EXTINF:-1 group-title="PiShow", 475
 https://cdn-2.pishow.tv/live/475/master.m3u8
@@ -2458,11 +2460,11 @@ https://cdn-1.pishow.tv/live/1454/master.m3u8
 https://cdn-2.pishow.tv/live/1455/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1456
 https://cdn-1.pishow.tv/live/1456/master.m3u8
-#EXTINF:-1 group-title="PiShow", Goldmines
+#EXTINF:-1 group-title="PiShow", 1459. Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
-#EXTINF:-1 group-title="PiShow", Goldmines 2
+#EXTINF:-1 group-title="PiShow", 1460. Goldmines 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
-#EXTINF:-1 group-title="PiShow", Goldmines Movies
+#EXTINF:-1 group-title="PiShow", 1461. Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1462
 https://cdn-4.pishow.tv/live/1462/master.m3u8
@@ -2504,11 +2506,11 @@ https://cdn-2.pishow.tv/live/1494/master.m3u8
 https://cdn-3.pishow.tv/live/1498/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1499
 https://cdn-4.pishow.tv/live/1499/master.m3u8
-#EXTINF:-1 group-title="PiShow", PTC Music
+#EXTINF:-1 group-title="PiShow", 1501. PTC Music
 https://cdn-3.pishow.tv/live/1501/master.m3u8
-#EXTINF:-1 group-title="PiShow", PTC News
+#EXTINF:-1 group-title="PiShow", 1502. PTC News
 https://cdn-4.pishow.tv/live/1502/master.m3u8
-#EXTINF:-1 group-title="PiShow", PTC
+#EXTINF:-1 group-title="PiShow", 1503. PTC
 https://cdn-6.pishow.tv/live/1503/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1510
 https://cdn-2.pishow.tv/live/1510/master.m3u8
