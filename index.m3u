@@ -53,8 +53,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.imgur.com/T38Oiwl.jpg",EKUSHEY TV
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.imgur.com/T38Oiwl.jpg",EKUSHEY TV HD
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/t4cxjxRj/Deshi-TV.jpg", Deshi TV HD
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png" group-title="Bangladeshi",ATN Bangla UK
@@ -104,6 +102,28 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 http://cdn.moviemazic.xyz:8083/GaziTV/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BDIXTV", NagorikTV
 http://cdn.moviemazic.xyz:8083/NagorikTV/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIXTV", Channel 24
+http://cdn.moviemazic.xyz:8083/channel24/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIXTV", DBC News
+http://cdn.moviemazic.xyz:8083/Feedget/dbc_24/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIXTV", Independent TV
+http://cdn.moviemazic.xyz:8083/Feedget/indopendet_nk_33/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIXTV", News 24
+http://cdn.moviemazic.xyz:8083/Feedget/NEWS24LIVE_23/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIXTV", Somoy TV
+http://cdn.moviemazic.xyz:8083/Feedget/somyyt_22/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIXTV", Channel I
+http://cdn.moviemazic.xyz:8083/Feedget/chnnel-i_29/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIXTV", ATN Bangla
+http://cdn.moviemazic.xyz:8083/ATNBangla/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIXTV", ATN News
+http://cdn.moviemazic.xyz:8083/ATNNews/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIXTV", Bangla TV
+http://cdn.moviemazic.xyz:8083/j-BanglaTV/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIXTV", Bangla Vision
+http://cdn.moviemazic.xyz:8083/BanglaVision/index.m3u8
+
+
 #EXTINF:-1 tvg-logo=""group-title="BDIXTV", Toffee TV
 http://cdn.moviemazic.xyz:8083/TSportsHD/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BDIXTV", AllSports
@@ -112,7 +132,32 @@ http://cdn.moviemazic.xyz:8083/Feedget/allsports_3/index.m3u8
 http://cdn.moviemazic.xyz:8083/Feedget/willow_usa/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BDIXTV", Star Movies
 http://cdn.moviemazic.xyz:8083/Feedget/Star-Movies/index.m3u8
-
+#EXTINF:-1 tvg-logo=""group-title="BDIXTV", Star Jalsha HD
+http://cdn.moviemazic.xyz:8083/StarJalshaHD/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIXTV", Star GOLD Romance
+http://cdn.moviemazic.xyz:8083/Star-Gold/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIXTV", Colors Bangla
+http://cdn.moviemazic.xyz:8083/ColorsBanglaHD/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIXTV", ZEE Bangla
+http://cdn.moviemazic.xyz:8083/Feedget/ZeeBangla_8/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIXTV", Sony TV
+http://cdn.moviemazic.xyz:8083/Feedget/SonyEntertainmentTelevisionHD_9/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIXTV", Sony Aath
+http://cdn.moviemazic.xyz:8083/Feedget/SonyAath_7/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIXTV", Sony MaX
+http://cdn.moviemazic.xyz:8083/Feedget/SonyMAX_37/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIXTV", Sony PIX
+http://cdn.moviemazic.xyz:8083/Feedget/SonyPIXHD/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIXTV", &Picture
+http://cdn.moviemazic.xyz:8083/andpictureHD/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIXTV", Zee Cinema
+http://cdn.moviemazic.xyz:8083/Feedget/ZeeCinemaHD_38/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIXTV", Animal Planet
+http://cdn.moviemazic.xyz:8083/Feedget/AnimalPlanetHD_12/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIXTV", Discovery
+http://cdn.moviemazic.xyz:8083/Feedget/Discovery/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIXTV", Natioanl Geographic
+http://cdn.moviemazic.xyz:8083/Feedget/National-Geography/index.m3u8
 #============Mix=====================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Kolkata Bangla",Enter 10 Bangla
