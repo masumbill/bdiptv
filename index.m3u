@@ -34,7 +34,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="Bangladeshi", NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="Music",ATN Music
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="Bangladeshi",ATN Music
 https://owrcovcrpy.gpcdn.net/bpk-tv/1717/output/index.m3u8
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://www.satv.tv/wp-content/uploads/2016/07/logo1.png" group-title="Bangladeshi",SA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
@@ -2184,31 +2184,31 @@ https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 
 #====================Pishow OTT===================
-#EXTINF:-1 group-title="PiShow", 9X Jhakaas
+#EXTINF:-1 group-title="PiShow", 6. 9X Jhakaas
 https://cdn-3.pishow.tv/live/6/master.m3u8
-#EXTINF:-1 group-title="PiShow", 8
+#EXTINF:-1 group-title="PiShow", 8. DD Urdu
 https://cdn-4.pishow.tv/live/8/master.m3u8
-#EXTINF:-1 group-title="PiShow", 9
+#EXTINF:-1 group-title="PiShow", 9. DD Kisan
 https://cdn-6.pishow.tv/live/9/master.m3u8
-#EXTINF:-1 group-title="PiShow", 10
+#EXTINF:-1 group-title="PiShow", 10. DD Bharathi
 https://cdn-1.pishow.tv/live/10/master.m3u8
-#EXTINF:-1 group-title="PiShow", 11
+#EXTINF:-1 group-title="PiShow", 11. DD National
 https://cdn-1.pishow.tv/live/11/master.m3u8
-#EXTINF:-1 group-title="PiShow", 12
+#EXTINF:-1 group-title="PiShow", 12.  DD News
 https://cdn-2.pishow.tv/live/12/master.m3u8
 #EXTINF:-1 group-title="PiShow", DD Sports
 https://cdn-6.pishow.tv/live/13/master.m3u8
-#EXTINF:-1 group-title="PiShow", 14
+#EXTINF:-1 group-title="PiShow", 14. DD Gyan Darshan
 https://cdn-6.pishow.tv/live/14/master.m3u8
-#EXTINF:-1 group-title="PiShow", 15
+#EXTINF:-1 group-title="PiShow", 15. DD Chattisgarh
 https://cdn-1.pishow.tv/live/15/master.m3u8
 #EXTINF:-1 group-title="PiShow", 16
 https://cdn-6.pishow.tv/live/16/master.m3u8
-#EXTINF:-1 group-title="PiShow", 17
+#EXTINF:-1 group-title="PiShow", 17, DD Uttarakhand
 https://cdn-1.pishow.tv/live/17/master.m3u8
 #EXTINF:-1 group-title="PiShow", 19
 https://cdn-7.pishow.tv/live/19/master.m3u8
-#EXTINF:-1 group-title="PiShow", 21
+#EXTINF:-1 group-title="PiShow", 21. DD Telangana
 https://cdn-1.pishow.tv/live/21/master.m3u8
 #EXTINF:-1 group-title="PiShow", 22
 https://cdn-1.pishow.tv/live/22/master.m3u8
@@ -2216,11 +2216,11 @@ https://cdn-1.pishow.tv/live/22/master.m3u8
 https://cdn-1.pishow.tv/live/23/master.m3u8
 #EXTINF:-1 group-title="PiShow", 24
 https://cdn-4.pishow.tv/live/24/master.m3u8
-#EXTINF:-1 group-title="PiShow", 25
+#EXTINF:-1 group-title="PiShow", 25. DD Assam
 https://cdn-4.pishow.tv/live/25/master.m3u8
 #EXTINF:-1 group-title="PiShow", 26
 https://cdn-2.pishow.tv/live/26/master.m3u8
-#EXTINF:-1 group-title="PiShow", 27
+#EXTINF:-1 group-title="PiShow", 27. DD Malayalam
 https://cdn-3.pishow.tv/live/27/master.m3u8
 #EXTINF:-1 group-title="PiShow", 28
 https://cdn-3.pishow.tv/live/28/master.m3u8
@@ -2228,15 +2228,15 @@ https://cdn-3.pishow.tv/live/28/master.m3u8
 https://cdn-3.pishow.tv/live/30/master.m3u8
 #EXTINF:-1 group-title="PiShow", 31
 https://cdn-1.pishow.tv/live/31/master.m3u8
-#EXTINF:-1 group-title="PiShow", 32
+#EXTINF:-1 group-title="PiShow", 32. DD Arunachal Pradesh
 https://cdn-4.pishow.tv/live/32/master.m3u8
 #EXTINF:-1 group-title="PiShow", 33
 https://cdn-4.pishow.tv/live/33/master.m3u8
 #EXTINF:-1 group-title="PiShow", 34
 https://cdn-1.pishow.tv/live/34/master.m3u8
-#EXTINF:-1 group-title="PiShow", 35
+#EXTINF:-1 group-title="PiShow", 35. DD Bihar
 https://cdn-4.pishow.tv/live/35/master.m3u8
-#EXTINF:-1 group-title="PiShow", 36
+#EXTINF:-1 group-title="PiShow", 36. DD Uttar Pradesh
 https://cdn-1.pishow.tv/live/36/master.m3u8
 #EXTINF:-1 group-title="PiShow", 37
 https://cdn-4.pishow.tv/live/37/master.m3u8
