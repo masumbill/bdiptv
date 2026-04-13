@@ -190,6 +190,51 @@ https://v.antsports.tv/live/18/index.m3u8
 https://v.antsports.tv/live/28/index.m3u8
 
 #============================others===================================
+#EXTINF:-1 tvg-id="27" tvg-name="Originals" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770313122372.png" tvg-chno="27" group-title="Movies",Originals
+https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="Cineedge HD" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png" tvg-chno="28" group-title="Movies",Cineedge HD
+https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="ATN Bangla" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740553740665.png" tvg-chno="29" group-title="Entertainment",ATN Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="Uniques HD" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png" tvg-chno="30" group-title="Movies",Uniques HD
+https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="ARY News" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770531824347.png" tvg-chno="31" group-title="News",ARY News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="Superrix HD" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png" tvg-chno="33" group-title="Movies",Superrix HD
+https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="Crazy Ex" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348753896.png" tvg-chno="34" group-title="Sports",Crazy Ex
+https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="Bangla Vision" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" tvg-chno="36" group-title="Entertainment",Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="NTV" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png" tvg-chno="37" group-title="Entertainment",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="Screem" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png" tvg-chno="38" group-title="Movies",Screem
+https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="Sports Legends" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770377900139.png" tvg-chno="39" group-title="Sports",Sports Legends
+https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="Flash Guys HD" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378074527.png" tvg-chno="40" group-title="Sports",Flash Guys HD
+https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="Party Universe" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378215384.png" tvg-chno="41" group-title="Music",Party Universe
+https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="Delicious" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378370876.png" tvg-chno="42" group-title="Infotainment",Delicious
+https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="Luxel HD" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378560772.png" tvg-chno="43" group-title="Infotainment",Luxel HD
+https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="Nikki" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378704923.png" tvg-chno="44" group-title="Kids",Nikki
+https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="Joy" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378874717.png" tvg-chno="45" group-title="Kids",Joy
+https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="BuddyStar HD" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379038530.png" tvg-chno="46" group-title="Kids",BuddyStar HD
+https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="Funny Junior HD" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379573329.png" tvg-chno="47" group-title="Kids",Funny Junior HD
+https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="Crimes" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380126540.png" tvg-chno="48" group-title="Movies",Crimes
+https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8
+#EXTINF:-1 tvg-id="49" tvg-name="True Stories" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380306806.png" tvg-chno="49" group-title="Movies",True Stories
+https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="Intelligence" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380460488.png" tvg-chno="50" group-title="Movies",Intelligence
+https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Kolkata Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
