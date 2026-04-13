@@ -2599,307 +2599,307 @@ https://cdn-6.pishow.tv/live/10007/master.m3u8
 
 #===============News=======================
 #EXTINF:-1 tvg-id="19" tvg-chno="201" tvg-name="republic-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/usnsgu.png" group-title="News", Republic TV
-https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f12a937b-1d7a-473e-ace1-cf53818bb5a5/main.m3u8?hdnts=st%3D1776062064~exp%3D1776083664~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Ff12a937b-1d7a-473e-ace1-cf53818bb5a5%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_19_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_19_-1~hmac%3D9663cb08d5d56e191b170ff2aa4a675ffb8d5a335ce447da0b8237cfcdc52731
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f12a937b-1d7a-473e-ace1-cf53818bb5a5/main.m3u8
 
 #EXTINF:-1 tvg-id="249" tvg-chno="204" tvg-name="india-today" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fkszrn.png" group-title="News", India Today
-https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/24a6099c-c760-4c48-924a-87957ca5869c/vglive-sk-293160/master.m3u8?hdnts=st%3D1776062065~exp%3D1776083665~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F24a6099c-c760-4c48-924a-87957ca5869c%2Fvglive-sk-293160%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_249_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_249_-1~hmac%3D410ab779db8da30baf801b0a01899ca56b9c5a991fb301b6e887f9f984a811ba
+https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/24a6099c-c760-4c48-924a-87957ca5869c/vglive-sk-293160/master.m3u8
 
 #EXTINF:-1 tvg-id="14" tvg-chno="205" tvg-name="wion" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gyztbi.png" group-title="News", Wion
-http://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20c3c0d9-0256-43fe-bca6-70fdd490b957/main.m3u8?hdnts=st%3D1776062066~exp%3D1776083666~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-wion%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F20c3c0d9-0256-43fe-bca6-70fdd490b957%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_14_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_14_-1~hmac%3Ddc6ca79bb0ab8be998463bbe9d86585a7470b3aaf1c38abd35fd5b33b10e5c8d
+http://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20c3c0d9-0256-43fe-bca6-70fdd490b957/main.m3u8
 
 #EXTINF:-1 tvg-id="194" tvg-chno="206" tvg-name="dd-india" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dd-india.png" group-title="News", DD INDIA
-https://test-yupptv.cachefly.net/120723/smil:ddindiahd.smil/playlist.m3u8?hdnts=st%3D1776062067~exp%3D1776083667~acl%3D%21%2A%2F120723%2Fsmil%3Addindiahd.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_194_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_194_-1~hmac%3D63e102ebe29d9cd4394986800efd17a1483e0ebff61a9af4048bca4cc7bd8669
+https://test-yupptv.cachefly.net/120723/smil:ddindiahd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-chno="207" tvg-name="ndtv-24x7" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mlwpdv.png" group-title="News", NDTV 24x7
-https://vg-ndtvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-252389/main.m3u8?hdnts=st%3D1776062067~exp%3D1776083667~acl%3D%21%2A%2Fptnr-yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fvglive-sk-252389%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_1_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_1_-1~hmac%3Dbf400244355a48e803e5eb8fa40841ab061fc981e66a2881ee2605135fd2a7c1
+https://vg-ndtvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-252389/main.m3u8
 
 #EXTINF:-1 tvg-id="213" tvg-chno="208" tvg-name="mirror-now" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mirror-now.png" group-title="News", Mirror Now
-https://vg-timesgroup.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/73455029-b0f3-4c11-b54d-010c52f42ee9/main.m3u8?hdnts=st%3D1776062068~exp%3D1776083668~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F73455029-b0f3-4c11-b54d-010c52f42ee9%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_213_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_213_-1~hmac%3Da1b04cf26136d362376152f7884ca4408165b3ad2e6506ab2d1090836a528046
+https://vg-timesgroup.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/73455029-b0f3-4c11-b54d-010c52f42ee9/main.m3u8
 
 #EXTINF:-1 tvg-id="188" tvg-chno="209" tvg-name="news9live" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kcaslr.png" group-title="News", News9Live
-https://vg-tv9live.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/59d1f22f-8f3f-4458-bb05-204baca5a6ba/main.m3u8?hdnts=st%3D1776062068~exp%3D1776083668~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F59d1f22f-8f3f-4458-bb05-204baca5a6ba%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_188_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_188_-1~hmac%3De91237fc0fee7334f9189aadd4ff746c88caf923db0cb49351e88b8f8dc082cb
+https://vg-tv9live.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/59d1f22f-8f3f-4458-bb05-204baca5a6ba/main.m3u8
 
 #EXTINF:-1 tvg-id="171" tvg-chno="210" tvg-name="hornbill-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hornbill-tv.png" group-title="News", Hornbill TV
-https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8?hdnts=st%3D1776062068~exp%3D1776083668~acl%3D%21%2A%2Ffta%2Fhornbilltv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_171_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_171_-1~hmac%3D41f158c8191fcc878b1e91451cf34c2e314210f558da48b989298c1ea7d35d3c
+https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-chno="226" tvg-name="ndtv-profit" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ddsklc.png" group-title="News", NDTV Profit
-https://yuppparoriglin.akamaized.net/181224/smil:ndtvprofit.smil/playlist.m3u8?hdnts=st%3D1776062069~exp%3D1776083669~acl%3D%21%2A%2F181224%2Fsmil%3Andtvprofit.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_3_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_3_-1~hmac%3Dbe6e81d226f7a2c99455819123095d42b9d61d03526fc2e7569032245de501c4
+https://yuppparoriglin.akamaized.net/181224/smil:ndtvprofit.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="275" tvg-chno="322" tvg-name="oan-plus" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rohnbg.png" group-title="News", OAN PLUS
-https://streams2.sofast.tv/ptnr-yupptv/title-OAN_PLUS/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/788b88ab-2266-4d4f-b43f-061bc7976f4a/playlist.m3u8?hdnts=st%3D1776062070~exp%3D1776083670~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-OAN_PLUS%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F788b88ab-2266-4d4f-b43f-061bc7976f4a%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_275_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_275_-1~hmac%3D816f1754087b52af3dd2456bf674720cd5bcd587c74e9546eb9f58e159ee25d6
+https://streams2.sofast.tv/ptnr-yupptv/title-OAN_PLUS/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/788b88ab-2266-4d4f-b43f-061bc7976f4a/playlist.m3u8
 
 #EXTINF:-1 tvg-id="278" tvg-chno="325" tvg-name="voa-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rgzrjw.png" group-title="News", VOA News
-https://streams2.sofast.tv/ptnr-yupptv/title-VOA_News/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/89641d04-0cc9-4496-abd1-3cf398613724/playlist.m3u8?hdnts=st%3D1776062071~exp%3D1776083671~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-VOA_News%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F89641d04-0cc9-4496-abd1-3cf398613724%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_278_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_278_-1~hmac%3Dc37bc0f4ba2bf31547c93dda487df7a81526304b12263f22ed0fd4c6d1807805
+https://streams2.sofast.tv/ptnr-yupptv/title-VOA_News/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/89641d04-0cc9-4496-abd1-3cf398613724/playlist.m3u8
 
 #EXTINF:-1 tvg-id="150" tvg-chno="414" tvg-name="cvr-english-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/exdirq.png" group-title="News", CVR English News
-https://yuppparoriglin.akamaized.net/181224/smil:cvrnewseng.smil/playlist.m3u8?hdnts=st%3D1776062071~exp%3D1776083671~acl%3D%21%2A%2F181224%2Fsmil%3Acvrnewseng.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_150_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_150_-1~hmac%3Db0c540878fd60c05bb77ff00971b0c2de05e11fa9ef885a7f3b96498f1e1d96e
+https://yuppparoriglin.akamaized.net/181224/smil:cvrnewseng.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="20" tvg-chno="1" tvg-name="republic-bharat" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lnnuqu.png" group-title="News", Republic Bharat
-https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0f99a1bc-a7d8-44cb-af25-000a09d0d735/main.m3u8?hdnts=st%3D1776062072~exp%3D1776083672~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F0f99a1bc-a7d8-44cb-af25-000a09d0d735%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_20_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_20_-1~hmac%3D81bb9d873c44989bb17de1e1fd28e7546bed4c4a9b52abc2877caafb0d2c7632
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0f99a1bc-a7d8-44cb-af25-000a09d0d735/main.m3u8
 
 #EXTINF:-1 tvg-id="248" tvg-chno="2" tvg-name="aaj-tak" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nqbgpo.png" group-title="News", Aaj Tak
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/da9d350e-ac56-4320-8609-0c501da4fb5b/master.m3u8?hdnts=st%3D1776062072~exp%3D1776083672~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fda9d350e-ac56-4320-8609-0c501da4fb5b%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_248_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_248_-1~hmac%3D98745fd2f15eec122dc305cbce2838f031b5f195ec18e08f9a5bd349304d25bb
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/da9d350e-ac56-4320-8609-0c501da4fb5b/master.m3u8
 
 #EXTINF:-1 tvg-id="34" tvg-chno="4" tvg-name="tv9-bharatvarsh" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rhgutv.png" group-title="News", TV9 Bharatvarsh
-https://vg-tv9yupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-234604/main.m3u8?hdnts=st%3D1776062072~exp%3D1776083672~acl%3D%21%2A%2Fptnr-yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fvglive-sk-234604%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_34_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_34_-1~hmac%3D77b6f8a9df115d0c119d04cdb404561b7a2f8312aa048dcbb0239e18eb267c0b
+https://vg-tv9yupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-234604/main.m3u8
 
 #EXTINF:-1 tvg-id="231" tvg-chno="5" tvg-name="india-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/india-tv.png" group-title="News", India TV
-https://vg-indiatvyupp.akamaized.net/ptnr-yupptv/title-Indiatvmi/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9bb243fa-9ec5-4045-9d1d-0326debcace6/main.m3u8?hdnts=st%3D1776062073~exp%3D1776083673~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-Indiatvmi%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F9bb243fa-9ec5-4045-9d1d-0326debcace6%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_231_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_231_-1~hmac%3D48f98b4f45ff51351ea9156bda49575d38763454aba0a746ff1a6d6169ff3081
+https://vg-indiatvyupp.akamaized.net/ptnr-yupptv/title-Indiatvmi/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9bb243fa-9ec5-4045-9d1d-0326debcace6/main.m3u8
 
 #EXTINF:-1 tvg-id="196" tvg-chno="6" tvg-name="times-now-navbharat" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/times-now-navbharat.png" group-title="News", Times Now Navbharat
-https://vg-timesgroup.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/345a8f3d-c6a7-4214-b519-0494d75b6bf9/main.m3u8?hdnts=st%3D1776062073~exp%3D1776083673~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F345a8f3d-c6a7-4214-b519-0494d75b6bf9%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_196_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_196_-1~hmac%3Dbf8ff229aa7436fa71e1b80499b9d07a1d2773aa0c26358a4961cbb1916b6ac4
+https://vg-timesgroup.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/345a8f3d-c6a7-4214-b519-0494d75b6bf9/main.m3u8
 
 #EXTINF:-1 tvg-id="225" tvg-chno="7" tvg-name="abp-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mphzpu.png" group-title="News", ABP News
-https://abplive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1e0dff06-24fb-4d91-9d57-fb6e918834e2/master.m3u8?hdnts=st%3D1776062073~exp%3D1776083673~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F1e0dff06-24fb-4d91-9d57-fb6e918834e2%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_225_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_225_-1~hmac%3D35ff54d5194b84acb26a9caebaa4e722fefc1709f7a6a5575ad0b5ebd1f1ca50
+https://abplive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1e0dff06-24fb-4d91-9d57-fb6e918834e2/master.m3u8
 
 #EXTINF:-1 tvg-id="13" tvg-chno="8" tvg-name="zee-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rhihqo.png" group-title="News", Zee News
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeenews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8744f9fb-d696-4204-9795-5215ad930c39/main.m3u8?hdnts=st%3D1776062074~exp%3D1776083674~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeenews%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F8744f9fb-d696-4204-9795-5215ad930c39%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_13_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_13_-1~hmac%3Da0cb40f9bfb8071075dcf6b9db393c4e416c1bc40973031436be2f85c227b20a
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeenews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8744f9fb-d696-4204-9795-5215ad930c39/main.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-chno="10" tvg-name="ndtv-india" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sltkhm.png" group-title="News", NDTV INDIA
-https://vg-ndtvyupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-685223/main.m3u8?hdnts=st%3D1776062074~exp%3D1776083674~acl%3D%21%2A%2Fptnr-yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fvglive-sk-685223%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_2_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_2_-1~hmac%3D3c395956eec346f1cde08f691625a0409db76b51263d8aecd8bed4e932f47591
+https://vg-ndtvyupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-685223/main.m3u8
 
 #EXTINF:-1 tvg-id="250" tvg-chno="11" tvg-name="good-news-today" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/czbixn.png" group-title="News", Good News Today
-https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8?hdnts=st%3D1776062075~exp%3D1776083675~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F3196cced-ce29-4219-9809-f07ccdaa02b9%2Fvglive-sk-848805%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_250_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_250_-1~hmac%3D6561fca9d46c550fc9ddffbdf90b5bf91f0fd8116b040f4ab60b8b6db84f61ff
+https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8
 
 #EXTINF:-1 tvg-id="25" tvg-chno="12" tvg-name="zee-hindustan" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sdgosh.png" group-title="News", Zee Hindustan
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8?hdnts=st%3D1776062075~exp%3D1776083675~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeehindustan%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F96bbab12-582e-4540-af70-510ab6824581%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_25_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_25_-1~hmac%3De7ad22c0cb5874eba74718d4e9ae91d1d201391cb25f1ccd8e2fa8b2fa85e2da
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
 
 #EXTINF:-1 tvg-id="160" tvg-chno="13" tvg-name="hindi-khabar" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hindi-khabar.png" group-title="News", Hindi Khabar
-https://d1msejlow1t3l4.cloudfront.net/fta/hindikhabar/playlist.m3u8?hdnts=st%3D1776062075~exp%3D1776083675~acl%3D%21%2A%2Ffta%2Fhindikhabar%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_160_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_160_-1~hmac%3Daf76cedb696067f201962712b1d576192a0b5fa550d412d50660bcafb3066788
+https://d1msejlow1t3l4.cloudfront.net/fta/hindikhabar/playlist.m3u8
 
 #EXTINF:-1 tvg-id="138" tvg-chno="14" tvg-name="sudarshan-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sudarshan-news.png" group-title="News", Sudarshan News
-https://d1msejlow1t3l4.cloudfront.net/fta/sudarshan/playlist.m3u8?hdnts=st%3D1776062076~exp%3D1776083676~acl%3D%21%2A%2Ffta%2Fsudarshan%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_138_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_138_-1~hmac%3D65941ff1df28ea48d71261f1045ed2bc71a2a5a101cefbadabba66f367c62a82
+https://d1msejlow1t3l4.cloudfront.net/fta/sudarshan/playlist.m3u8
 
 #EXTINF:-1 tvg-id="38" tvg-chno="15" tvg-name="ndtv-mp" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zhhvxq.png" group-title="News", NDTV MP
-https://vg-ndtvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-860950/main.m3u8?hdnts=st%3D1776062078~exp%3D1776083678~acl%3D%21%2A%2Fptnr-yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fvglive-sk-860950%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_38_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_38_-1~hmac%3D9fc863d9fc13989c24abd063a603d02d2c0718cc7fc400c414045a0ed4982610
+https://vg-ndtvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-860950/main.m3u8
 
 #EXTINF:-1 tvg-id="30" tvg-chno="16" tvg-name="zee-bihar-jharkhand" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zjjkih.png" group-title="News", Zee Bihar Jharkhand
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeebiharjharkhand/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28077955-07d7-4ae2-8b11-9f318cd69420/main.m3u8?hdnts=st%3D1776062078~exp%3D1776083678~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeebiharjharkhand%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F28077955-07d7-4ae2-8b11-9f318cd69420%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_30_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_30_-1~hmac%3D5646d6d2a24da386a1192c2c255703d899e29b04cac2747884fc6c5d8ecb2be3
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeebiharjharkhand/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28077955-07d7-4ae2-8b11-9f318cd69420/main.m3u8
 
 #EXTINF:-1 tvg-id="31" tvg-chno="17" tvg-name="zee-delhi-ncr-haryana" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yiuolu.png" group-title="News", Zee Delhi NCR Haryana
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8?hdnts=st%3D1776062078~exp%3D1776083678~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeedelhincr%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fcc483a15-1b39-4642-872d-5d08d362ed01%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_31_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_31_-1~hmac%3D96c039cc98f827e08084e3e6971f09b0527f388014c829de25159cc6905bbe03
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8
 
 #EXTINF:-1 tvg-id="161" tvg-chno="18" tvg-name="news-11-bharat" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/news-11-bharat.png" group-title="News", News 11 Bharat
-https://d1msejlow1t3l4.cloudfront.net/fta/news11bharat/playlist.m3u8?hdnts=st%3D1776062079~exp%3D1776083679~acl%3D%21%2A%2Ffta%2Fnews11bharat%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_161_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_161_-1~hmac%3Dc51cf0b319567b317334c976d1879300aaad9de452e00ef150eb5691a3675ba5
+https://d1msejlow1t3l4.cloudfront.net/fta/news11bharat/playlist.m3u8
 
 #EXTINF:-1 tvg-id="28" tvg-chno="19" tvg-name="zee-madhya-pradesh-chhattisgarh" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nniyqn.png" group-title="News", Zee Madhya Pradesh Chhattisgarh
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8?hdnts=st%3D1776062079~exp%3D1776083679~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeemadhyachhattisgarh%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F2ab17056-6187-4f0e-a34d-f436ac479d6c%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_28_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_28_-1~hmac%3Dd48325b5fef13c505f96110e9560a35f7ebf4458eb8b4d2e125a01976a6f635f
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8
 
 #EXTINF:-1 tvg-id="39" tvg-chno="20" tvg-name="ndtv-rajasthan" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ehlmdz.png" group-title="News", NDTV Rajasthan
-https://vg-ndtvyupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-753641/main.m3u8?hdnts=st%3D1776062080~exp%3D1776083680~acl%3D%21%2A%2Fptnr-yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fvglive-sk-753641%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_39_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_39_-1~hmac%3D3f8a8bf39e9fb694d3548e2335dbccf9bb71fbe77d7b8439c1f6eb365adef597
+https://vg-ndtvyupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-753641/main.m3u8
 
 #EXTINF:-1 tvg-id="29" tvg-chno="21" tvg-name="zee-up-uk" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ipyfdr.png" group-title="News", Zee UP UK
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeeupuk/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a8c57b70-538f-49ae-af12-2fc2acaa4ff1/main.m3u8?hdnts=st%3D1776062080~exp%3D1776083680~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeeupuk%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fa8c57b70-538f-49ae-af12-2fc2acaa4ff1%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_29_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_29_-1~hmac%3D0793cfd9c94919ff62d2943634efa84d18efbebe3fbab449fee86793ba682235
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeeupuk/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a8c57b70-538f-49ae-af12-2fc2acaa4ff1/main.m3u8
 
 #EXTINF:-1 tvg-id="26" tvg-chno="22" tvg-name="zee-rajasthan-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kvtdmj.png" group-title="News", Zee Rajasthan News
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8?hdnts=st%3D1776062081~exp%3D1776083681~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeerajashthannews%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F8e864b9a-1681-41a0-99a6-387490bc5b24%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_26_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_26_-1~hmac%3D05933c1212c80a51cf3754d963885d254b72ce3ca4443d02eeef1fd5be16f33b
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
 
 #EXTINF:-1 tvg-id="155" tvg-chno="23" tvg-name="inh-24x7" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gbrcig.png" group-title="News", INH 24X7
-https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8?hdnts=st%3D1776062081~exp%3D1776083681~acl%3D%21%2A%2Ffta%2Finh24x7%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_155_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_155_-1~hmac%3Deacd262e16bdf3a5307c38d15e604c3b1018b55d2419e85103e78c3b78067aaf
+https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="128" tvg-chno="24" tvg-name="total-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/total-tv.png" group-title="News", Total TV
-https://d1msejlow1t3l4.cloudfront.net/fta/totaltv/playlist.m3u8?hdnts=st%3D1776062081~exp%3D1776083681~acl%3D%21%2A%2Ffta%2Ftotaltv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_128_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_128_-1~hmac%3D0afe30b8ae92b681cb1bffd7966c3d53a9ed5172bbb67f372884e58371ab7645
+https://d1msejlow1t3l4.cloudfront.net/fta/totaltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="129" tvg-chno="25" tvg-name="news-1-india" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/eyfyem.png" group-title="News", News 1 India
-https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8?hdnts=st%3D1776062082~exp%3D1776083682~acl%3D%21%2A%2Ffta%2Fnews1india%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_129_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_129_-1~hmac%3D50f8b637abc5f4475d90abb90b5d3fe5c2fb8944b6c6ebbb504d6e62c2bab72a
+https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8
 
 #EXTINF:-1 tvg-id="158" tvg-chno="26" tvg-name="khabrain-abhi-tak" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/qfurxt.png" group-title="News", Khabrain Abhi Tak
-https://d1msejlow1t3l4.cloudfront.net/fta/khabreinabhitak/playlist.m3u8?hdnts=st%3D1776062083~exp%3D1776083683~acl%3D%21%2A%2Ffta%2Fkhabreinabhitak%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_158_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_158_-1~hmac%3D2c19e5b2c7a7ec3f9269d7e66e38162d61e59782472058002f7f703126c1b196
+https://d1msejlow1t3l4.cloudfront.net/fta/khabreinabhitak/playlist.m3u8
 
 #EXTINF:-1 tvg-id="159" tvg-chno="27" tvg-name="bharat-samachar" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/edjdac.png" group-title="News", Bharat Samachar
-https://d1msejlow1t3l4.cloudfront.net/fta/bharatsamachar/playlist.m3u8?hdnts=st%3D1776062084~exp%3D1776083684~acl%3D%21%2A%2Ffta%2Fbharatsamachar%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_159_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_159_-1~hmac%3De828e7bdf82b65dd9873eb04fa4f14cf9915ddbb9938b29285d4884337e0f743
+https://d1msejlow1t3l4.cloudfront.net/fta/bharatsamachar/playlist.m3u8
 
 #EXTINF:-1 tvg-id="151" tvg-chno="28" tvg-name="swaraj-express-smbc" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rwtjzv.png" group-title="News", Swaraj Express SMBC
-https://d1msejlow1t3l4.cloudfront.net/fta/swarajexpresssmbc/playlist.m3u8?hdnts=st%3D1776062084~exp%3D1776083684~acl%3D%21%2A%2Ffta%2Fswarajexpresssmbc%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_151_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_151_-1~hmac%3D3485bbf71280a5af207858d4782d8f431c0691d03aa2048137587769b00086fd
+https://d1msejlow1t3l4.cloudfront.net/fta/swarajexpresssmbc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="134" tvg-chno="29" tvg-name="india-voice" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/erinhf.png" group-title="News", India Voice
-https://d1msejlow1t3l4.cloudfront.net/fta/indiavoice/playlist.m3u8?hdnts=st%3D1776062085~exp%3D1776083685~acl%3D%21%2A%2Ffta%2Findiavoice%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_134_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_134_-1~hmac%3D21826f6a9f4151f0069018c8bb41920a11e2ec660ce8a3ce4e53e22433793b5a
+https://d1msejlow1t3l4.cloudfront.net/fta/indiavoice/playlist.m3u8
 
 #EXTINF:-1 tvg-id="127" tvg-chno="30" tvg-name="jantantra-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xdmemv.png" group-title="News", Jantantra TV
-https://d1msejlow1t3l4.cloudfront.net/fta/jantantratv/playlist.m3u8?hdnts=st%3D1776062085~exp%3D1776083685~acl%3D%21%2A%2Ffta%2Fjantantratv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_127_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_127_-1~hmac%3D2a254994b3e0485f5311826541621091d5eac7ceb472abc918bb89d6128220ed
+https://d1msejlow1t3l4.cloudfront.net/fta/jantantratv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="120" tvg-chno="31" tvg-name="jan-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yjsmtt.png" group-title="News", Jan TV
-https://d1msejlow1t3l4.cloudfront.net/fta/jantv/playlist.m3u8?hdnts=st%3D1776062085~exp%3D1776083685~acl%3D%21%2A%2Ffta%2Fjantv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_120_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_120_-1~hmac%3Df6256b4a2c2a117954ce93686d29058f8a85cd74dfe1310deef1222a3b378e93
+https://d1msejlow1t3l4.cloudfront.net/fta/jantv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="152" tvg-chno="32" tvg-name="apn-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/chfztu.png" group-title="News", APN News
-https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8?hdnts=st%3D1776062086~exp%3D1776083686~acl%3D%21%2A%2Ffta%2Fapnnews%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_152_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_152_-1~hmac%3Deb7c0dc1c8eb2db127ef163abcfd16122bd3dd13a20b2de1e828458dfe505f3b
+https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="135" tvg-chno="33" tvg-name="bansal-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bansal-news.png" group-title="News", Bansal News
-https://d1msejlow1t3l4.cloudfront.net/fta/bansalnews/playlist.m3u8?hdnts=st%3D1776062086~exp%3D1776083686~acl%3D%21%2A%2Ffta%2Fbansalnews%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_135_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_135_-1~hmac%3D5990c6bc205b64d9fcd9c33c124bef7b1eb75ee32cee5aab033b83e71886d12a
+https://d1msejlow1t3l4.cloudfront.net/fta/bansalnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="164" tvg-chno="34" tvg-name="kashish-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kashish-news.png" group-title="News", Kashish News
-https://d1msejlow1t3l4.cloudfront.net/fta/kashishnews/playlist.m3u8?hdnts=st%3D1776062087~exp%3D1776083687~acl%3D%21%2A%2Ffta%2Fkashishnews%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_164_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_164_-1~hmac%3D452103d17682e342a7cf3b2f52712558ee8255a1dd559d5d4ff2e49005d1dead
+https://d1msejlow1t3l4.cloudfront.net/fta/kashishnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="118" tvg-chno="36" tvg-name="a1-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/a1-tv.png" group-title="News", A1 TV
-https://yuppftalive.akamaized.net/080823/a1tv/playlist.m3u8?hdnts=st%3D1776062087~exp%3D1776083687~acl%3D%21%2A%2F080823%2Fa1tv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_118_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_118_-1~hmac%3D94d74fc0f036e09838850380718ab66dc08932c70f22b257a6b5ff893b60c6f5
+https://yuppftalive.akamaized.net/080823/a1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="157" tvg-chno="35" tvg-name="network-10" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/network-10.png" group-title="News", Network 10
-https://d1msejlow1t3l4.cloudfront.net/fta/network10/playlist.m3u8?hdnts=st%3D1776062087~exp%3D1776083687~acl%3D%21%2A%2Ffta%2Fnetwork10%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_157_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_157_-1~hmac%3Dccdcb2d4fde38ad9a73161340ccdb0ac74e77062f68d3b7feaae630201bba950
+https://d1msejlow1t3l4.cloudfront.net/fta/network10/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-chno="51" tvg-name="zee-business" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gmdzdx.png" group-title="News", Zee Business
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee_business/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/af1b3fa3-f56d-4741-9c63-78409a798988/main.m3u8?hdnts=st%3D1776062088~exp%3D1776083688~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zee_business%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Faf1b3fa3-f56d-4741-9c63-78409a798988%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_5_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_5_-1~hmac%3D770ec2b1f47a1bdbd00c9e5396a423cdf764c11fb9fd1776fb0055cc445e48f9
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee_business/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/af1b3fa3-f56d-4741-9c63-78409a798988/main.m3u8
 
 #EXTINF:-1 tvg-id="316" tvg-chno="" tvg-name="bharat-24" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bharat-24.png" group-title="News", Bharat 24
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b0039890-a9a4-43ac-8561-ca90871c14fc/index.m3u8?hdnts=st%3D1776062088~exp%3D1776083688~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fb0039890-a9a4-43ac-8561-ca90871c14fc%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_316_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_316_-1~hmac%3Dc38deee03ffd1d8b3080460965af8c93c00ba1f9b5f506ccf96c2cf9cdaeea95
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b0039890-a9a4-43ac-8561-ca90871c14fc/index.m3u8
 
 #EXTINF:-1 tvg-id="303" tvg-chno="101" tvg-name="india-daily-24x7" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/exuqky.png" group-title="News", India Daily 24X7
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/60d22520-d44d-48a5-b1f1-75d2742ad209/index.m3u8?hdnts=st%3D1776062088~exp%3D1776083688~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F60d22520-d44d-48a5-b1f1-75d2742ad209%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_303_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_303_-1~hmac%3D810124f2a6af83bf7022b704b4c0066cc93e3e48e61ed1f5a0d714fbc451d0d8
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/60d22520-d44d-48a5-b1f1-75d2742ad209/index.m3u8
 
 #EXTINF:-1 tvg-id="306" tvg-chno="" tvg-name="tv-100" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tv-100.png" group-title="News", TV 100
-https://d2gvyg6lvauoko.cloudfront.net/230226/tv100/playlist.m3u8?hdnts=st%3D1776062089~exp%3D1776083689~acl%3D%21%2A%2F230226%2Ftv100%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_306_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_306_-1~hmac%3D9ff92a72c7d797d2abc9a400aeebbf331538c1af841702accfcb8e0f1b6356bd
+https://d2gvyg6lvauoko.cloudfront.net/230226/tv100/playlist.m3u8
 
 #EXTINF:-1 tvg-id="307" tvg-chno="" tvg-name="live-times" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yausbw.png" group-title="News", LIVE Times
-https://d2gvyg6lvauoko.cloudfront.net/230226/livetimes/playlist.m3u8?hdnts=st%3D1776062089~exp%3D1776083689~acl%3D%21%2A%2F230226%2Flivetimes%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_307_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_307_-1~hmac%3D3d050e8f6d9e7d6a2c31b3cda9bfd3126b8a3d1157111ac5e8cb684b54f1d47c
+https://d2gvyg6lvauoko.cloudfront.net/230226/livetimes/playlist.m3u8
 
 #EXTINF:-1 tvg-id="308" tvg-chno="" tvg-name="khabar-fast" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wultnc.png" group-title="News", Khabar Fast
-https://d2gvyg6lvauoko.cloudfront.net/230226/khabarfast/playlist.m3u8?hdnts=st%3D1776062089~exp%3D1776083689~acl%3D%21%2A%2F230226%2Fkhabarfast%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_308_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_308_-1~hmac%3D9519edbc31c91179880f1e6bb90068fb9978b923ba51456e610307b9b497d9b4
+https://d2gvyg6lvauoko.cloudfront.net/230226/khabarfast/playlist.m3u8
 
 #EXTINF:-1 tvg-id="309" tvg-chno="" tvg-name="aryan-tv-national" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aryan-tv-national.png" group-title="News", Aryan TV National
-https://d2gvyg6lvauoko.cloudfront.net/230226/aryantvnational/playlist.m3u8?hdnts=st%3D1776062090~exp%3D1776083690~acl%3D%21%2A%2F230226%2Faryantvnational%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_309_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_309_-1~hmac%3Dcea148d274a66e0c303e7653f9ff2fc0bc2abc5f3f08b5012644db273453ce28
+https://d2gvyg6lvauoko.cloudfront.net/230226/aryantvnational/playlist.m3u8
 
 #EXTINF:-1 tvg-id="310" tvg-chno="" tvg-name="naxatra-news-hindi" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/naxatra-news-hindi.png" group-title="News", Naxatra News Hindi
-https://d2gvyg6lvauoko.cloudfront.net/230226/naxatranewshindi/playlist.m3u8?hdnts=st%3D1776062090~exp%3D1776083690~acl%3D%21%2A%2F230226%2Fnaxatranewshindi%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_310_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_310_-1~hmac%3D0ba6da4f824efd7b39a52032c2e4b188ec3dd3711d82cf5198ed69c5105e8491
+https://d2gvyg6lvauoko.cloudfront.net/230226/naxatranewshindi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="227" tvg-chno="727" tvg-name="abp-majha" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jhfmvj.png" group-title="News", ABP Majha
-https://abplive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/32dc7692-5fff-4161-83d0-b36132df372e/master.m3u8?hdnts=st%3D1776062091~exp%3D1776083691~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F32dc7692-5fff-4161-83d0-b36132df372e%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_227_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_227_-1~hmac%3D64b3c08e47f4286b46661f7c01719d15e0f50e5a09a6177a164f766d82e2d471
+https://abplive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/32dc7692-5fff-4161-83d0-b36132df372e/master.m3u8
 
 #EXTINF:-1 tvg-id="11" tvg-chno="728" tvg-name="tv9-maharashtra" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/syutfx.png" group-title="News", TV9 Marathi
-https://vg-tv9live.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b0207305-0529-4d2b-bef0-e6f1c7395e53/main.m3u8?hdnts=st%3D1776062091~exp%3D1776083691~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fb0207305-0529-4d2b-bef0-e6f1c7395e53%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_11_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_11_-1~hmac%3D2cc086e4e7bc172fd4ba900519ec406d9abd57cccca9c6ccc6e628fe69e74cb1
+https://vg-tv9live.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b0207305-0529-4d2b-bef0-e6f1c7395e53/main.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-chno="729" tvg-name="24-taas" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ldybum.png" group-title="News", 24 Taas
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee24_taas/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4de43174-6b8f-4a36-9209-fe80b21b8733/main.m3u8?hdnts=st%3D1776062091~exp%3D1776083691~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zee24_taas%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F4de43174-6b8f-4a36-9209-fe80b21b8733%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_6_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_6_-1~hmac%3D70e6a788cfa2290b1a69e4fc26c894b000aa3d6b5930faa88f267335e325b434
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee24_taas/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4de43174-6b8f-4a36-9209-fe80b21b8733/main.m3u8
 
 #EXTINF:-1 tvg-id="162" tvg-chno="730" tvg-name="jai-maharashtra" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jai-maharashtra.png" group-title="News", Jai Maharashtra
-https://d1msejlow1t3l4.cloudfront.net/fta/jaimaharashtra/playlist.m3u8?hdnts=st%3D1776062092~exp%3D1776083692~acl%3D%21%2A%2Ffta%2Fjaimaharashtra%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_162_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_162_-1~hmac%3Dcba894db8ce16d16c47d629bff8f39bb2894d42feb812da86633e64829a73081
+https://d1msejlow1t3l4.cloudfront.net/fta/jaimaharashtra/playlist.m3u8
 
 #EXTINF:-1 tvg-id="24" tvg-chno="678" tvg-name="republic-bangla" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/awqywf.png" group-title="News", Republic Bangla
-https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/404d70e2-86c0-4da1-a430-33baffbfe706/main.m3u8?hdnts=st%3D1776062092~exp%3D1776083692~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F404d70e2-86c0-4da1-a430-33baffbfe706%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_24_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_24_-1~hmac%3De55ce3c77b4c8de739dda14c37c21af55779a6571bc9cab9cf8fd1bd068cbdb4
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/404d70e2-86c0-4da1-a430-33baffbfe706/main.m3u8
 
 #EXTINF:-1 tvg-id="324" tvg-chno="" tvg-name="kolkata-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kolkata-tv.png" group-title="News", Kolkata TV
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d4017753-7155-4cee-8755-10f1b3eb6d77/index.m3u8?hdnts=st%3D1776062093~exp%3D1776083693~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fd4017753-7155-4cee-8755-10f1b3eb6d77%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_324_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_324_-1~hmac%3Df7544948c2f1c86272ab25b473aa04fe122d4c07a7a14c80f4c92ea63fdf9774
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d4017753-7155-4cee-8755-10f1b3eb6d77/index.m3u8
 
 #EXTINF:-1 tvg-id="226" tvg-chno="676" tvg-name="abp-ananda" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wlyrmq.png" group-title="News", ABP Ananda
-https://abplive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ed99a686-d5e1-42d8-ba3c-719c604586c8/master.m3u8?hdnts=st%3D1776062093~exp%3D1776083693~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fed99a686-d5e1-42d8-ba3c-719c604586c8%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_226_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_226_-1~hmac%3D154570bb600912d88d2acdfb9c23b4e75026cbf82a6bf5ef174858baa615f0e1
+https://abplive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ed99a686-d5e1-42d8-ba3c-719c604586c8/master.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-chno="679" tvg-name="24-ghanta" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/uperuc.png" group-title="News", 24 Ghanta
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee24ghanta/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f386957b-dfda-4779-8dd8-f525e37d92ab/main.m3u8?hdnts=st%3D1776062093~exp%3D1776083693~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zee24ghanta%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Ff386957b-dfda-4779-8dd8-f525e37d92ab%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_7_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_7_-1~hmac%3D09b73fbc833a0cc63347fce765c5099e78992c90cd181032cf3493b5dfa51324
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee24ghanta/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f386957b-dfda-4779-8dd8-f525e37d92ab/main.m3u8
 
 #EXTINF:-1 tvg-id="35" tvg-chno="680" tvg-name="tv9-bangla" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mnuwms.png" group-title="News", TV9 Bangla
-https://vg-tv9live.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c7ddad43-3d1c-46ce-bcd5-bd6b5cd4be09/main.m3u8?hdnts=st%3D1776062094~exp%3D1776083694~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fc7ddad43-3d1c-46ce-bcd5-bd6b5cd4be09%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_35_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_35_-1~hmac%3D10bb09705457fe8652cdbbaa1c84a6b2851eac18f3c87eba9b8a6af1446227c1
+https://vg-tv9live.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c7ddad43-3d1c-46ce-bcd5-bd6b5cd4be09/main.m3u8
 
 #EXTINF:-1 tvg-id="115" tvg-chno="682" tvg-name="news-time" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/news-time.png" group-title="News", News Time
-https://yuppparoriglin.akamaized.net/181224/smil:newstime.smil/playlist.m3u8?hdnts=st%3D1776062094~exp%3D1776083694~acl%3D%21%2A%2F181224%2Fsmil%3Anewstime.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_115_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_115_-1~hmac%3Ddcbe19ebc409b2353ea7f731b1f85c1b083e3a1c79cd95e230e0f78b783357de
+https://yuppparoriglin.akamaized.net/181224/smil:newstime.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="116" tvg-chno="683" tvg-name="calcutta-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/calcutta-news.png" group-title="News", Calcutta News
-https://d1msejlow1t3l4.cloudfront.net/fta/calcuttanews/playlist.m3u8?hdnts=st%3D1776062095~exp%3D1776083695~acl%3D%21%2A%2Ffta%2Fcalcuttanews%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_116_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_116_-1~hmac%3D2116c4b9b435a7d5e0214fb36e58fd4e8aa484218c071d51a0af2c4c1662a6b4
+https://d1msejlow1t3l4.cloudfront.net/fta/calcuttanews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-chno="401" tvg-name="tv9-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cmwyio.png" group-title="News", TV9 News
-https://vg-tv9live.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/26a5f7d4-3af8-4c5d-a1fa-5f53049f913f/main.m3u8?hdnts=st%3D1776062095~exp%3D1776083695~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F26a5f7d4-3af8-4c5d-a1fa-5f53049f913f%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_9_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_9_-1~hmac%3D9c6d4b4fd9877ae647eeda791fd083e7795de37be5a34f5be45f2a4ed86606af
+https://vg-tv9live.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/26a5f7d4-3af8-4c5d-a1fa-5f53049f913f/main.m3u8
 
 #EXTINF:-1 tvg-id="100" tvg-chno="402" tvg-name="ntv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ntv.png" group-title="News", NTV
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8?hdnts=st%3D1776062095~exp%3D1776083695~acl%3D%21%2A%2Fv1%2Fmaster%2Fa0d007312bfd99c47f76b77ae26b1ccdaae76cb1%2Fntv_nim_https%2F110322%2Fntv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_100_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_100_-1~hmac%3D7b8e184ee1e9d89554a23fc3d5c5885b00f7096e36f488f57e72e4a3d61ccff4
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="121" tvg-chno="403" tvg-name="v6-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wcxeyr.png" group-title="News", V6 News
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8?hdnts=st%3D1776062096~exp%3D1776083696~acl%3D%21%2A%2Fv1%2Fmaster%2Fa0d007312bfd99c47f76b77ae26b1ccdaae76cb1%2Fv6news_nim_https%2F140622%2Fv6news%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_121_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_121_-1~hmac%3Dc8618f08bf6f1927b2430bc75e9f64ed2034095ed7692321cbb31c68278994a9
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8
 
 #EXTINF:-1 tvg-id="105" tvg-chno="404" tvg-name="tv5" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cwlloq.png" group-title="News", TV5
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8?hdnts=st%3D1776062096~exp%3D1776083696~acl%3D%21%2A%2Fv1%2Fmaster%2Fa0d007312bfd99c47f76b77ae26b1ccdaae76cb1%2Ftv5_nim_https%2F110322%2Ftv5%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_105_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_105_-1~hmac%3De6f49efe2603f689ab2ff816a03ce042b6392e8b71d31db3c492958646487832
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="104" tvg-chno="405" tvg-name="sakshi-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ykuyew.png" group-title="News", Sakshi TV
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8?hdnts=st%3D1776062096~exp%3D1776083696~acl%3D%21%2A%2Fv1%2Fmaster%2Fa0d007312bfd99c47f76b77ae26b1ccdaae76cb1%2Fsakshi_nim_https%2F240122%2Fsakshi%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_104_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_104_-1~hmac%3Dd22edac53eba7dea098a96067e175335ea603f6c68a421d92a91c62f24cd3d57
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="108" tvg-chno="406" tvg-name="t-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/t-news.png" group-title="News", T News
-https://d1taaads3ztvmu.cloudfront.net/120723/smil:tnews.smil/playlist.m3u8?hdnts=st%3D1776062097~exp%3D1776083697~acl%3D%21%2A%2F120723%2Fsmil%3Atnews.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_108_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_108_-1~hmac%3D4dd87fc958a01e66c7ee6ec814976a402b1d02eb0fe695769c0fda0ed510349a
+https://d1taaads3ztvmu.cloudfront.net/120723/smil:tnews.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="147" tvg-chno="407" tvg-name="10tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/10tv.png" group-title="News", 10TV
-https://yuppirecloriginvt.akamaized.net/181224/smil:10tv.smil/playlist.m3u8?hdnts=st%3D1776062097~exp%3D1776083697~acl%3D%21%2A%2F181224%2Fsmil%3A10tv.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_147_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_147_-1~hmac%3D4ab61f48c066efb84a42c499bc79b03dd1019d1b9dbca2bc9e55d21d2ad96da4
+https://yuppirecloriginvt.akamaized.net/181224/smil:10tv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="106" tvg-chno="408" tvg-name="mahaa-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mahaa-tv.png" group-title="News", Mahaa TV
-https://yuppparoriglin.akamaized.net/181224/smil:mahatv.smil/playlist.m3u8?hdnts=st%3D1776062097~exp%3D1776083697~acl%3D%21%2A%2F181224%2Fsmil%3Amahatv.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_106_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_106_-1~hmac%3Dd6ed518c963ea26e81c302d9f8f360632940fbc8066834e69d9aad1efcc6905e
+https://yuppparoriglin.akamaized.net/181224/smil:mahatv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="141" tvg-chno="409" tvg-name="inews" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/inews.png" group-title="News", iNews
-https://livegeoroueu.akamaized.net/28072023/smil:inews.smil/playlist.m3u8?hdnts=st%3D1776062098~exp%3D1776083698~acl%3D%21%2A%2F28072023%2Fsmil%3Ainews.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_141_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_141_-1~hmac%3D69acdf3dd7569cfa621dfebf7b8141e225780c30c48be8fe57415b6a02d47203
+https://livegeoroueu.akamaized.net/28072023/smil:inews.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="33" tvg-chno="410" tvg-name="zee-news-telugu" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aquwob.png" group-title="News", Zee News Telugu
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeetelugunews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/17fe98f0-d496-4c26-beeb-96b466d01162/main.m3u8?hdnts=st%3D1776062098~exp%3D1776083698~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeetelugunews%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F17fe98f0-d496-4c26-beeb-96b466d01162%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_33_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_33_-1~hmac%3D799af82c1797207a350e4d233bedf5a3b42366c945d8cb91317d3367e03d7463
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeetelugunews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/17fe98f0-d496-4c26-beeb-96b466d01162/main.m3u8
 
 #EXTINF:-1 tvg-id="133" tvg-chno="411" tvg-name="big-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/big-tv.png" group-title="News", BIG TV
-https://d1taaads3ztvmu.cloudfront.net/120723/smil:bigtv.smil/playlist.m3u8?hdnts=st%3D1776062098~exp%3D1776083698~acl%3D%21%2A%2F120723%2Fsmil%3Abigtv.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_133_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_133_-1~hmac%3D3bad2371e72551168577d05df1c60005db75ca1da0e9b4bb33a2ce309585c27a
+https://d1taaads3ztvmu.cloudfront.net/120723/smil:bigtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="102" tvg-chno="412" tvg-name="hmtv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hmtv.png" group-title="News", HMTV
-https://livegeoroueu.akamaized.net/28072023/smil:hmtv.smil/playlist.m3u8?hdnts=st%3D1776062099~exp%3D1776083699~acl%3D%21%2A%2F28072023%2Fsmil%3Ahmtv.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_102_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_102_-1~hmac%3De3900e272f7fe11b788d0b914ea8d9270cae99e2e247d72823fd8364216e1785
+https://livegeoroueu.akamaized.net/28072023/smil:hmtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="139" tvg-chno="413" tvg-name="cvr-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vncsik.png" group-title="News", CVR News
-https://yuppparoriglin.akamaized.net/181224/smil:cvrtelugu.smil/playlist.m3u8?hdnts=st%3D1776062099~exp%3D1776083699~acl%3D%21%2A%2F181224%2Fsmil%3Acvrtelugu.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_139_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_139_-1~hmac%3D88fc47c25d8ab2e77224b9571df35d2186f05b9579a92cb4f52008bb9274f445
+https://yuppparoriglin.akamaized.net/181224/smil:cvrtelugu.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="148" tvg-chno="415" tvg-name="6tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/loonbb.png" group-title="News", 6TV
-https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st%3D1776062100~exp%3D1776083700~acl%3D%21%2A%2F181224%2Fsmil%3A6tv.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_148_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_148_-1~hmac%3Dbf5923171f0ac8c6b5ead7371e06626ee41cd5633d2e0e317c4a88ad4f1ca2d2
+https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="319" tvg-chno="" tvg-name="brk-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/brk-news.png" group-title="News", BRK News
-https://d2gvyg6lvauoko.cloudfront.net/230226/brknews/playlist.m3u8?hdnts=st%3D1776062100~exp%3D1776083700~acl%3D%21%2A%2F230226%2Fbrknews%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_319_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_319_-1~hmac%3D3cc3a86ebe16d4dd5a937b9e2b76c3eda4c8f41c4436ce362b865b04df0e5098
+https://d2gvyg6lvauoko.cloudfront.net/230226/brknews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="321" tvg-chno="" tvg-name="studio-one-plus" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/studio-one-plus.png" group-title="News", Studio One Plus
-https://d2gvyg6lvauoko.cloudfront.net/230226/studiooneplus/playlist.m3u8?hdnts=st%3D1776062100~exp%3D1776083700~acl%3D%21%2A%2F230226%2Fstudiooneplus%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_321_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_321_-1~hmac%3D9a7f4fdcb1e8e5bcde522483f1c8f90ea83d875397916326e90e028371cd3748
+https://d2gvyg6lvauoko.cloudfront.net/230226/studiooneplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="230" tvg-chno="650" tvg-name="republic-kannada" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ssufdl.png" group-title="News", Republic Kannada
-https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fe62a891-0115-43a4-854d-86fd52cc0d0f/main.m3u8?hdnts=st%3D1776062101~exp%3D1776083701~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Ffe62a891-0115-43a4-854d-86fd52cc0d0f%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_230_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_230_-1~hmac%3De6ec395c228c33c6bfcb0157b34709194d297cf7d0e90d667bd200de97219652
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fe62a891-0115-43a4-854d-86fd52cc0d0f/main.m3u8
 
 #EXTINF:-1 tvg-id="10" tvg-chno="653" tvg-name="tv9-kannada" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ivzkvy.png" group-title="News", TV9 Kannada
-https://vg-tv9live.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/744e7b25-47a5-4711-888b-e7e274c40fc4/main.m3u8?hdnts=st%3D1776062101~exp%3D1776083701~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F744e7b25-47a5-4711-888b-e7e274c40fc4%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_10_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_10_-1~hmac%3D78951ed779a671fca103bb0f534f79db177506d697964cdf8c24456659316aa5
+https://vg-tv9live.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/744e7b25-47a5-4711-888b-e7e274c40fc4/main.m3u8
 
 #EXTINF:-1 tvg-id="211" tvg-chno="655" tvg-name="tv5-kannada" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tv5-kannada.png" group-title="News", TV5 Kannada
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5kannada_nim_https/050522/tv5kannada/playlist.m3u8?hdnts=st%3D1776062101~exp%3D1776083701~acl%3D%21%2A%2Fv1%2Fmaster%2Fa0d007312bfd99c47f76b77ae26b1ccdaae76cb1%2Ftv5kannada_nim_https%2F050522%2Ftv5kannada%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_211_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_211_-1~hmac%3D47b404db488b6952efc96b33461efc3e302a38244b869b49853fdb1b8ca3c78a
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5kannada_nim_https/050522/tv5kannada/playlist.m3u8
 
 #EXTINF:-1 tvg-id="181" tvg-chno="666" tvg-name="news-1st" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/news-1st.png" group-title="News", News 1st
-https://d1msejlow1t3l4.cloudfront.net/fta/News1st/playlist.m3u8?hdnts=st%3D1776062102~exp%3D1776083702~acl%3D%21%2A%2Ffta%2FNews1st%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_181_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_181_-1~hmac%3D781301d886fc78cdcfc05c47fd067cd5029f276edb4c2927b0fc335cb4fd5c61
+https://d1msejlow1t3l4.cloudfront.net/fta/News1st/playlist.m3u8
 
 #EXTINF:-1 tvg-id="313" tvg-chno="" tvg-name="gujarat-first" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gujarat-first.png" group-title="News", Gujarat First
-https://d2gvyg6lvauoko.cloudfront.net/230226/gujaratfirst/playlist.m3u8?hdnts=st%3D1776062102~exp%3D1776083702~acl%3D%21%2A%2F230226%2Fgujaratfirst%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_313_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_313_-1~hmac%3D0170ccc6c954bea62411bcdbec487dd6298d049f6442ad165f9ddc8772b8dd3f
+https://d2gvyg6lvauoko.cloudfront.net/230226/gujaratfirst/playlist.m3u8
 
 #EXTINF:-1 tvg-id="12" tvg-chno="751" tvg-name="tv9-gujarati" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vcevdy.png" group-title="News", TV9 Gujarati
-https://vg-tv9live.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f22f413f-37f0-450f-8a25-4387adbac8c4/main.m3u8?hdnts=st%3D1776062102~exp%3D1776083702~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Ff22f413f-37f0-450f-8a25-4387adbac8c4%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_12_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_12_-1~hmac%3D71b1a7a691b72e46f8b4e5b4124c7ade6babc3ac7021256dcc54647bd75f146f
+https://vg-tv9live.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f22f413f-37f0-450f-8a25-4387adbac8c4/main.m3u8
 
 #EXTINF:-1 tvg-id="228" tvg-chno="752" tvg-name="abp-asmita" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ymbgfv.png" group-title="News", ABP Asmita
-https://abplive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3d234782-dcef-4d0a-807f-579fbaf7dfb6/master.m3u8?hdnts=st%3D1776062103~exp%3D1776083703~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F3d234782-dcef-4d0a-807f-579fbaf7dfb6%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_228_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_228_-1~hmac%3Dd20ff143ecbe80318927ba2d6b53024d72042170737439525c655dfd071c10cb
+https://abplive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3d234782-dcef-4d0a-807f-579fbaf7dfb6/master.m3u8
 
 #EXTINF:-1 tvg-id="32" tvg-chno="753" tvg-name="zee-24-kalak" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vbezgf.png" group-title="News", Zee 24 Kalak
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee24kalak/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/497f7199-758d-495d-9d2f-a5489231c428/main.m3u8?hdnts=st%3D1776062103~exp%3D1776083703~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zee24kalak%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F497f7199-758d-495d-9d2f-a5489231c428%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_32_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_32_-1~hmac%3Db7115a2a1995b95b398a47a9bbde01d68d1d13a1ad97177aab6e06896642d0bc
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee24kalak/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/497f7199-758d-495d-9d2f-a5489231c428/main.m3u8
 
 #EXTINF:-1 tvg-id="103" tvg-chno="754" tvg-name="mantavya-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fnyvfg.png" group-title="News", Mantavya News
-https://d1msejlow1t3l4.cloudfront.net/fta/mantavya/playlist.m3u8?hdnts=st%3D1776062104~exp%3D1776083704~acl%3D%21%2A%2Ffta%2Fmantavya%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_103_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_103_-1~hmac%3D10e99134073b27b246e892caf6b7480dc072f7708e8bf97ca4e506af12e8303b
+https://d1msejlow1t3l4.cloudfront.net/fta/mantavya/playlist.m3u8
 
 #EXTINF:-1 tvg-id="165" tvg-chno="755" tvg-name="vtv-gujarati" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vtv-gujarati.png" group-title="News", VTV Gujarati
-https://d1msejlow1t3l4.cloudfront.net/fta/vtvgujarati/playlist.m3u8?hdnts=st%3D1776062104~exp%3D1776083704~acl%3D%21%2A%2Ffta%2Fvtvgujarati%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_165_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_165_-1~hmac%3Df018067ac98433a3d84431219778456ef398f4e86530c10ec39ec04d9248a44b
+https://d1msejlow1t3l4.cloudfront.net/fta/vtvgujarati/playlist.m3u8
 
 #EXTINF:-1 tvg-id="333" tvg-chno="" tvg-name="gtc-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gtc-news.png" group-title="News", GTC News
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/921cca59-daee-4f89-8c38-7ffe8de44f4c/index.m3u8?hdnts=st%3D1776062104~exp%3D1776083704~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F921cca59-daee-4f89-8c38-7ffe8de44f4c%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_333_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_333_-1~hmac%3D7768d382f03ce88f8c265b820d723323f4fb0ec32828fbcca8faf25eeedad158
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/921cca59-daee-4f89-8c38-7ffe8de44f4c/index.m3u8
 
 #EXTINF:-1 tvg-id="15" tvg-chno="705" tvg-name="zee-punjab-haryana-himachal" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rkpgdq.png" group-title="News", Zee Punjab Haryana Himachal
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8?hdnts=st%3D1776062105~exp%3D1776083705~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeepunjabharyanahima%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F65eed269-2f3a-4dd0-ac89-d18959af28e3%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_15_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_15_-1~hmac%3D17ab4766f1f47dda4e0e4f56806e6542f68fe08deb5d8167f607f837948b3ed9
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8
 
 #EXTINF:-1 tvg-id="27" tvg-chno="801" tvg-name="zee-salaam" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/uudnpd.png" group-title="News", Zee Salaam
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/main.m3u8?hdnts=st%3D1776062105~exp%3D1776083705~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeesalaam%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F426c6db7-595e-4aa8-859c-7e86ed2811d0%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_27_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_27_-1~hmac%3D049620bd37e77555585c8036b64034e83218b9fa17a92c47c70479b0ac95b142
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/main.m3u8
 
 #EXTINF:-1 tvg-id="312" tvg-chno="" tvg-name="nktv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nktv.png" group-title="News", NKTV
-https://d2gvyg6lvauoko.cloudfront.net/230226/nktv/playlist.m3u8?hdnts=st%3D1776062105~exp%3D1776083705~acl%3D%21%2A%2F230226%2Fnktv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_312_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_312_-1~hmac%3D0e2b3c1dc1312be15047ecc8c26ac4739d11c0042c6b9a7646fb6e6039b17662
+https://d2gvyg6lvauoko.cloudfront.net/230226/nktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="109" tvg-chno="842" tvg-name="protidin-time" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/protidin-time.png" group-title="News", Protidin Time
-https://d1msejlow1t3l4.cloudfront.net/fta/protidintime/playlist.m3u8?hdnts=st%3D1776062106~exp%3D1776083706~acl%3D%21%2A%2Ffta%2Fprotidintime%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_109_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_109_-1~hmac%3Dde39258db1bac097dca5cd582a7a9e0037aada9fe79e84d07d41417272e0d9aa
+https://d1msejlow1t3l4.cloudfront.net/fta/protidintime/playlist.m3u8
 
 #EXTINF:-1 tvg-id="317" tvg-chno="" tvg-name="news-tamil" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/news-tamil.jpeg" group-title="News", News Tamil
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/bc657abd-5bf5-4526-9038-d42bbb9ca249/index.m3u8?hdnts=st%3D1776062106~exp%3D1776083706~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fbc657abd-5bf5-4526-9038-d42bbb9ca249%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_317_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_317_-1~hmac%3D044e67aafff3126e01b75fda00a1f31de97220d1c0398ecc4f4ae8e1b98e8cab
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/bc657abd-5bf5-4526-9038-d42bbb9ca249/index.m3u8
 
 #EXTINF:-1 tvg-id="184" tvg-chno="501" tvg-name="polimer-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/polimer-news.png" group-title="News", Polimer News
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/polimernews_nim_https/110322/polimernews/playlist.m3u8?hdnts=st%3D1776062106~exp%3D1776083706~acl%3D%21%2A%2Fv1%2Fmaster%2Fa0d007312bfd99c47f76b77ae26b1ccdaae76cb1%2Fpolimernews_nim_https%2F110322%2Fpolimernews%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_184_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_184_-1~hmac%3Dd10d1252ee5877469491fcbb1a6a996d7829cd3e959a999a590f6bdbcd65f6dd
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/polimernews_nim_https/110322/polimernews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="175" tvg-chno="502" tvg-name="puthiya-thalaimurai" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/puthiya-thalaimurai.png" group-title="News", Puthiya Thalaimurai
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/puthiya_nim_https/240122/puthiya/playlist.m3u8?hdnts=st%3D1776062107~exp%3D1776083707~acl%3D%21%2A%2Fv1%2Fmaster%2Fa0d007312bfd99c47f76b77ae26b1ccdaae76cb1%2Fputhiya_nim_https%2F240122%2Fputhiya%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_175_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_175_-1~hmac%3D5f6ddb5e6e2aa8ec79eecb31c23ff15053e228961c404c771e8a0308303efa00
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/puthiya_nim_https/240122/puthiya/playlist.m3u8
 
 #EXTINF:-1 tvg-id="119" tvg-chno="504" tvg-name="seithigal-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/seithigal-tv.png" group-title="News", Seithigal TV
-https://d1taaads3ztvmu.cloudfront.net/120723/smil:seithagal.smil/playlist.m3u8?hdnts=st%3D1776062107~exp%3D1776083707~acl%3D%21%2A%2F120723%2Fsmil%3Aseithagal.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_119_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_119_-1~hmac%3D83922db7f230f606700fd62f0cfb7e997e327e666c6c0e6f096409dc12122e1e
+https://d1taaads3ztvmu.cloudfront.net/120723/smil:seithagal.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="339" tvg-chno="" tvg-name="big-tv-malayalam" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/big-tv-malayalam.png" group-title="News", BIG TV Malayalam
-https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/playlist.m3u8?hdnts=st%3D1776062107~exp%3D1776083707~acl%3D%21%2A%2F230226%2Fbigtvmalyalam%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_339_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.119.38.38_yuppfast_2_channel_339_-1~hmac%3Dd0020eeeb38fe8ed97b2a93c024a0d135472d24d899c8f6381e477d9a89efca0
+https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/playlist.m3u8
 
 #EXTINF:-1 tvg-id="282" tvg-chno="601" tvg-name="asianet-news-india" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vmbjeu.png" group-title="News", Asianet News India
 https://asianet-yupptv.vgcdn.net/ptnr-yupptv/title-Asianet_News/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/26f4b1f3-41c6-4a57-b7f2-759f8b319ac8/main.m3u8
