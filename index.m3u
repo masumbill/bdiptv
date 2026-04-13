@@ -161,6 +161,49 @@ http://cdn.moviemazic.xyz:8083/Feedget/Discovery/index.m3u8
 http://cdn.moviemazic.xyz:8083/Feedget/National-Geography/index.m3u8
 #============Mix=====================
 
+#EXTINF:120,TNT Sports 1
+#EXTVLCOPT:network-caching=1000
+https://v.antsports.tv/live/3/index.m3u8
+#EXTINF:0,TNT Sports 2
+#EXTVLCOPT:network-caching=1000
+https://v.antsports.tv/live/4/index.m3u8
+#EXTINF:0,TNT Sports 3
+#EXTVLCOPT:network-caching=1000
+https://v.antsports.tv/live/5/index.m3u8
+#EXTINF:0,TNT Sports 4
+#EXTVLCOPT:network-caching=1000
+https://v.antsports.tv/live/6/index.m3u8
+#EXTINF:0,Sky Sports Football
+#EXTVLCOPT:network-caching=1000
+https://v.antsports.tv/live/22/index.m3u8
+#EXTINF:0,Sky Sports Main Event
+#EXTVLCOPT:network-caching=1000
+https://v.antsports.tv/live/20/index.m3u8
+#EXTINF:0,Sky Sports Premier League
+#EXTVLCOPT:network-caching=1000
+https://v.antsports.tv/live/24/index.m3u8
+#EXTINF:0,Sky Sports Action
+#EXTVLCOPT:network-caching=1000
+https://v.antsports.tv/live/16/index.m3u8
+#EXTINF:0,Sky Sports Mix
+#EXTVLCOPT:network-caching=1000
+https://v.antsports.tv/live/25/index.m3u8
+#EXTINF:0,Sky Sports Arena
+#EXTVLCOPT:network-caching=1000
+https://v.antsports.tv/live/17/index.m3u8
+#EXTINF:0,Sky Sports News
+#EXTVLCOPT:network-caching=1000
+https://v.antsports.tv/live/26/index.m3u8
+#EXTINF:0,Sky Sports Cricket
+#EXTVLCOPT:network-caching=1000
+https://v.antsports.tv/live/18/index.m3u8
+#EXTINF:0,Sky Sports Tennis
+#EXTVLCOPT:network-caching=1000
+https://v.antsports.tv/live/28/index.m3u8
+
+
+#============================Sports===================================
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Kolkata Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Bangla Movies
