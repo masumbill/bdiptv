@@ -134,67 +134,7 @@ https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 
-#==================BDIX Live Link====================
-#EXTINF:-1 tvg-logo=""group-title="BDIXTV", Gazi TV
-http://cdn.moviemazic.xyz:8083/GaziTV/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIXTV", NagorikTV
-http://cdn.moviemazic.xyz:8083/NagorikTV/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIXTV", Channel 24
-http://cdn.moviemazic.xyz:8083/channel24/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIXTV", DBC News
-http://cdn.moviemazic.xyz:8083/Feedget/dbc_24/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIXTV", Independent TV
-http://cdn.moviemazic.xyz:8083/Feedget/indopendet_nk_33/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIXTV", News 24
-http://cdn.moviemazic.xyz:8083/Feedget/NEWS24LIVE_23/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIXTV", Somoy TV
-http://cdn.moviemazic.xyz:8083/Feedget/somyyt_22/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIXTV", Channel I
-http://cdn.moviemazic.xyz:8083/Feedget/chnnel-i_29/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIXTV", ATN Bangla
-http://cdn.moviemazic.xyz:8083/ATNBangla/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIXTV", ATN News
-http://cdn.moviemazic.xyz:8083/ATNNews/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIXTV", Bangla TV
-http://cdn.moviemazic.xyz:8083/j-BanglaTV/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIXTV", Bangla Vision
-http://cdn.moviemazic.xyz:8083/BanglaVision/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="" group-title="BDIXTV", Toffee TV
-http://cdn.moviemazic.xyz:8083/TSportsHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIXTV", AllSports
-http://cdn.moviemazic.xyz:8083/Feedget/allsports_3/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIXTV", Willow Sports
-http://cdn.moviemazic.xyz:8083/Feedget/willow_usa/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIXTV", Star Movies
-http://cdn.moviemazic.xyz:8083/Feedget/Star-Movies/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIXTV", Star Jalsha HD
-http://cdn.moviemazic.xyz:8083/StarJalshaHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIXTV", Star GOLD Romance
-http://cdn.moviemazic.xyz:8083/Star-Gold/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIXTV", Colors Bangla
-http://cdn.moviemazic.xyz:8083/ColorsBanglaHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIXTV", ZEE Bangla
-http://cdn.moviemazic.xyz:8083/Feedget/ZeeBangla_8/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIXTV", Sony TV
-http://cdn.moviemazic.xyz:8083/Feedget/SonyEntertainmentTelevisionHD_9/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIXTV", Sony Aath
-http://cdn.moviemazic.xyz:8083/Feedget/SonyAath_7/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIXTV", Sony MaX
-http://cdn.moviemazic.xyz:8083/Feedget/SonyMAX_37/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIXTV", Sony PIX
-http://cdn.moviemazic.xyz:8083/Feedget/SonyPIXHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIXTV", &Picture
-http://cdn.moviemazic.xyz:8083/andpictureHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIXTV", Zee Cinema
-http://cdn.moviemazic.xyz:8083/Feedget/ZeeCinemaHD_38/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIXTV", Animal Planet
-http://cdn.moviemazic.xyz:8083/Feedget/AnimalPlanetHD_12/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIXTV", Discovery
-http://cdn.moviemazic.xyz:8083/Feedget/Discovery/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BDIXTV", Natioanl Geographic
-http://cdn.moviemazic.xyz:8083/Feedget/National-Geography/index.m3u8
 
 #============Sports=====================
 
@@ -206,37 +146,6 @@ http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/PTV-kutta/video.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Lastest Sports",Nagorik TV
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Lastest Sports", TNT Sports 1
-https://v.antsports.tv/live/3/index.m3u8
-#EXTINF:-1 group-title="Lastest Sports", TNT Sports 2
-https://v.antsports.tv/live/4/index.m3u8
-#EXTINF:-1 group-title="Lastest Sports", TNT Sports 3
-https://v.antsports.tv/live/5/index.m3u8
-#EXTINF:-1 group-title="Lastest Sports", TNT Sports 4
-https://v.antsports.tv/live/6/index.m3u8
-#EXTINF:-1 group-title="Lastest Sports", Sky Sports Football
-https://v.antsports.tv/live/22/index.m3u8
-#EXTINF:-1 group-title="Lastest Sports", Sky Sports Main Event
-https://v.antsports.tv/live/20/index.m3u8
-#EXTINF:-1 group-title="Lastest Sports", Sky Sports Premier League
-https://v.antsports.tv/live/24/index.m3u8
-#EXTINF:-1 group-title="Lastest Sports", Sky Sports Action
-https://v.antsports.tv/live/16/index.m3u8
-#EXTINF:-1 group-title="Lastest Sports", Sky Sports Mix
-https://v.antsports.tv/live/25/index.m3u8
-#EXTINF:-1 group-title="Lastest Sports", Sky Sports Arena
-https://v.antsports.tv/live/17/index.m3u8
-#EXTINF:-1 group-title="Lastest Sports", Sky Sports News
-https://v.antsports.tv/live/26/index.m3u8
-#EXTINF:-1 group-title="Lastest Sports", Sky Sports Cricket
-https://v.antsports.tv/live/18/index.m3u8
-#EXTINF:-1 group-title="Lastest Sports", Sky Sports Tennis
-https://v.antsports.tv/live/28/index.m3u8
-
-
-
-
 
 #============================others===================================
 #EXTINF:-1 tvg-id="27" tvg-name="Originals" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770313122372.png" tvg-chno="27" group-title="Movies",Originals
