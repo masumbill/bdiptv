@@ -2244,9 +2244,9 @@ https://cdn-6.pishow.tv/live/13/master.m3u8
 https://cdn-6.pishow.tv/live/14/master.m3u8
 #EXTINF:-1 group-title="PiShow", 15. DD Chattisgarh
 https://cdn-1.pishow.tv/live/15/master.m3u8
-#EXTINF:-1 group-title="PiShow", 16
+#EXTINF:-1 group-title="PiShow", 16. DD LEH Kashmir
 https://cdn-6.pishow.tv/live/16/master.m3u8
-#EXTINF:-1 group-title="PiShow", 17, DD Uttarakhand
+#EXTINF:-1 group-title="PiShow", 17. DD Uttarakhand
 https://cdn-1.pishow.tv/live/17/master.m3u8
 #EXTINF:-1 group-title="PiShow", 19
 https://cdn-7.pishow.tv/live/19/master.m3u8
@@ -2287,7 +2287,6 @@ https://cdn-2.pishow.tv/live/39/master.m3u8
 #EXTINF:-1 group-title="PiShow", 40
 https://cdn-7.pishow.tv/live/40/master.m3u8
 
-
 #EXTINF:-1 group-title="PiShow", 220
 https://cdn-3.pishow.tv/live/220/master.m3u8
 #EXTINF:-1 group-title="PiShow", 221
@@ -2312,19 +2311,19 @@ https://cdn-4.pishow.tv/live/233/master.m3u8
 https://cdn-3.pishow.tv/live/234/master.m3u8
 #EXTINF:-1 group-title="PiShow", 235
 https://cdn-1.pishow.tv/live/235/master.m3u8
-#EXTINF:-1 group-title="PiShow", 237
+#EXTINF:-1 group-title="PiShow", 237. Calcatta News
 https://cdn-2.pishow.tv/live/237/master.m3u8
 #EXTINF:-1 group-title="PiShow", 239
 https://cdn-4.pishow.tv/live/239/master.m3u8
-#EXTINF:-1 group-title="PiShow", 241
+#EXTINF:-1 group-title="PiShow", 241. Enter10 Bangla
 https://cdn-4.pishow.tv/live/241/master.m3u8
-#EXTINF:-1 group-title="PiShow", 262
+#EXTINF:-1 group-title="PiShow", 262. Aastha
 https://cdn-1.pishow.tv/live/262/master.m3u8
 #EXTINF:-1 group-title="PiShow", 266
 https://cdn-7.pishow.tv/live/266/master.m3u8
 #EXTINF:-1 group-title="PiShow", 268
 https://cdn-3.pishow.tv/live/268/master.m3u8
-#EXTINF:-1 group-title="PiShow", 269
+#EXTINF:-1 group-title="PiShow", 269. Samachar Plus
 https://cdn-2.pishow.tv/live/269/master.m3u8
 #EXTINF:-1 group-title="PiShow", 270. R.Bangla
 https://cdn-4.pishow.tv/live/270/master.m3u8
@@ -2336,15 +2335,15 @@ https://cdn-3.pishow.tv/live/273/master.m3u8
 https://cdn-1.pishow.tv/live/276/master.m3u8
 #EXTINF:-1 group-title="PiShow", 278
 https://cdn-1.pishow.tv/live/278/master.m3u8
-#EXTINF:-1 group-title="PiShow", 280
+#EXTINF:-1 group-title="PiShow", 280. HM TV
 https://cdn-1.pishow.tv/live/280/master.m3u8
 #EXTINF:-1 group-title="PiShow", 298
 https://cdn-3.pishow.tv/live/298/master.m3u8
-#EXTINF:-1 group-title="PiShow", 383
+#EXTINF:-1 group-title="PiShow", 383. NTV
 https://cdn-1.pishow.tv/live/383/master.m3u8
-#EXTINF:-1 group-title="PiShow", 385
+#EXTINF:-1 group-title="PiShow", 385. T-NEws
 https://cdn-1.pishow.tv/live/385/master.m3u8
-#EXTINF:-1 group-title="PiShow", 387
+#EXTINF:-1 group-title="PiShow", 387. 
 https://cdn-1.pishow.tv/live/387/master.m3u8
 #EXTINF:-1 group-title="PiShow", 389
 https://cdn-1.pishow.tv/live/389/master.m3u8
