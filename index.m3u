@@ -384,7 +384,7 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1461. Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:-1 group-title="PiShow", 1462
+#EXTINF:-1 group-title="PiShow", 1462. GS TV
 https://cdn-4.pishow.tv/live/1462/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1463. Hornbill TV
 https://cdn-2.pishow.tv/live/1463/master.m3u8
@@ -398,8 +398,6 @@ https://cdn-3.pishow.tv/live/1466/master.m3u8
 https://cdn-3.pishow.tv/live/1467/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1469. Kairali News
 https://cdn-3.pishow.tv/live/1469/master.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png", 1459. Goldmines (576p)
-https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1470
 https://cdn-4.pishow.tv/live/1470/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1471
@@ -477,4 +475,189 @@ https://cdn-6.pishow.tv/live/10009/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBEIpPo.png", 10014. Nagaland TV
 https://cdn-6.pishow.tv/live/10014/master.m3u8
 
+#====================Movies=================
+#EXTINF:-1 group-title="Movies", Originals
+https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
+#EXTINF:-1 group-title="Movies", Cineedge HD
+https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
+#EXTINF:-1 group-title="Movies", Uniques HD
+https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
+#EXTINF:-1 group-title="Movies", Superrix HD
+https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
+#EXTINF:-1 group-title="Movies", Screem
+https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
+#EXTINF:-1 group-title="Movies", True Stories
+https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8
+#EXTINF:-1 group-title="Movies", Intelligence
+https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8
+#EXTINF:-1 group-title="Movies", Action Hollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="Movies", Cine Sony (720p)
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 group-title="Movies", FilmRise Westerns (720p)
+https://dz05z8iljgvbe.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="Movies", Home Plus
+https://homeplushls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies", Kinoteatr (1080p)
+https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Movies",  Kuriakos Cine (1080p)
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 group-title="Movies", Persiana Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies", Persiana Family
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies", Persiana Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies", Persiana Korea
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies", Persiana Plus
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies", 24 Hour Free Movies (720p)
+https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
+#EXTINF:-1 group-title="Movies", 30A TV Classic Movies (720p)
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
+#EXTINF:-1 group-title="Movies", Ebony TV by Lionsgate (1080p)
+https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
+#EXTINF:-1 group-title="Movies", Ekran Movies
+https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
+#EXTINF:-1 group-title="Movies", GEM Drama
+https://ca-rt.onetv.app/gemdrama/index-0.m3u8?token=onetv202
+#EXTINF:-1 group-title="Movies", Gravitas Movies (1080p)
+https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
+#EXTINF:-1 group-title="Movies", iFilm English
+https://live.presstv.ir/hls/ifilmen.m3u8
+#EXTINF:-1 group-title="Movies", Home Plus
+https://homeplushls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies", ICC Plus (1080p)
+https://icchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies", Movies Action (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:-1 group-title="Movies", Movies Thriller (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+#EXTINF:-1 group-title="Movies", MovieSphere UK (1080p)
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies", MovieSphere AU (1080p)
+https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="Movies", MovieSphere UK (1080p)
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies", Movify Kino (576p)
+#EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
+#EXTINF:-1 group-title="Movies", OuterSphere (1080p)
+https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
+#EXTINF:-1 group-title="Movies", 
 
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
+
+#EXTINF:-1 group-title="Movies", 
