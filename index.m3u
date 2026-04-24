@@ -76,6 +76,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi" tvg-logo="https://tplay.live/originals/bengali-beats/bengali-beats.png",Bengali Beats
 https://tplay.live/originals/bengali-beats/index.m3u8
+#EXTINF:-1 tvg-id="MovieBangla.bd@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681" group-title="Bangladesh",Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-name="Gopal Bhar" group-title="Bangladeshi", Gopal Bhar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
@@ -250,7 +252,7 @@ https://cdn-7.pishow.tv/live/431/master.m3u8
 https://cdn-3.pishow.tv/live/437/master.m3u8
 #EXTINF:-1 group-title="PiShow", 439
 https://cdn-3.pishow.tv/live/439/master.m3u8
-#EXTINF:-1 group-title="PiShow", 441
+#EXTINF:-1 group-title="PiShow", 441. Public Music
 https://cdn-3.pishow.tv/live/441/master.m3u8
 #EXTINF:-1 group-title="PiShow", 449. PTC Chakde
 https://cdn-1.pishow.tv/live/449/master.m3u8
@@ -290,9 +292,11 @@ https://cdn-2.pishow.tv/live/989/master.m3u8
 https://cdn-1.pishow.tv/live/993/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1007. 4TV News
 https://cdn-4.pishow.tv/live/1007/master.m3u8
+#EXTINF:-1 group-title="PiShow", 1007. Maha Movies
+https://cdn-6.pishow.tv/live/1007/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1011. Manoranjan Grand
 https://cdn-1.pishow.tv/live/1011/master.m3u8
-#EXTINF:-1 group-title="PiShow", 1013. Manoranjan TV
+#EXTINF:-1 group-title="PiShow", 1013. Manoranjan Grand
 https://cdn-1.pishow.tv/live/1013/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1029
 https://cdn-4.pishow.tv/live/1029/master.m3u8
@@ -328,7 +332,7 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 https://cdn-7.pishow.tv/live/1161/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1211
 https://cdn-1.pishow.tv/live/1211/master.m3u8
-#EXTINF:-1 group-title="PiShow", 1213
+#EXTINF:-1 group-title="PiShow", 1213. Raj Musix Telegu
 https://cdn-1.pishow.tv/live/1213/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1221
 https://cdn-2.pishow.tv/live/1221/master.m3u8
@@ -358,11 +362,11 @@ https://cdn-3.pishow.tv/live/1265/master.m3u8
 https://cdn-3.pishow.tv/live/1271/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1279
 https://cdn-3.pishow.tv/live/1279/master.m3u8
-#EXTINF:-1 group-title="PiShow", 1291
+#EXTINF:-1 group-title="PiShow", 1291. Dhamal
 https://cdn-1.pishow.tv/live/1291/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1293
 https://cdn-4.pishow.tv/live/1293/master.m3u8
-#EXTINF:-1 group-title="PiShow", 1383
+#EXTINF:-1 group-title="PiShow", 1383. Peppers TV
 https://cdn-2.pishow.tv/live/1383/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1389
 https://cdn-3.pishow.tv/live/1389/master.m3u8
@@ -418,7 +422,7 @@ https://cdn-2.pishow.tv/live/1493/master.m3u8
 https://cdn-2.pishow.tv/live/1494/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1498
 https://cdn-3.pishow.tv/live/1498/master.m3u8
-#EXTINF:-1 group-title="PiShow", 1499
+#EXTINF:-1 group-title="PiShow", 1499. Orang Bangla TV
 https://cdn-4.pishow.tv/live/1499/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1501. PTC Music
 https://cdn-3.pishow.tv/live/1501/master.m3u8
@@ -438,7 +442,7 @@ https://cdn-4.pishow.tv/live/1521/master.m3u8
 https://cdn-2.pishow.tv/live/1522/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1526
 https://cdn-3.pishow.tv/live/1526/master.m3u8
-#EXTINF:-1 group-title="PiShow", Kairali WE
+#EXTINF:-1 group-title="PiShow", 1530. Kairali WE
 https://cdn-3.pishow.tv/live/1530/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1531
 https://cdn-4.pishow.tv/live/1531/master.m3u8
