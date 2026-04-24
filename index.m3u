@@ -276,7 +276,7 @@ https://cdn-2.pishow.tv/live/475/master.m3u8
 https://cdn-2.pishow.tv/live/477/master.m3u8
 #EXTINF:-1 group-title="PiShow", 957
 https://cdn-1.pishow.tv/live/957/master.m3u8
-#EXTINF:-1 group-title="PiShow", 959
+#EXTINF:-1 group-title="PiShow", 959. Hindu Dharmam
 https://cdn-1.pishow.tv/live/959/master.m3u8
 #EXTINF:-1 group-title="PiShow", 961
 https://cdn-1.pishow.tv/live/961/master.m3u8
@@ -398,6 +398,8 @@ https://cdn-3.pishow.tv/live/1466/master.m3u8
 https://cdn-3.pishow.tv/live/1467/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1469. Kairali News
 https://cdn-3.pishow.tv/live/1469/master.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png", 1459. Goldmines (576p)
+https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1470
 https://cdn-4.pishow.tv/live/1470/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1471
@@ -466,6 +468,8 @@ https://cdn-1.pishow.tv/live/1617/master.m3u8
 https://cdn-4.pishow.tv/live/1627/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1629
 https://cdn-3.pishow.tv/live/1629/master.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAN_TV/images/LOGO_HD/image.png", 10004. Jan TV (576p)
+https://cdn-6.pishow.tv/live/10004/master.m3u8
 #EXTINF:-1 group-title="PiShow", 10007. Maha Movies
 https://cdn-6.pishow.tv/live/10007/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lT8rihP.png" 10009. News Daily 24
