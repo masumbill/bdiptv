@@ -105,7 +105,7 @@ https://cdn-6.pishow.tv/live/9/master.m3u8
 https://cdn-1.pishow.tv/live/10/master.m3u8
 #EXTINF:-1 group-title="PiShow", 11. DD National
 https://cdn-1.pishow.tv/live/11/master.m3u8
-#EXTINF:-1 group-title="PiShow", 12.  DD News
+#EXTINF:-1 group-title="PiShow; News", 12.  DD News
 https://cdn-2.pishow.tv/live/12/master.m3u8
 #EXTINF:-1 group-title="PiShow", DD Sports
 https://cdn-6.pishow.tv/live/13/master.m3u8
@@ -180,7 +180,7 @@ https://cdn-4.pishow.tv/live/233/master.m3u8
 https://cdn-3.pishow.tv/live/234/master.m3u8
 #EXTINF:-1 group-title="PiShow", 235
 https://cdn-1.pishow.tv/live/235/master.m3u8
-#EXTINF:-1 group-title="PiShow", 237. Calcatta News
+#EXTINF:-1 group-title="PiShow; News", 237. Calcatta News
 https://cdn-2.pishow.tv/live/237/master.m3u8
 #EXTINF:-1 group-title="PiShow", 239
 https://cdn-4.pishow.tv/live/239/master.m3u8
@@ -190,7 +190,7 @@ https://cdn-4.pishow.tv/live/241/master.m3u8
 https://cdn-1.pishow.tv/live/262/master.m3u8
 #EXTINF:-1 group-title="PiShow", 266
 https://cdn-7.pishow.tv/live/266/master.m3u8
-#EXTINF:-1 group-title="PiShow", 268. News 1st
+#EXTINF:-1 group-title="PiShow; News", 268. News 1st
 https://cdn-3.pishow.tv/live/268/master.m3u8
 #EXTINF:-1 group-title="PiShow", 269. Samachar Plus
 https://cdn-2.pishow.tv/live/269/master.m3u8
@@ -210,7 +210,7 @@ https://cdn-1.pishow.tv/live/280/master.m3u8
 https://cdn-3.pishow.tv/live/298/master.m3u8
 #EXTINF:-1 group-title="PiShow", 383. NTV
 https://cdn-1.pishow.tv/live/383/master.m3u8
-#EXTINF:-1 group-title="PiShow", 385. T-NEws
+#EXTINF:-1 group-title="PiShow; News", 385. T-NEws
 https://cdn-1.pishow.tv/live/385/master.m3u8
 #EXTINF:-1 group-title="PiShow", 387. 
 https://cdn-1.pishow.tv/live/387/master.m3u8
@@ -230,7 +230,7 @@ https://cdn-1.pishow.tv/live/401/master.m3u8
 https://cdn-1.pishow.tv/live/407/master.m3u8
 #EXTINF:-1 group-title="PiShow", 409
 https://cdn-1.pishow.tv/live/409/master.m3u8
-#EXTINF:-1 group-title="PiShow", 411. I News
+#EXTINF:-1 group-title="PiShow;News", 411. I News
 https://cdn-1.pishow.tv/live/411/master.m3u8
 #EXTINF:-1 group-title="PiShow", B4U Music
 https://cdn-2.pishow.tv/live/415/master.m3u8
@@ -284,7 +284,7 @@ https://cdn-4.pishow.tv/live/987/master.m3u8
 https://cdn-2.pishow.tv/live/989/master.m3u8
 #EXTINF:-1 group-title="PiShow", 993
 https://cdn-1.pishow.tv/live/993/master.m3u8
-#EXTINF:-1 group-title="PiShow", 1007. 4TV News
+#EXTINF:-1 group-title="PiShow;News", 1007. 4TV News
 https://cdn-4.pishow.tv/live/1007/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1007. Maha Movies
 https://cdn-6.pishow.tv/live/1007/master.m3u8
@@ -296,7 +296,7 @@ https://cdn-1.pishow.tv/live/1013/master.m3u8
 https://cdn-4.pishow.tv/live/1029/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1033
 https://cdn-4.pishow.tv/live/1033/master.m3u8
-#EXTINF:-1 group-title="PiShow", 1037. BRK News
+#EXTINF:-1 group-title="PiShow;News", 1037. BRK News
 https://cdn-1.pishow.tv/live/1037/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1039
 https://cdn-4.pishow.tv/live/1039/master.m3u8
@@ -304,7 +304,7 @@ https://cdn-4.pishow.tv/live/1039/master.m3u8
 https://cdn-2.pishow.tv/live/1041/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1043
 https://cdn-2.pishow.tv/live/1043/master.m3u8
-#EXTINF:-1 group-title="PiShow", 1051. Bansal News
+#EXTINF:-1 group-title="PiShow;News", 1051. Bansal News
 https://cdn-2.pishow.tv/live/1051/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1053
 https://cdn-2.pishow.tv/live/1053/master.m3u8
@@ -354,7 +354,7 @@ https://cdn-3.pishow.tv/live/1261/master.m3u8
 https://cdn-3.pishow.tv/live/1265/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1271
 https://cdn-3.pishow.tv/live/1271/master.m3u8
-#EXTINF:-1 group-title="PiShow", 1279. News J
+#EXTINF:-1 group-title="PiShow;News", 1279. News J
 https://cdn-3.pishow.tv/live/1279/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1291. Dhamal
 https://cdn-1.pishow.tv/live/1291/master.m3u8
@@ -390,7 +390,7 @@ https://cdn-3.pishow.tv/live/1465/master.m3u8
 https://cdn-3.pishow.tv/live/1466/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1467
 https://cdn-3.pishow.tv/live/1467/master.m3u8
-#EXTINF:-1 group-title="PiShow", 1469. Kairali News
+#EXTINF:-1 group-title="PiShow;News", 1469. Kairali News
 https://cdn-3.pishow.tv/live/1469/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1470
 https://cdn-4.pishow.tv/live/1470/master.m3u8
@@ -412,7 +412,7 @@ https://cdn-4.pishow.tv/live/1486/master.m3u8
 https://cdn-6.pishow.tv/live/1490/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1493
 https://cdn-2.pishow.tv/live/1493/master.m3u8
-#EXTINF:-1 group-title="PiShow", 1494. News Time Bangla
+#EXTINF:-1 group-title="PiShow;News", 1494. News Time Bangla
 https://cdn-2.pishow.tv/live/1494/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1498
 https://cdn-3.pishow.tv/live/1498/master.m3u8
@@ -420,7 +420,7 @@ https://cdn-3.pishow.tv/live/1498/master.m3u8
 https://cdn-4.pishow.tv/live/1499/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1501. PTC Music
 https://cdn-3.pishow.tv/live/1501/master.m3u8
-#EXTINF:-1 group-title="PiShow", 1502. PTC News
+#EXTINF:-1 group-title="PiShow;News", 1502. PTC News
 https://cdn-4.pishow.tv/live/1502/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1503. PTC
 https://cdn-6.pishow.tv/live/1503/master.m3u8
@@ -464,9 +464,9 @@ https://cdn-3.pishow.tv/live/1629/master.m3u8
 https://cdn-6.pishow.tv/live/10004/master.m3u8
 #EXTINF:-1 group-title="PiShow", 10007. Maha Movies
 https://cdn-6.pishow.tv/live/10007/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lT8rihP.png" 10009. News Daily 24
+#EXTINF:-1 group-title="PiShow;News", 10009. News Daily 24
 https://cdn-6.pishow.tv/live/10009/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EBEIpPo.png", 10014. Nagaland TV
+#EXTINF:-1 group-title="PiShow", 10014. Nagaland TV
 https://cdn-6.pishow.tv/live/10014/master.m3u8
 
 #====================Movies=================
