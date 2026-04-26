@@ -94,11 +94,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 
 
-we 
-
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",CNA News
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
 #====================Pishow OTT===================
 #EXTINF:-1 group-title="PiShow", 6. 9X Jhakaas
 https://cdn-3.pishow.tv/live/6/master.m3u8
@@ -571,93 +566,74 @@ https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/
 https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8
 #EXTINF:-1 group-title="Movies", Sony One Series Thriller (1080p)
 https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
-#EXTINF:-1 group-title="Movies", 
 
-#EXTINF:-1 group-title="Movies", 
+#====================Pishow OTT===================
+#EXTINF:-1 group-title="News", DBC News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+#EXTINF:-1 group-title="News", ATN NEWS
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", 
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", 
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News",
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", 
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", 
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", 
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", 
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", CNA News
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", 
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", 
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", 
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News",
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", 
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", 
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", 
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", 
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", 
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", 
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", 
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News",
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", 
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", 
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", 
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", 
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", 
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", 
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", 
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News",
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", 
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", 
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", 
 
-#EXTINF:-1 group-title="Movies", 
-#EXTINF:-1 group-title="Movies", 
-
-#EXTINF:-1 group-title="Movies", 
-
-#EXTINF:-1 group-title="Movies", 
-
-#EXTINF:-1 group-title="Movies", 
-
-#EXTINF:-1 group-title="Movies", 
-
-#EXTINF:-1 group-title="Movies", 
-
-#EXTINF:-1 group-title="Movies", 
-
-#EXTINF:-1 group-title="Movies", 
-
-#EXTINF:-1 group-title="Movies", 
-
-#EXTINF:-1 group-title="Movies", 
-
-#EXTINF:-1 group-title="Movies", 
-
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="News", 
