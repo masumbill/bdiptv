@@ -283,9 +283,9 @@ https://cdn-1.pishow.tv/live/993/master.m3u8
 https://cdn-4.pishow.tv/live/1007/master.m3u8
 #EXTINF:-1 group-title="PiShow;Movies", 1007. Maha Movies
 https://cdn-6.pishow.tv/live/1007/master.m3u8
-#EXTINF:-1 group-title="PiShow;Movies", 1011. Manoranjan Grand
+#EXTINF:-1 group-title="PiShow" group-title="Movies", 1011. Manoranjan Grand
 https://cdn-1.pishow.tv/live/1011/master.m3u8
-#EXTINF:-1 group-title="PiShow;Movies", 1013. Manoranjan Grand
+#EXTINF:-1 group-title="PiShow;Movies",  1013. Manoranjan Grand
 https://cdn-1.pishow.tv/live/1013/master.m3u8
 #EXTINF:-1 group-title="PiShow", 1029. Rongeen
 https://cdn-4.pishow.tv/live/1029/master.m3u8
