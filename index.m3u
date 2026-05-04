@@ -67,6 +67,16 @@ https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png" group-title="Bangladeshi",Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 
+#EXTINF:-1 group-title="Bangladeshi", EKHON TV
+http://103.229.254.25:7001/play/a09k/index.m3u8
+#EXTINF:-1 group-title="Bangladeshi",MYTV HD
+http://103.229.254.25:7001/play/a05z/index.m3u8
+#EXTINF:-1 group-title="Bangladeshi",Maasranga TV HD
+http://103.229.254.25:7001/play/a05q/index.m3u8
+#EXTINF:-1 group-title="Bangladeshi",Mohona TV
+http://103.229.254.25:7001/play/a05t/index.m3u8
+#EXTINF:-1 group-title="Bangladeshi",asiantvHD
+http://103.229.254.25:7001/play/a063/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png" group-title="Bangladeshi",Bangla TV Europe
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hJxFLvF.png" group-title="Bangladeshi",Channel S (576p)
@@ -77,6 +87,9 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 https://tplay.live/originals/bengali-beats/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681" group-title="Bangladeshi",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 group-title="Bangladeshi", Duronto TV HD
+http://103.229.254.25:7001/play/a05k/index.m3u8
+
 
 #EXTINF:-1 tvg-name="Gopal Bhar" group-title="Bangladeshi", Gopal Bhar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
@@ -447,6 +460,10 @@ https://cdn-6.pishow.tv/live/10007/master.m3u8
 https://cdn-6.pishow.tv/live/10009/master.m3u8
 #EXTINF:-1 group-title="PiShow", 10014. Nagaland TV
 https://cdn-6.pishow.tv/live/10014/master.m3u8
+#EXTINF:-1 ,Rang
+https://cdn-7.pishow.tv/live/10017/master.m3u8
+#EXTINF:-1 ,Spondon
+https://cdn-7.pishow.tv/live/10019/master.m3u8
 
 #====================Movies=================
 #EXTINF:-1 group-title="Movies", Originals
@@ -555,8 +572,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
 #EXTINF:-1 group-title="News", BBC News
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-#EXTINF:-1 group-title="News", CNN News
-https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="News", CNN (US)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="News", DW News English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="News", DW NEWS
@@ -565,26 +582,19 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/strea
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1 group-title="News", CNA News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="News", RT Now
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="News", RT News
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 group-title="News", NHK World
 http://103.175.73.12:8080/live/417/417_0.m3u8
 #EXTINF:-1 group-title="News",France 24 English (720p) 
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
-#EXTINF:-1 group-title="News", FOX News (AU)
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 group-title="News",RT News (EN)
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 group-title="News", RTNEWS GLOBAL
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1
-#EXTINF:-1 group-title="News", CNBC Indonesia (EN)
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 group-title="News", Iran International(EN)
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:-1 group-title="News", Global News (US)
 https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
-#EXTINF:-1 group-title="News", CNN (US)
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+laylist.m3u8
+#EXTINF:-1 group-title="News", CNN
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
 #EXTINF:-1 group-title="News", ABP Ananda
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
