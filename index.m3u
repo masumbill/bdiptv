@@ -460,9 +460,9 @@ https://cdn-6.pishow.tv/live/10007/master.m3u8
 https://cdn-6.pishow.tv/live/10009/master.m3u8
 #EXTINF:-1 group-title="PiShow", 10014. Nagaland TV
 https://cdn-6.pishow.tv/live/10014/master.m3u8
-#EXTINF:-1 ,Rang
+#EXTINF:-1 group-title="PiShow",10017. Rang
 https://cdn-7.pishow.tv/live/10017/master.m3u8
-#EXTINF:-1 ,Spondon
+#EXTINF:-1 group-title="PiShow", 10019. Spondon
 https://cdn-7.pishow.tv/live/10019/master.m3u8
 
 #====================Movies=================
