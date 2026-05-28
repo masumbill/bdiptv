@@ -591,8 +591,19 @@ https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="News", RT News
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 group-title="News", TRT WORLD 
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="News", Reuters 
+https://tplay.live/out/news/bbc-news/index.m3u8
+#EXTINF:-1 group-title="News", Sky News
+https://tplay.live/out/news/bbc-news/index.m3u8
+#EXTINF:-1 group-title="News", TRT WORLD 
+#EXTINF:-1 group-title="News", TRT WORLD 
+
 #EXTINF:-1 group-title="News", NHK World
 http://103.175.73.12:8080/live/417/417_0.m3u8
+#EXTINF:-1 group-title="News", Wion News
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="News",France 24 English (720p) 
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
 #EXTINF:-1 group-title="News", Iran International(EN)
@@ -618,7 +629,7 @@ https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="News", R Plus News
 https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="News", NK
+#EXTINF:-1 group-title="News", R.Bangla
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="News", AKD Calcutta News
 https://live.legitpro.co.in/cnnnews/index.m3u8
@@ -633,16 +644,12 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee24ghanta/v1/master/611d79b1
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 #EXTINF:-1 group-title="News", Times Of India 
 https://live.sli.ke/live/npnhm84gz9/master.m3u8
-#EXTINF:-1 group-title="News", Wion News
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="News", NDTV English
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 group-title="News", NDTV Hindi
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 group-title="News", News Max 2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-title="News", TRT WORLD 
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="News", Hindi Khabar
 https://d1msejlow1t3l4.cloudfront.net/fta/hindikhabar/playlist.m3u8
 #EXTINF:-1 group-title="News", Zee News
