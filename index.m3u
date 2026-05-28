@@ -77,11 +77,13 @@ http://103.229.254.25:7001/play/a05z/index.m3u8
 http://103.229.254.25:7001/play/a05q/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/250px-Mohona_tv_Logo.svg.png" group-title="Bangladeshi",Mohona TV
 http://103.229.254.25:7001/play/a05t/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/120px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png?_=20140402143752" group-title="Bangladeshi",Asiantv HD
-http://103.229.254.25:7001/play/a063/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/120px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png?_=20140402143752" group-title="Bangladeshi",AsianTV HD
+https://tplay.live/out/news/bbc-news/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png" group-title="Bangladeshi",Bangla TV Europe
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hJxFLvF.png" group-title="Bangladeshi",Channel S (576p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Channel_S_Bangladesh_Logo.png/250px-Channel_S_Bangladesh_Logo.png" group-title="Bangladeshi",Channel S
+https://tplay.live/out/news/bbc-news/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Channel_S_Logo.SVG/250px-Channel_S_Logo.SVG.png" group-title="Bangladeshi",Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnail_backgrounds_01b5b56aa2e80823f23cc9d708141d1a_goplay_srk_tv_landscape.jpg?w=828&q=75" group-title="Bangladeshi" tvg-logo="https://ibb.co.com/nPXPTPK",Srk Tv
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
