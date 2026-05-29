@@ -768,8 +768,12 @@ https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
 https://mumt03.tangotv.in/FOODFOOD/index.m3u8
 #EXTINF:-1 group-title="Food",BBC Food
 http://103.175.73.12:8080/live/143/143_0.m3u8
+EXTINF:-1 group-title="Food", Travel XP English EU
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 group-title="Food",Travel XP English NZ
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 
-#======================
+#======================INDIAN======================
 EXTINF:-1 group-title="India", Manoranjan Grand
 https://cdn-1.pishow.tv/live/1011/master.m3u8
 #EXTINF:-1 group-title="India", Manoranjan TV
@@ -868,3 +872,90 @@ https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xia
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="India", Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
+#=============== Sports================
+
+#EXTINF:-1 group-title="Sports", Live(DD Sports)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 group-title="Sports", Live(beIN SPORTS XTRA)
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 group-title="Sports" ,Live(Euro Sport 1)
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 group-title="Sports" Live(Euro Sport 2 HD)
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:-1 group-title="Sports" ,Live(FOOTBALL)
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="Sports" ,Live(Star Sports 2 HD)
+http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8
+#EXTINF:-1 group-title="Sports" , Cricket Gold
+https://d1nj4u39ja4cn0.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FLS-MuxIP-CricketGold/418.m3u8
+#EXTINF:-1 group-title="Sports" , Fox Cricket 501
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
+#EXTINF:-1 group-title="Sports" , Fox Cricket 501 HD
+http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/19146/index.m3u8
+#EXTINF:-1 group-title="Sports" , Star Sports 1 Hindi
+https://starsportshindiii.pages.dev/index.m3u8
+#EXTINF:-1 group-title="Sports" ,A SPORT
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
+#EXTINF:-1 group-title="Sports", Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 group-title="Sports" , Bleav Football
+https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Sports" , FIFA+
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="Sports", Goal TV
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
+#EXTINF:-1 group-title="Sports" , MORE THEN SPORTS TV
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 group-title="Sports" ,Oman Sports TV
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" , ORF Sport+ HD
+http://212.186.45.34:9981/stream/channelid/906723447?profile=pass
+#EXTINF:-1 group-title="Sports" , FIGHT NETWORK
+https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
+#EXTINF:-1 group-title="Sports" ,Lucha Plus
+https://amg17334-amg17334c1-freelivesports-emea-7386.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17334-luchalibrefast-luchalibre-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 group-title="Sports" ,| MMA TV
+https://streams2.sofast.tv/ptnr-sportstrible/title-MMA_Sportstrible/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f6b049e4-885e-4551-85ac-8eef0b33d3a2/playlist.m3u8
+#EXTINF:-1 group-title="Sports" ,MVMT Culture
+https://d15g7z5n3epv7t.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TheGrapplingNetwork-SportsTribal/236.m3u8
+#EXTINF:-1 group-title="Sports" ,FIGHT | PFL
+https://d2w9b8sam7j3zv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5g55ahrn9ajah/v1/pfl_pflmma_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="Sports" ,TNA Wrestling Channel
+https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 group-title="Sports" , Golf Network
+https://streams2.sofast.tv/ptnr-sportstribal/genre-Sports/lang-English/ctgr-Sport/title-Golf_Network/sofastplayout/b7500c3f-bd94-4725-abfd-2644e004132c/manifest.m3u8
+#EXTINF:-1 group-title="Sports", GOLFPASS
+https://d2icntm6fhxrry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-egqimi4i6n3rh/master.m3u8
+#EXTINF:-1 group-title="Sports" , Unbeaten (Worldwide)
+https://amg00721-amg00721c6-freelivesports-emea-9595.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00721-inverleigh-unbtn3row-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 group-title="Sports",MIXER | ACE TV
+https://amg00585-amg00585c10-sportstribal-emea-5519.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-acetv-sportstribalemea/playlist.m3u8
+#EXTINF:-1 group-title="Sports" , Cornhole TV
+https://bbb-aclco-freelivesports.otteravision.com/bbb/aclco/aclco.m3u8
+#EXTINF:-1 group-title="Sports" , ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 group-title="Sports" , FUEL TV
+https://amg01074-fueltv-fueltvemeaen-sportstribal-n7krp.amagi.tv/ts-eu-w1-n2/playlist/amg01074-fueltv-fueltvemeaen-sportstribal/playlist.m3u8
+#EXTINF:-1 group-title="Sports" ,H20 TV
+https://1261a78709344810a5b834d397509879.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-738-H2OTV-SPORTSTRIBALTV/mt/sportstribaltv/738/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Sports" , HOOP TV
+https://amg00585-amg00585c9-sportstribal-emea-5518.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-hooptv-sportstribalemea/playlist.m3u8
+#EXTINF:-1 group-title="Sports" ,Horse & Country
+https://sportstri-hncfree-sportstribal-rb7j8.amagi.tv/playlist/sportstri-hncfree-sportstribal/playlist.m3u8
+#EXTINF:-1 group-title="Sports" ,Hunt Fish TV
+https://amg00585-sportstribal-amg00585c3-sportstribal-emea-2177.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-huntfishtv-sportstribalemea/playlist.m3u8
+#EXTINF:-1 group-title="Sports" , InTrouble
+https://amg00861-terninternation-introuble-sportstribal-sog8f.amagi.tv/ts-us-e2-n1/playlist/amg00861-terninternation-introuble-sportstribal/playlist.m3u8
+#EXTINF:-1 group-title="Sports" , KTV Sport Plus
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" , NBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 group-title="Sports" , Redbull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 group-title="Sports" ,Sports First TV
+https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
+#EXTINF:-1 group-title="Sports" , Sports Fishing
+https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8
+#EXTINF:-1 group-title="Sports" ,SportsGrid
+https://sportsgrid-tribal.amagi.tv/playlistR432p.m3u8
