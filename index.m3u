@@ -82,6 +82,10 @@ https://vods2.aynascope.net/gseriesDrama/index.m3u8
 https://tvsen6.aynaott.com/ekhontv/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/db85422953e3a1652e26b0a14eed92a9" group-title="Bangladeshi",NEXUS TV
 https://tvsen6.aynaott.com/nexustv/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/589934eb6a1c264a0ee6bf6d82fad81c" group-title="Bangladeshi",Bijoy TV
+https://tvsen6.aynaott.com/bijoytv/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/bda05e1c2173251baebc20ffe43dea0b" group-title="Bangladeshi",Global TV
+https://tvsen6.aynaott.com/globaltvhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Logo_of_My_TV_%28Bangladesh%29.svg/330px-Logo_of_My_TV_%28Bangladesh%29.svg.png" group-title="Bangladeshi",MYTV HD
 https://tplay.live/out/news/bbc-news/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangladeshi",Maasranga TV HD
@@ -770,6 +774,16 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 
 #======================INDIAN======================
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png" group-title="India",Sony MAX HD
+https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7MmrgCs/SONY-MAX.png" group-title="India",Sony MAX
+https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="India" group-logo="https://i.postimg.cc/ZnBh92s3/SONY-MAX-2.png", Sony MAX 2
+https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
+#EXTINF:-1tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="India" group-logo="https://i.postimg.cc/jq6Qh61g/SONY-WAH.png", Sony WAH
+https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png" group-title="India",Sony PIX HD
+https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 EXTINF:-1 group-title="India", Manoranjan Grand
 https://cdn-1.pishow.tv/live/1011/master.m3u8
 #EXTINF:-1 group-title="India", Manoranjan TV
