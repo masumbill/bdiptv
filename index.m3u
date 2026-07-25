@@ -288,10 +288,6 @@ https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8
 
 #====================ALL News==================
-#EXTINF:-1 group-title="News", DBC News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
-#EXTINF:-1 group-title="News", ATN NEWS
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:-1 group-title="News", Aljazeera HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1 group-title="News", BBC News
@@ -389,3 +385,4 @@ https://d1msejlow1t3l4.cloudfront.net/fta/jantv/playlist.m3u8
 #==================FM Radio Collection ===========================
 #EXTINF:-1 group-title="FM Radio", Spice FM BD
 https://stream.spicefmbd.com/stream.m3u8
+
