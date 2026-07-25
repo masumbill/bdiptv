@@ -477,7 +477,10 @@ https://stream.zeno.fm/0zha3rfq02quv.mp3
 https://18093.live.streamtheworld.com/NJS_HIN_ESTAAC/HLS/playlist.m3u8
 #EXTINF:-1 group-title="FM-Radio",Radio Bikrompur
 https://radio.garden/api/ara/content/listen/2Sdk5C58/channel.mp3
-
+#EXTINF:-1 group-title="FM-Radio",Dhaka FM 90.4
+https://radio.garden/api/ara/content/listen/7MlBWuf6/channel.mp3?1785001149229
+#EXTINF:-1 group-title="FM-Radio",Dhaka FM 90.4 (1)
+https://play.dhakafm904.com/;
 
 #EXTINF:-1 group-title="FM-Radio", Al Quran Radio
 http://66.45.232.131:9994/;stream.mp3
