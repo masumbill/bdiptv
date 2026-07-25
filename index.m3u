@@ -279,14 +279,8 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist360p.m3u8
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
 #EXTINF:-1 group-title="Movies", Sparkle Movies
 https://61fc4f1a40a342daa23f92141853b7b4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_SparkleMovies/playlist.m3u8?ads.wurl_channel=1019&ads.wurl_name=SparkleMovies&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 group-title="Movies", SRK TV
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movies", The Walking Dead Universe
 https://22985209144b4ff78289fbb19f55e93e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TWDUniverseExperience/playlist.m3u8?ads.wurl_channel=565&ads.wurl_name=TWDUniverseExperience&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=sQN_f5E2o3f4xpcEPue3&ads.plex_id=5fc705ff2f220e002d5e6bce&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 group-title="Movies", ThreePlus1
-https://mediapackage-three-plus-1-source.fullscreen.nz/index.m3u8
-#EXTINF:-1 group-title="Movies", Toonami Aftermath Movie
-http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1 group-title="Movies", K Cine
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 group-title="Movies", Movie Dome Family
