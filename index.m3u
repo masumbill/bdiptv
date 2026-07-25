@@ -387,5 +387,5 @@ https://d1msejlow1t3l4.cloudfront.net/fta/indiavoice/playlist.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/jantv/playlist.m3u8
 
 #==================FM Radio Collection ===========================
-#EXTINF:-1 group-title="FM Radio", Bangladesh Betar
-http://stream.zeno.fm/8sn7cac604zuv
+#EXTINF:-1 group-title="FM Radio", Spice FM BD
+https://stream.spicefmbd.com/stream.m3u8
