@@ -294,7 +294,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefami
 #====================ALL News==================
 #EXTINF:-1 tvg-name="France News 24" group-title="News",France News 24
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-name="T Global News (Canada)" group-title="News International",T Global News (Canada)
+#EXTINF:-1 tvg-name="T Global News (Canada)" group-title="News",T Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-name="TRT WORLD" group-title="News",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
@@ -412,5 +412,7 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="246000" tvg-name="Delicious" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086478755.png" group-title="Travel",Delicious
 https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
+#EXTINF:-1 tvg-name="Travel" group-title="Travel",Food Food
+http://103.175.73.12:8080/live/143/143_0.m3u8
 
 #=====================Sports==================
