@@ -398,8 +398,6 @@ https://f56779ab.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 group-title="News",Bloomberg TV Live Event
 https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
-#EXTINF:-1 group-title="News",CBS News
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6350fdd266e9ea0007bedec5/master.m3u8
 #EXTINF:-1 group-title="News", NHK World [Japan]
 http://103.175.73.12:8080/live/417/417_0.m3u8
 #EXTINF:-1 group-title="News", Wion News [India]
