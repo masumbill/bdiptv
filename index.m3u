@@ -531,3 +531,8 @@ https://play.dhakafm904.com/;
 
 #EXTINF:-1 group-title="FM-Radio", Al Quran Radio
 http://66.45.232.131:9994/;stream.mp3
+
+
+#========================= South Movies Collection================
+#EXTINF:-1 group-title="South Movie", Vanitha TV
+https://yuppnimrestreammum.akamaized.net/260723/smil:vanitha1.smil/playlist.m3u8
