@@ -361,7 +361,8 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c6766dad-4126-42a3-beb4-116761ac386f/playlist.m3u8
 #EXTINF:-1 group-title="Movies", BRAT TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8
-
+#EXTINF:-1 group-title="Movies", Kung Fu+ (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8
 #===================International News==================
 #EXTINF:-1 group-title="News" tvg-logo="https://www.tbsnews.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/images/2023/10/20/al-jazeera-logo-vector_2.png",Al Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
@@ -478,6 +479,9 @@ https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8
 
 
 #=================Travel & Food=============
+
+#EXTINF:-1 group-title="Travel", 4K Travel TV (1080p)
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1 group-title="Travel", SPACE SERIES
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8
 #EXTINF:-1  group-title="Travel",Travel XP English
@@ -506,6 +510,9 @@ https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 https://brat-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Travel" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Aur Life HD [Pakistan]
 http://124.109.47.101/hls/stream1.m3u8
+#EXTINF:-1 group-title="Travel" Hunt Fish TV (1080p)
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/master.m3u8
+
 
 #=====================Sports==================
 #EXTINF:-1 tvg-name="PTV Sports HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png" group-title="Sports",PTV Sports HD
@@ -516,6 +523,28 @@ https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports",BeiN Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380601958.png" group-title="Sports",Sports Range
+https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Live Sports
+https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Sports", Live Sports
+https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Sports", Pk Sports  HD
+https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
+#EXTINF:-1 group-title="Sports",QAZ Sports HD
+http://stream.mcquack.net/72/index.m3u8
+#EXTINF:-1 group-title="Sports",Mundial Sports HD
+https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports-1 Hindi
+https://starsportshindiii.pages.dev/index.m3u8
+#EXTINF:-1 group-title="Sports",Live Sports-3
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 group-title="Sports",Sports Legends
+https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Sports Range
+https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Thunder Er
+https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8
 
 #==================FM Radio Collection ===========================
 #EXTINF:-1 group-title="FM-Radio" tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/goongoon-hd-sound.png",Radio GoonGoon
@@ -544,6 +573,8 @@ http://66.45.232.131:9994/;stream.mp3
 
 
 #========================= South Movies Collection================
+#EXTINF:-1 tvg-name="South Movies" group-title="South Movies",South Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="South Movies", Vanitha TV
 https://yuppnimrestreammum.akamaized.net/260723/smil:vanitha1.smil/playlist.m3u8?hdnts=st%3D1785258465~exp%3D1785280065~acl%3D%21%2A%2F260723%2Fsmil%3Avanitha1.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.214.44.147_yuppfast_2_channel_114_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.214.44.147_yuppfast_2_channel_114_-1~hmac%3Dbbd1f85f2053bd86ec1ac0e09805f3771529043830e67eef8545f785b8b6ca1f
 #EXTINF:-1 group-title="South Movies", Tolly TV
