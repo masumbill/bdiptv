@@ -31,7 +31,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 tvg-id="SangsadTV.bd@SD" tvg-logo="https://i.imgur.com/jkouxLg.png" group-title="Bangladeshi", Sangsad TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="Bangladeshi", Bangla Vision
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+https://tvsen5.aynaott.com/banglavision/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="Bangladeshi", NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://www.satv.tv/wp-content/uploads/2016/07/logo1.png" group-title="Bangladeshi",SA TV
@@ -47,7 +47,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/500px-Channel9_bd.svg.png" group-title="Bangladeshi",Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=1920&q=75" group-title="Bangladeshi", BTV 
 https://streams.btvlive.gov.bd/live/3258c570-5e1e-4e9b-9799-7e67a6999261/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
@@ -66,7 +65,7 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.imgur.com/T38Oiwl.jpg",EKUSHEY TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/t4cxjxRj/Deshi-TV.jpg", Deshi TV HD
-https://mytvbangla.com/0.m3u8
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="Bangladeshi",Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png" group-title="Bangladeshi",ATN Bangla UK
