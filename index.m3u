@@ -544,7 +544,6 @@ https://brat-samsung-us.amagi.tv/playlist.m3u8
 http://124.109.47.101/hls/stream1.m3u8
 #EXTINF:-1 group-title="Travel" Hunt Fish TV (1080p)
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/master.m3u8
-
 #EXTINF:-1 group-title="Travel",TLC HD
 https://tvsen6.aynaott.com/tlc_hd/index.m3u8?e=1784102621&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=032b2c039214b5eb81d1d06aac66a512
 
@@ -570,10 +569,8 @@ https://radio.garden/api/ara/content/listen/2Sdk5C58/channel.mp3
 https://radio.garden/api/ara/content/listen/7MlBWuf6/channel.mp3?1785001149229
 #EXTINF:-1 group-title="FM-Radio",Dhaka FM 90.4 (1)
 https://play.dhakafm904.com/;
-
 #EXTINF:-1 group-title="FM-Radio", Al Quran Radio
 http://66.45.232.131:9994/;stream.mp3
-
 
 #========================= South Movies Collection================
 #EXTINF:-1 tvg-name="South Movies" group-title="South Movies",South Movies
@@ -590,8 +587,6 @@ https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 group-title="South Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11616-j9k04eo0-v1/imageContent-11616-j9k04eo0-m1.png",MURASU TV
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
-
-
 
 # ─────────── Documentary ───────────
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/mv5xd7yy0d.png", Discovery Bangla
@@ -616,7 +611,12 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Documentary", CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
-
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1b9208802bbf0cc01f1e8319b0ec633d" group-title="Documentary",Discover Pikstan
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/mysteries-xplored.png" group-title="Documentary",Mysteries Xplored
+https://dwqz6akge0ila.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lw48tj5rg6t4f/v1/aenetworks_mysteriesxplored_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/mystery-tv.png" group-title="Documentary", Mystery TV
+https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
 
 # ─────────── SPORTS───────────
 #EXTINF:-1 group-title="Sports", T Sports
@@ -625,6 +625,3 @@ http://103.151.60.162:2122/play/a030/index.m3u8
 https://tvsen5.aynaott.com/willowhd/index.m3u8
 #EXTINF:-1 group-title="Sports", Cricket Gold
 https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1b9208802bbf0cc01f1e8319b0ec633d" group-title="Others",Discover Pikstan
-https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
