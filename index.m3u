@@ -25,9 +25,11 @@ https://tvsen5.aynaott.com/atnbangla/index.m3u8
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/Vv6Q42w7/20250719-172535.jpg" group-title="Bangladeshi",News 24
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="Bangladeshi",BTV
-https://live.btvlive.gov.bd/live/8ac93517-bcbf-4d85-863c-54d5a60bf84a/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
+https://btv.hridoytv-channel.workers.dev/btv.m3u8
+#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="Bangladeshi",BTV News
+https://btv.hridoytv-channel.workers.dev/news.m3u8
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="Bangladeshi",BTV Chattogram
-https://live.btvlive.gov.bd/live/8ac93517-bcbf-4d85-863c-54d5a60bf84a/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG6En6mA0rmam1wT2Wl_om9G8ZkryFeV5kKA&s" group-title="Bangladeshi", Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/1/deepto-tv-logo-png_seeklogo-513994.png" group-title="Bangladeshi", Deepto TV HD
