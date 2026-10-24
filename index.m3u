@@ -602,11 +602,11 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/ebC033LNf2.png", Animal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
-#EXTINF:-1, group-title="Documentary", Travelxp EU
+#EXTINF:-1 group-title="Documentary", Travelxp EU
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1, group-title="Documentary", Travelxp NZ
+#EXTINF:-1 group-title="Documentary", Travelxp NZ
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1, group-title="Documentary", CGTN Documentary
+#EXTINF:-1 group-title="Documentary", CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
 
