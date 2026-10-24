@@ -170,6 +170,11 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
 #====================Movies=================
+#EXTINF:-1 group-title="Movies", HBO
+https://tvsen5.aynaott.com/MehaSAh6/index.m3u8
+#EXTINF:-1 group-title="Movies", HBO 2
+https://tvsen7.aynaott.com/hbo2/index.m3u8
+
 #EXTINF:-1 group-title="Movies", Originals
 https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
 #EXTINF:-1 group-title="Movies", Cineedge HD
@@ -390,9 +395,9 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06
 
 #===================International News==================
 #EXTINF:-1 group-title="News" tvg-logo="https://www.tbsnews.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/images/2023/10/20/al-jazeera-logo-vector_2.png",Al Jazeera
-https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://cdn-profiles.tunein.com/s292162/images/logod.png",CNN International
-https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+https://tvsen6.aynaott.com/cnn/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://newsblues.com/wp-content/uploads/2024/11/HwdTwNVp_400x400.jpg",NBC News NOW
 https://plex-xumoent-nbcnn-x17gi.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="News",Sky News
@@ -540,6 +545,9 @@ http://124.109.47.101/hls/stream1.m3u8
 #EXTINF:-1 group-title="Travel" Hunt Fish TV (1080p)
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/master.m3u8
 
+#EXTINF:-1 group-title="Travel",TLC HD
+https://tvsen6.aynaott.com/tlc_hd/index.m3u8?e=1784102621&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=032b2c039214b5eb81d1d06aac66a512
+
 
 #==================FM Radio Collection ===========================
 #EXTINF:-1 group-title="FM-Radio" tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/goongoon-hd-sound.png",Radio GoonGoon
@@ -613,5 +621,10 @@ https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 # ─────────── SPORTS───────────
 #EXTINF:-1 group-title="Sports", T Sports
 http://103.151.60.162:2122/play/a030/index.m3u8
+#EXTINF:-1 group-title="Sports", Willow Sports
+https://tvsen5.aynaott.com/willowhd/index.m3u8
+#EXTINF:-1 group-title="Sports", Cricket Gold
+https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1b9208802bbf0cc01f1e8319b0ec633d" group-title="Others",Discover Pikstan
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
