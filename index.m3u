@@ -345,10 +345,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefami
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 group-title="Movies", Tensions TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9db01cea-0af6-4382-b2c6-e23525f6640d/manifest.m3u8
-
 #EXTINF:-1 tvg-id="57" tvg-chno="260" tvg-name="weshort" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/weshort.png" group-title="Movies", Weshort
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea019bed-a45e-4dfe-a452-84f5f2f76ea9/manifest.m3u8
-
 #EXTINF:-1 group-title="Movies", Tabbar Hits
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8
 #EXTINF:-1 group-title="Movies", Encore
@@ -401,6 +399,10 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://cdn-profiles.tunein.com/s292162/images/logod.png",CNN International
 https://tvsen6.aynaott.com/cnn/index.m3u8
+#EXTINF:-1 group-title="News", Press TV Iran
+http://live.presstv.ir/hls/presstv.m3u8
+#EXTINF:-1 group-title="News", CNA News
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://newsblues.com/wp-content/uploads/2024/11/HwdTwNVp_400x400.jpg",NBC News NOW
 https://plex-xumoent-nbcnn-x17gi.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="News",Sky News
@@ -425,10 +427,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="News", DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
-#EXTINF:-1 group-title="News", Press TV Iran
-http://live.presstv.ir/hls/presstv.m3u8
-#EXTINF:-1 group-title="News", CNA News
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="News", Russian TV News [Russian]
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 group-title="News", TRT WORLD 
@@ -455,7 +453,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Dunya News [Pakistan]
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8
-
 
 #================= Newas India=====================
 #EXTINF:-1 group-title="News India", ABP Ananda
@@ -514,7 +511,6 @@ https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8
 
 
 #=================Travel & Food=============
-
 #EXTINF:-1 group-title="Travel", 4K Travel TV (1080p)
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1 group-title="Travel", SPACE SERIES
@@ -550,7 +546,6 @@ https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/master.m3u8
 #EXTINF:-1 group-title="Travel",TLC HD
 https://tvsen6.aynaott.com/tlc_hd/index.m3u8?e=1784102621&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=032b2c039214b5eb81d1d06aac66a512
 
-
 #==================FM Radio Collection ===========================
 #EXTINF:-1 group-title="FM-Radio" tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/goongoon-hd-sound.png",Radio GoonGoon
 https://audio.streamcast.xyz/radio/8000/radio.mp3
@@ -570,8 +565,6 @@ https://18093.live.streamtheworld.com/NJS_HIN_ESTAAC/HLS/playlist.m3u8
 https://radio.garden/api/ara/content/listen/2Sdk5C58/channel.mp3
 #EXTINF:-1 group-title="FM-Radio",Dhaka FM 90.4
 https://radio.garden/api/ara/content/listen/7MlBWuf6/channel.mp3?1785001149229
-#EXTINF:-1 group-title="FM-Radio",Dhaka FM 90.4 (1)
-https://play.dhakafm904.com/;
 #EXTINF:-1 group-title="FM-Radio", Al Quran Radio
 http://66.45.232.131:9994/;stream.mp3
 
